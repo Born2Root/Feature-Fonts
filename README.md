@@ -1,6 +1,8 @@
 # Feature-Fonts
 On this repository we release some of our font experiments using OpenType Font-Features.
 
+---
+
 ## Friendly Font 😀
 > A s$§t font that is f(%k&!"g censoring himself!
 
@@ -24,6 +26,25 @@ The typeface can be easily adapted via Python.
 - Run `python3 addfeatures.py -o friendly_font.otf friendly_font.otf substitute.fea` to apply it to a font
 - Reload the `friendly_font_demo.html` to see and test the altered font.
 
+---
+
 ## Emoji Font
 Stay tuned, it will be 🥳
+
+---
+
+## Support:
+
+The fonts stored in this repository are provided free of charge.
+If you like the project, we would appreciate your support.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
+
+---
+## Useful Links:
+
+Visit our other Font-Project with focus on speed reading:
+https://github.com/Born2Root/Fast-Font/
+
+
 
