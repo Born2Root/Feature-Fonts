@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            @font-face {
+                font-family: "FriendlyFont";
+                src: url("FriendlyFont.otf") format("opentype");
+            }
+
+            @font-face {
+                font-family: "Roboto";
+                src: url("Roboto-Regular.ttf") format("truetype");
+            }
+
+            .input {
+                font-family: "Roboto";
+            }
+
+            .output {
+                font-family: "FriendlyFont";
+            }
+            .input,
+            .output {
+                border: dashed lightgrey 3px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>safe Font Demo</h1>
+        <h2>Input:</h2>
+        <div contenteditable class="input">
+            This is a fucking interactive butt demo :D
+            <br />
+            <br />
+            Edit this shit!
+        </div>
+
+        <h2>Output:</h2>
+        <div contenteditable class="output">
+            This is a fucking interactive butt demo :D
+            <br />
+            <br />
+            Edit this shit!
+        </div>
+        <script>
+            const input = document.querySelector(".input");
+            const output = document.querySelector(".output");
+            input.addEventListener("input", () => {
+                output.innerHTML = input.innerHTML;
+            });
+            output.addEventListener("input", () => {
+                input.innerHTML = output.innerHTML;
+            });
+        </script>
+    </body>
+</html>
