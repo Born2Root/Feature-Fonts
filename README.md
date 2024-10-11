@@ -1,10 +1,11 @@
 # Feature-Fonts
-On this repository we release some of our font experiments using OpenType Font-Features.
+On this repository we release some of our fun font experiments using OpenType Font-Features.
+Fonts are no serious issue, use them as a playground for your creativity!
 
 ---
 
 ## Friendly Font 😀
-> A s$§t font that is f(%k&!"g censoring himself!
+> A s$§t font that is f(%k&!"g censoring itself!
 
 The "friendly Font" is an self censoring intelligent typeface.
 It automatically removes unfriendly words and replaces them with random characters.
