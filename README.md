@@ -17,7 +17,7 @@ Isn't that cool?
 
 Well, try it out yourself!
 
-[DEMO](https://Born2Root.github.io/Friendly-Font)
+[DEMO](https://born2root.github.io/Feature-Fonts)
 
 ### How to adapt the Font to your swear-words:
 The typeface can be easily adapted via Python.
