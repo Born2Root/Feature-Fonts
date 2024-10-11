@@ -3,25 +3,18 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta
-            name="description"
-            content="The "friendly Font" is an self censoring intelligent typeface."
-        />
-        <meta name="keywords" content="font, reading, censoring, safe, accessibility, free" />
-
+    
         <title>Friendly Font</title>
         <style>
-            @font-face {
-                font-family: "Friendly Font";
-                src: url("friendly_font.otf") format("opentype");
-            }
             html {
                 color: rgb(17, 24, 39);
                 background-color: #f4f7ff;
                 line-height: 1.75rem;
             }
-            p {
-                color: rgb(64, 73, 84);
+            main {
+                max-width: 1000px;
+                margin: auto;
+                padding: 16px;
             }
             section {
                 border-radius: 1.5rem;
@@ -29,10 +22,8 @@
                 box-shadow: rgb(255, 255, 255) 0 0 0 0, rgb(229, 231, 235) 0 0 0 1px,
                     rgba(0, 0, 0, 0) 0 0 0 0;
             }
-            main {
-                max-width: 1000px;
-                margin: auto;
-                padding: 16px;
+            p {
+                color: rgb(64, 73, 84);
             }
             a {
                 color: #4f46e5;
@@ -44,6 +35,10 @@
                 display: flex;
                 justify-content: center;
                 font-weight: bold;
+            }
+            @font-face {
+                font-family: "Friendly Font";
+                src: url("friendly_font.otf") format("opentype");
             }
             @font-face {
                 font-family: "Roboto";
@@ -58,7 +53,6 @@
             .input {
                 font-family: "Roboto";
             }
-
             .output {
                 font-family: "Friendly Font";
                 border: dashed lightgrey 3px;
@@ -66,12 +60,29 @@
         </style>
     </head>
     <body>
+        <main>
         <header>
             <a href="https://github.com/Born2Root/Feature-Fonts">Source Code</a>
         </header>
 
-        <section>
         <h1>Feature Font</h1>
+        
+        <section>
+         <a href="https://github.com/Born2Root/Fast-Font" class="badge">
+                    <img
+                        loading="lazy"
+                        src="https://img.shields.io/badge/Open-%20Source-green"
+                        alt="opensource github"
+                    />
+                </a>
+                <a href="https://www.buymeacoffee.com/born2root" class="badge">
+                    <img
+                        loading="lazy"
+                        height="20"
+                        src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+                        alt="Buy Me A Coffee"
+                    />
+                </a>
          <br />
         <h1>Friendly Font - Demo</h1>
 
@@ -113,11 +124,18 @@
             Feel free to ask questions,
             <a href="https://github.com/Born2Root/Fast-Font/issues">answer issues</a> and
             <a href="https://github.com/Born2Root/Fast-Font/pulls">create pull</a> requests.
-
+            <br />
             If you like our projects, we would appreciate your support.
-            <a <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" /> href="https://www.buymeacoffee.com/born2root">Buy Me A Coffee</a>
+             <a href="https://www.buymeacoffee.com/born2root" class="badge">
+                    <img
+                        loading="lazy"
+                        height="20"
+                        src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"
+                        alt="Buy Me A Coffee"
+                    />
+                </a>
         </p>
-        </section>
+                
         <script>
             const input = document.querySelector(".input");
             const output = document.querySelector(".output");
@@ -128,5 +146,7 @@
                 input.innerHTML = output.innerHTML;
             });
         </script>
+            </section>
+        </main>
     </body>
 </html>
