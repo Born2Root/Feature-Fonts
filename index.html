@@ -1,17 +1,60 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
+         <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="The "friendly Font" is an self censoring intelligent typeface."
+        />
+        <meta name="keywords" content="font, reading, censoring, safe, accessibility, free" />
+
+        <title>Friendly Font</title>
         <style>
             @font-face {
                 font-family: "Friendly Font";
                 src: url("friendly_font.otf") format("opentype");
             }
-
+            html {
+                color: rgb(17, 24, 39);
+                background-color: #f4f7ff;
+                line-height: 1.75rem;
+            }
+            p {
+                color: rgb(64, 73, 84);
+            }
+            section {
+                border-radius: 1.5rem;
+                padding: 46px;
+                box-shadow: rgb(255, 255, 255) 0 0 0 0, rgb(229, 231, 235) 0 0 0 1px,
+                    rgba(0, 0, 0, 0) 0 0 0 0;
+            }
+            main {
+                max-width: 1000px;
+                margin: auto;
+                padding: 16px;
+            }
+            a {
+                color: #4f46e5;
+            }
+            .badge {
+                text-decoration: none;
+            }
+            header {
+                display: flex;
+                justify-content: center;
+                font-weight: bold;
+            }
             @font-face {
                 font-family: "Roboto";
                 src: url("Roboto-Regular.ttf") format("truetype");
             }
-
+            h2:first-of-type {
+                margin-top: 8px;
+            }
+            h2 {
+                margin-top: 64px;
+            }
             .input {
                 font-family: "Roboto";
             }
@@ -26,7 +69,20 @@
         </style>
     </head>
     <body>
-        <h1>safe Font Demo</h1>
+        <header>
+            <a href="https://github.com/Born2Root/Feature-Fonts">Source Code</a>
+        </header>
+        
+        <h1>Feature Font</h1>
+         <br />
+        <h1>Friendly Font - Demo</h1>
+
+        <h2>What is this font?</h2>
+            <p>
+            The "friendly Font" is an self censoring intelligent typeface. It automatically removes unfriendly words and replaces them with random characters.
+            The user sees the censored version, but underlying the real uncensored text is still available.
+            </p>
+
         <h2>Input:</h2>
         <div contenteditable class="input">
             This is a fucking interactive butt demo :D
@@ -42,6 +98,28 @@
             <br />
             Edit this shit!
         </div>
+
+        <h2>How to use?</h2>
+        <p>
+            In the
+            <a href="https://github.com/Born2Root/Fast-Font">README of the repository</a>
+            you can find examples on how to use the font on several applications supporting
+            OpenType font features.<br />
+            Also you can read on how the font was made and how you can create your own font
+            in the same style.
+        </p>
+
+        <h2>Contribute?</h2>
+        <p>
+            YES please ❤️!<br />
+            Feel free to ask questions,
+            <a href="https://github.com/Born2Root/Fast-Font/issues">answer issues</a> and
+            <a href="https://github.com/Born2Root/Fast-Font/pulls">create pull</a> requests.
+
+            If you like our projects, we would appreciate your support.
+            [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
+        </p>
+        
         <script>
             const input = document.querySelector(".input");
             const output = document.querySelector(".output");
