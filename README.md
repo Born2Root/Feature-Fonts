@@ -10,6 +10,11 @@ Fonts are no serious issue, use them as a playground for your creativity!
 
 ## Friendly Font
 
+> A s$§t font that is f(%k&!"g censoring itself!
+
+The "friendly Font" is an self censoring intelligent typeface.
+It automatically removes unfriendly words and replaces them with random characters.
+
 [![Friendly Font demo](friendly_font_demo.png)](./friendly_font/README.md)
 
 [README](./friendly_font/README.md)
@@ -18,6 +23,10 @@ Fonts are no serious issue, use them as a playground for your creativity!
 
 ## Emoji Font
 
+> A font that transforms your written emojis into real ones 👍!
+
+The "emoji Font" translates your written emojis :smile: into the corresponding emoji 😄 
+
 [![Emoji Font demo](emoji_font_demo.png)](./emoji_font/README.md)
 
 [README](./emoji_font/README.md)
@@ -25,6 +34,8 @@ Fonts are no serious issue, use them as a playground for your creativity!
 ---
 
 ## Icon Font
+
+The "icon Font" works like the emoji font, just for black & white icons. 
 
 [![Icon Font demo](icon_font_demo.png)](./icon_font/README.md)
 
