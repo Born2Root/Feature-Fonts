@@ -1,0 +1,1721 @@
+feature calt {
+  # replace GlobalNavigationButton
+  sub colon' G' l' o' b' a' l' N' a' v' i' g' a' t' i' o' n' B' u' t' t' o' n' colon' by uniE700;
+
+  # replace Wifi
+  sub colon' W' i' f' i' colon' by uniE701;
+
+  # replace Bluetooth
+  sub colon' B' l' u' e' t' o' o' t' h' colon' by uniE702;
+
+  # replace Connect
+  sub colon' C' o' n' n' e' c' t' colon' by uniE703;
+
+  # replace InternetSharing
+  sub colon' I' n' t' e' r' n' e' t' S' h' a' r' i' n' g' colon' by uniE704;
+
+  # replace VPN
+  sub colon' V' P' N' colon' by uniE705;
+
+  # replace Brightness
+  sub colon' B' r' i' g' h' t' n' e' s' s' colon' by uniE706;
+
+  # replace MapPin
+  sub colon' M' a' p' P' i' n' colon' by uniE1C4;
+
+  # replace QuietHours
+  sub colon' Q' u' i' e' t' H' o' u' r' s' colon' by uniE708;
+
+  # replace Airplane
+  sub colon' A' i' r' p' l' a' n' e' colon' by uniE709;
+
+  # replace Tablet
+  sub colon' T' a' b' l' e' t' colon' by uniE70A;
+
+  # replace QuickNote
+  sub colon' Q' u' i' c' k' N' o' t' e' colon' by uniE70B;
+
+  # replace RememberedDevice
+  sub colon' R' e' m' e' m' b' e' r' e' d' D' e' v' i' c' e' colon' by uniE70C;
+
+  # replace ChevronDown
+  sub colon' C' h' e' v' r' o' n' D' o' w' n' colon' by uniE011;
+
+  # replace ChevronUp
+  sub colon' C' h' e' v' r' o' n' U' p' colon' by uniE010;
+
+  # replace Edit
+  sub colon' E' d' i' t' colon' by uniE104;
+
+  # replace Add
+  sub colon' A' d' d' colon' by uniE109;
+
+  # replace Cancel
+  sub colon' C' a' n' c' e' l' colon' by uniE10A;
+
+  # replace More
+  sub colon' M' o' r' e' colon' by uniE10C;
+
+  # replace Setting
+  sub colon' S' e' t' t' i' n' g' colon' by uniE115;
+
+  # replace Video
+  sub colon' V' i' d' e' o' colon' by uniE116;
+
+  # replace Mail
+  sub colon' M' a' i' l' colon' by uniE119;
+
+  # replace People
+  sub colon' P' e' o' p' l' e' colon' by uniE125;
+
+  # replace Phone
+  sub colon' P' h' o' n' e' colon' by uniE13A;
+
+  # replace Pin
+  sub colon' P' i' n' colon' by uniE141;
+
+  # replace Shop
+  sub colon' S' h' o' p' colon' by uniE14D;
+
+  # replace Stop
+  sub colon' S' t' o' p' colon' by uniE15B;
+
+  # replace Link
+  sub colon' L' i' n' k' colon' by uniE167;
+
+  # replace Filter
+  sub colon' F' i' l' t' e' r' colon' by uniE16E;
+
+  # replace AllApps
+  sub colon' A' l' l' A' p' p' s' colon' by uniE179;
+
+  # replace Zoom
+  sub colon' Z' o' o' m' colon' by uniE1A3;
+
+  # replace ZoomOut
+  sub colon' Z' o' o' m' O' u' t' colon' by uniE1A4;
+
+  # replace Microphone
+  sub colon' M' i' c' r' o' p' h' o' n' e' colon' by uniE1D6;
+
+  # replace Search
+  sub colon' S' e' a' r' c' h' colon' by uniE094;
+
+  # replace Camera
+  sub colon' C' a' m' e' r' a' colon' by uniE114;
+
+  # replace Attach
+  sub colon' A' t' t' a' c' h' colon' by uniE16C;
+
+  # replace Send
+  sub colon' S' e' n' d' colon' by uniE122;
+
+  # replace SendFill
+  sub colon' S' e' n' d' F' i' l' l' colon' by uniE725;
+
+  # replace WalkSolid
+  sub colon' W' a' l' k' S' o' l' i' d' colon' by uniE726;
+
+  # replace InPrivate
+  sub colon' I' n' P' r' i' v' a' t' e' colon' by uniE727;
+
+  # replace FavoriteList
+  sub colon' F' a' v' o' r' i' t' e' L' i' s' t' colon' by uniE728;
+
+  # replace PageSolid
+  sub colon' P' a' g' e' S' o' l' i' d' colon' by uniE132;
+
+  # replace Forward
+  sub colon' F' o' r' w' a' r' d' colon' by uniE0AB;
+
+  # replace Back
+  sub colon' B' a' c' k' colon' by uniE0A6;
+
+  # replace Refresh
+  sub colon' R' e' f' r' e' s' h' colon' by uniE149;
+
+  # replace Share
+  sub colon' S' h' a' r' e' colon' by uniE72D;
+
+  # replace Lock
+  sub colon' L' o' c' k' colon' by uniE1F6;
+
+  # replace ReportHacked
+  sub colon' R' e' p' o' r' t' H' a' c' k' e' d' colon' by uniE1DE;
+
+  # replace EMI
+  sub colon' E' M' I' colon' by uniE731;
+
+  # replace FavoriteStar
+  sub colon' F' a' v' o' r' i' t' e' S' t' a' r' colon' by uniE1CE;
+
+  # replace FavoriteStarFill
+  sub colon' F' a' v' o' r' i' t' e' S' t' a' r' F' i' l' l' colon' by uniE00A;
+
+  # replace Favicon
+  sub colon' F' a' v' i' c' o' n' colon' by uniE737;
+
+  # replace Remove
+  sub colon' R' e' m' o' v' e' colon' by uniE108;
+
+  # replace Checkbox
+  sub colon' C' h' e' c' k' b' o' x' colon' by uniE003;
+
+  # replace CheckboxComposite
+  sub colon' C' h' e' c' k' b' o' x' C' o' m' p' o' s' i' t' e' colon' by uniE0A2;
+
+  # replace CheckboxFill
+  sub colon' C' h' e' c' k' b' o' x' F' i' l' l' colon' by uniE002;
+
+  # replace CheckboxIndeterminate
+  sub colon' C' h' e' c' k' b' o' x' I' n' d' e' t' e' r' m' i' n' a' t' e' colon' by uniE004;
+
+  # replace CheckboxCompositeReversed
+  sub colon' C' h' e' c' k' b' o' x' C' o' m' p' o' s' i' t' e' R' e' v' e' r' s' e' d' colon' by uniE005;
+
+  # replace CheckMark
+  sub colon' C' h' e' c' k' M' a' r' k' colon' by uniE001;
+
+  # replace BackToWindow
+  sub colon' B' a' c' k' T' o' W' i' n' d' o' w' colon' by uniE1D8;
+
+  # replace FullScreen
+  sub colon' F' u' l' l' S' c' r' e' e' n' colon' by uniE1D9;
+
+  # replace ResizeTouchLarger
+  sub colon' R' e' s' i' z' e' T' o' u' c' h' L' a' r' g' e' r' colon' by uniE741;
+
+  # replace ResizeTouchSmaller
+  sub colon' R' e' s' i' z' e' T' o' u' c' h' S' m' a' l' l' e' r' colon' by uniE742;
+
+  # replace ResizeMouseSmall
+  sub colon' R' e' s' i' z' e' M' o' u' s' e' S' m' a' l' l' colon' by uniE743;
+
+  # replace ResizeMouseMedium
+  sub colon' R' e' s' i' z' e' M' o' u' s' e' M' e' d' i' u' m' colon' by uniE744;
+
+  # replace ResizeMouseWide
+  sub colon' R' e' s' i' z' e' M' o' u' s' e' W' i' d' e' colon' by uniE745;
+
+  # replace ResizeMouseTall
+  sub colon' R' e' s' i' z' e' M' o' u' s' e' T' a' l' l' colon' by uniE746;
+
+  # replace ResizeMouseLarge
+  sub colon' R' e' s' i' z' e' M' o' u' s' e' L' a' r' g' e' colon' by uniE747;
+
+  # replace SwitchUser
+  sub colon' S' w' i' t' c' h' U' s' e' r' colon' by uniE748;
+
+  # replace Print
+  sub colon' P' r' i' n' t' colon' by uniE2F6;
+
+  # replace Up
+  sub colon' U' p' colon' by uniE110;
+
+  # replace Down
+  sub colon' D' o' w' n' colon' by uniE1FD;
+
+  # replace OEM
+  sub colon' O' E' M' colon' by uniE74C;
+
+  # replace Delete
+  sub colon' D' e' l' e' t' e' colon' by uniE107;
+
+  # replace Save
+  sub colon' S' a' v' e' colon' by uniE105;
+
+  # replace Mute
+  sub colon' M' u' t' e' colon' by uniE198;
+
+  # replace BackSpaceQWERTY
+  sub colon' B' a' c' k' S' p' a' c' e' Q' W' E' R' T' Y' colon' by uniE750;
+
+  # replace ReturnKey
+  sub colon' R' e' t' u' r' n' K' e' y' colon' by uniE751;
+
+  # replace UpArrowShiftKey
+  sub colon' U' p' A' r' r' o' w' S' h' i' f' t' K' e' y' colon' by uniE752;
+
+  # replace Cloud
+  sub colon' C' l' o' u' d' colon' by uniE753;
+
+  # replace Flashlight
+  sub colon' F' l' a' s' h' l' i' g' h' t' colon' by uniE754;
+
+  # replace RotationLock
+  sub colon' R' o' t' a' t' i' o' n' L' o' c' k' colon' by uniE755;
+
+  # replace CommandPrompt
+  sub colon' C' o' m' m' a' n' d' P' r' o' m' p' t' colon' by uniE756;
+
+  # replace SIPMove
+  sub colon' S' I' P' M' o' v' e' colon' by uniE759;
+
+  # replace SIPUndock
+  sub colon' S' I' P' U' n' d' o' c' k' colon' by uniE75A;
+
+  # replace SIPRedock
+  sub colon' S' I' P' R' e' d' o' c' k' colon' by uniE75B;
+
+  # replace EraseTool
+  sub colon' E' r' a' s' e' T' o' o' l' colon' by uniE75C;
+
+  # replace UnderscoreSpace
+  sub colon' U' n' d' e' r' s' c' o' r' e' S' p' a' c' e' colon' by uniE75D;
+
+  # replace GripperTool
+  sub colon' G' r' i' p' p' e' r' T' o' o' l' colon' by uniE75E;
+
+  # replace Dialpad
+  sub colon' D' i' a' l' p' a' d' colon' by uniE75F;
+
+  # replace PageLeft
+  sub colon' P' a' g' e' L' e' f' t' colon' by uniE760;
+
+  # replace PageRight
+  sub colon' P' a' g' e' R' i' g' h' t' colon' by uniE761;
+
+  # replace MultiSelect
+  sub colon' M' u' l' t' i' S' e' l' e' c' t' colon' by uniE133;
+
+  # replace KeyboardLeftHanded
+  sub colon' K' e' y' b' o' a' r' d' L' e' f' t' H' a' n' d' e' d' colon' by uniE763;
+
+  # replace KeyboardRightHanded
+  sub colon' K' e' y' b' o' a' r' d' R' i' g' h' t' H' a' n' d' e' d' colon' by uniE764;
+
+  # replace KeyboardClassic
+  sub colon' K' e' y' b' o' a' r' d' C' l' a' s' s' i' c' colon' by uniE144;
+
+  # replace KeyboardSplit
+  sub colon' K' e' y' b' o' a' r' d' S' p' l' i' t' colon' by uniE08F;
+
+  # replace Volume
+  sub colon' V' o' l' u' m' e' colon' by uniE15D;
+
+  # replace Play
+  sub colon' P' l' a' y' colon' by uniE102;
+
+  # replace Pause
+  sub colon' P' a' u' s' e' colon' by uniE103;
+
+  # replace ChevronLeft
+  sub colon' C' h' e' v' r' o' n' L' e' f' t' colon' by uniE00E;
+
+  # replace ChevronRight
+  sub colon' C' h' e' v' r' o' n' R' i' g' h' t' colon' by uniE00F;
+
+  # replace InkingTool
+  sub colon' I' n' k' i' n' g' T' o' o' l' colon' by uniE76D;
+
+  # replace Emoji2
+  sub colon' E' m' o' j' i' two' colon' by uniE170;
+
+  # replace GripperBarHorizontal
+  sub colon' G' r' i' p' p' e' r' B' a' r' H' o' r' i' z' o' n' t' a' l' colon' by uniE76F;
+
+  # replace System
+  sub colon' S' y' s' t' e' m' colon' by uniE770;
+
+  # replace Personalize
+  sub colon' P' e' r' s' o' n' a' l' i' z' e' colon' by uniE771;
+
+  # replace Devices
+  sub colon' D' e' v' i' c' e' s' colon' by uniE772;
+
+  # replace SearchAndApps
+  sub colon' S' e' a' r' c' h' A' n' d' A' p' p' s' colon' by uniE773;
+
+  # replace Globe
+  sub colon' G' l' o' b' e' colon' by uniE12B;
+
+  # replace TimeLanguage
+  sub colon' T' i' m' e' L' a' n' g' u' a' g' e' colon' by uniE775;
+
+  # replace EaseOfAccess
+  sub colon' E' a' s' e' O' f' A' c' c' e' s' s' colon' by uniE07F;
+
+  # replace UpdateRestore
+  sub colon' U' p' d' a' t' e' R' e' s' t' o' r' e' colon' by uniE777;
+
+  # replace HangUp
+  sub colon' H' a' n' g' U' p' colon' by uniE137;
+
+  # replace ContactInfo
+  sub colon' C' o' n' t' a' c' t' I' n' f' o' colon' by uniE136;
+
+  # replace Unpin
+  sub colon' U' n' p' i' n' colon' by uniE196;
+
+  # replace Contact
+  sub colon' C' o' n' t' a' c' t' colon' by uniE13D;
+
+  # replace Memo
+  sub colon' M' e' m' o' colon' by uniE1D5;
+
+  # replace Paste
+  sub colon' P' a' s' t' e' colon' by uniE16D;
+
+  # replace PhoneBook
+  sub colon' P' h' o' n' e' B' o' o' k' colon' by uniE1D4;
+
+  # replace LEDLight
+  sub colon' L' E' D' L' i' g' h' t' colon' by uniE781;
+
+  # replace Error
+  sub colon' E' r' r' o' r' colon' by uniE783;
+
+  # replace GripperBarVertical
+  sub colon' G' r' i' p' p' e' r' B' a' r' V' e' r' t' i' c' a' l' colon' by uniE784;
+
+  # replace Unlock
+  sub colon' U' n' l' o' c' k' colon' by uniE1F7;
+
+  # replace Slideshow
+  sub colon' S' l' i' d' e' s' h' o' w' colon' by uniE173;
+
+  # replace Calendar
+  sub colon' C' a' l' e' n' d' a' r' colon' by uniE163;
+
+  # replace GripperResize
+  sub colon' G' r' i' p' p' e' r' R' e' s' i' z' e' colon' by uniE788;
+
+  # replace Megaphone
+  sub colon' M' e' g' a' p' h' o' n' e' colon' by uniE789;
+
+  # replace Trim
+  sub colon' T' r' i' m' colon' by uniE12C;
+
+  # replace NewWindow
+  sub colon' N' e' w' W' i' n' d' o' w' colon' by uniE17C;
+
+  # replace SaveLocal
+  sub colon' S' a' v' e' L' o' c' a' l' colon' by uniE159;
+
+  # replace Color
+  sub colon' C' o' l' o' r' colon' by uniE2B1;
+
+  # replace DataSense
+  sub colon' D' a' t' a' S' e' n' s' e' colon' by uniE791;
+
+  # replace SaveAs
+  sub colon' S' a' v' e' A' s' colon' by uniE28F;
+
+  # replace Light
+  sub colon' L' i' g' h' t' colon' by uniE793;
+
+  # replace AspectRatio
+  sub colon' A' s' p' e' c' t' R' a' t' i' o' colon' by uniE799;
+
+  # replace DataSenseBar
+  sub colon' D' a' t' a' S' e' n' s' e' B' a' r' colon' by uniE7A5;
+
+  # replace Redo
+  sub colon' R' e' d' o' colon' by uniE10D;
+
+  # replace Undo
+  sub colon' U' n' d' o' colon' by uniE10E;
+
+  # replace Crop
+  sub colon' C' r' o' p' colon' by uniE123;
+
+  # replace OpenWith
+  sub colon' O' p' e' n' W' i' t' h' colon' by uniE17D;
+
+  # replace Rotate
+  sub colon' R' o' t' a' t' e' colon' by uniE7AD;
+
+  # replace SetlockScreen
+  sub colon' S' e' t' l' o' c' k' S' c' r' e' e' n' colon' by uniE18C;
+
+  # replace MapPin2
+  sub colon' M' a' p' P' i' n' two' colon' by uniE139;
+
+  # replace Package
+  sub colon' P' a' c' k' a' g' e' colon' by uniE7B8;
+
+  # replace Warning
+  sub colon' W' a' r' n' i' n' g' colon' by uniE7BA;
+
+  # replace ReadingList
+  sub colon' R' e' a' d' i' n' g' L' i' s' t' colon' by uniE7BC;
+
+  # replace Education
+  sub colon' E' d' u' c' a' t' i' o' n' colon' by uniE7BE;
+
+  # replace ShoppingCart
+  sub colon' S' h' o' p' p' i' n' g' C' a' r' t' colon' by uniE7BF;
+
+  # replace Train
+  sub colon' T' r' a' i' n' colon' by uniE7C0;
+
+  # replace Flag
+  sub colon' F' l' a' g' colon' by uniE129;
+
+  # replace Page
+  sub colon' P' a' g' e' colon' by uniE160;
+
+  # replace TaskView
+  sub colon' T' a' s' k' V' i' e' w' colon' by uniE7C4;
+
+  # replace BrowsePhotos
+  sub colon' B' r' o' w' s' e' P' h' o' t' o' s' colon' by uniE155;
+
+  # replace HalfStarLeft
+  sub colon' H' a' l' f' S' t' a' r' L' e' f' t' colon' by uniE7C6;
+
+  # replace HalfStarRight
+  sub colon' H' a' l' f' S' t' a' r' R' i' g' h' t' colon' by uniE7C7;
+
+  # replace Record
+  sub colon' R' e' c' o' r' d' colon' by uniE1F5;
+
+  # replace TouchPointer
+  sub colon' T' o' u' c' h' P' o' i' n' t' e' r' colon' by uniE1E3;
+
+  # replace LangJPN
+  sub colon' L' a' n' g' J' P' N' colon' by uniE7DE;
+
+  # replace Ferry
+  sub colon' F' e' r' r' y' colon' by uniE7E3;
+
+  # replace Highlight
+  sub colon' H' i' g' h' l' i' g' h' t' colon' by uniE193;
+
+  # replace ActionCenterNotification
+  sub colon' A' c' t' i' o' n' C' e' n' t' e' r' N' o' t' i' f' i' c' a' t' i' o' n' colon' by uniE7E7;
+
+  # replace PowerButton
+  sub colon' P' o' w' e' r' B' u' t' t' o' n' colon' by uniE7E8;
+
+  # replace ResizeTouchNarrower
+  sub colon' R' e' s' i' z' e' T' o' u' c' h' N' a' r' r' o' w' e' r' colon' by uniE7EA;
+
+  # replace ResizeTouchShorter
+  sub colon' R' e' s' i' z' e' T' o' u' c' h' S' h' o' r' t' e' r' colon' by uniE7EB;
+
+  # replace DrivingMode
+  sub colon' D' r' i' v' i' n' g' M' o' d' e' colon' by uniE7EC;
+
+  # replace RingerSilent
+  sub colon' R' i' n' g' e' r' S' i' l' e' n' t' colon' by uniE7ED;
+
+  # replace OtherUser
+  sub colon' O' t' h' e' r' U' s' e' r' colon' by uniE1A6;
+
+  # replace Admin
+  sub colon' A' d' m' i' n' colon' by uniE1A7;
+
+  # replace CC
+  sub colon' C' C' colon' by uniE190;
+
+  # replace SDCard
+  sub colon' S' D' C' a' r' d' colon' by uniE7F1;
+
+  # replace CallForwarding
+  sub colon' C' a' l' l' F' o' r' w' a' r' d' i' n' g' colon' by uniE7F2;
+
+  # replace SettingsDisplaySound
+  sub colon' S' e' t' t' i' n' g' s' D' i' s' p' l' a' y' S' o' u' n' d' colon' by uniE7F3;
+
+  # replace TVMonitor
+  sub colon' T' V' M' o' n' i' t' o' r' colon' by uniE7F4;
+
+  # replace Speakers
+  sub colon' S' p' e' a' k' e' r' s' colon' by uniE7F5;
+
+  # replace Headphone
+  sub colon' H' e' a' d' p' h' o' n' e' colon' by uniE7F6;
+
+  # replace DeviceLaptopPic
+  sub colon' D' e' v' i' c' e' L' a' p' t' o' p' P' i' c' colon' by uniE7F7;
+
+  # replace DeviceLaptopNoPic
+  sub colon' D' e' v' i' c' e' L' a' p' t' o' p' N' o' P' i' c' colon' by uniE7F8;
+
+  # replace DeviceMonitorRightPic
+  sub colon' D' e' v' i' c' e' M' o' n' i' t' o' r' R' i' g' h' t' P' i' c' colon' by uniE7F9;
+
+  # replace DeviceMonitorLeftPic
+  sub colon' D' e' v' i' c' e' M' o' n' i' t' o' r' L' e' f' t' P' i' c' colon' by uniE7FA;
+
+  # replace DeviceMonitorNoPic
+  sub colon' D' e' v' i' c' e' M' o' n' i' t' o' r' N' o' P' i' c' colon' by uniE7FB;
+
+  # replace Game
+  sub colon' G' a' m' e' colon' by uniE7FC;
+
+  # replace HorizontalTabKey
+  sub colon' H' o' r' i' z' o' n' t' a' l' T' a' b' K' e' y' colon' by uniE7FD;
+
+  # replace StreetsideSplitMinimize
+  sub colon' S' t' r' e' e' t' s' i' d' e' S' p' l' i' t' M' i' n' i' m' i' z' e' colon' by uniE802;
+
+  # replace StreetsideSplitExpand
+  sub colon' S' t' r' e' e' t' s' i' d' e' S' p' l' i' t' E' x' p' a' n' d' colon' by uniE803;
+
+  # replace Car
+  sub colon' C' a' r' colon' by uniE7EC;
+
+  # replace Walk
+  sub colon' W' a' l' k' colon' by uniE805;
+
+  # replace Bus
+  sub colon' B' u' s' colon' by uniE806;
+
+  # replace TiltUp
+  sub colon' T' i' l' t' U' p' colon' by uniE809;
+
+  # replace TiltDown
+  sub colon' T' i' l' t' D' o' w' n' colon' by uniE80A;
+
+  # replace RotateMapRight
+  sub colon' R' o' t' a' t' e' M' a' p' R' i' g' h' t' colon' by uniE80C;
+
+  # replace RotateMapLeft
+  sub colon' R' o' t' a' t' e' M' a' p' L' e' f' t' colon' by uniE80D;
+
+  # replace Home
+  sub colon' H' o' m' e' colon' by uniE10F;
+
+  # replace ParkingLocation
+  sub colon' P' a' r' k' i' n' g' L' o' c' a' t' i' o' n' colon' by uniE811;
+
+  # replace MapCompassTop
+  sub colon' M' a' p' C' o' m' p' a' s' s' T' o' p' colon' by uniE812;
+
+  # replace MapCompassBottom
+  sub colon' M' a' p' C' o' m' p' a' s' s' B' o' t' t' o' m' colon' by uniE813;
+
+  # replace IncidentTriangle
+  sub colon' I' n' c' i' d' e' n' t' T' r' i' a' n' g' l' e' colon' by uniE814;
+
+  # replace Touch
+  sub colon' T' o' u' c' h' colon' by uniE815;
+
+  # replace MapDirections
+  sub colon' M' a' p' D' i' r' e' c' t' i' o' n' s' colon' by uniE816;
+
+  # replace StartPoint
+  sub colon' S' t' a' r' t' P' o' i' n' t' colon' by uniE819;
+
+  # replace StopPoint
+  sub colon' S' t' o' p' P' o' i' n' t' colon' by uniE81A;
+
+  # replace EndPoint
+  sub colon' E' n' d' P' o' i' n' t' colon' by uniE81B;
+
+  # replace History
+  sub colon' H' i' s' t' o' r' y' colon' by uniE81C;
+
+  # replace Location
+  sub colon' L' o' c' a' t' i' o' n' colon' by uniE1D2;
+
+  # replace MapLayers
+  sub colon' M' a' p' L' a' y' e' r' s' colon' by uniE81E;
+
+  # replace Accident
+  sub colon' A' c' c' i' d' e' n' t' colon' by uniE81F;
+
+  # replace Work
+  sub colon' W' o' r' k' colon' by uniE821;
+
+  # replace Construction
+  sub colon' C' o' n' s' t' r' u' c' t' i' o' n' colon' by uniE822;
+
+  # replace Recent
+  sub colon' R' e' c' e' n' t' colon' by uniE2AD;
+
+  # replace Bank
+  sub colon' B' a' n' k' colon' by uniE825;
+
+  # replace DownloadMap
+  sub colon' D' o' w' n' l' o' a' d' M' a' p' colon' by uniE826;
+
+  # replace InkingToolFill2
+  sub colon' I' n' k' i' n' g' T' o' o' l' F' i' l' l' two' colon' by uniE829;
+
+  # replace HighlightFill2
+  sub colon' H' i' g' h' l' i' g' h' t' F' i' l' l' two' colon' by uniE82A;
+
+  # replace EraseToolFill
+  sub colon' E' r' a' s' e' T' o' o' l' F' i' l' l' colon' by uniE82B;
+
+  # replace EraseToolFill2
+  sub colon' E' r' a' s' e' T' o' o' l' F' i' l' l' two' colon' by uniE82C;
+
+  # replace Dictionary
+  sub colon' D' i' c' t' i' o' n' a' r' y' colon' by uniE82D;
+
+  # replace DictionaryAdd
+  sub colon' D' i' c' t' i' o' n' a' r' y' A' d' d' colon' by uniE82E;
+
+  # replace ToolTip
+  sub colon' T' o' o' l' T' i' p' colon' by uniE82F;
+
+  # replace ChromeBack
+  sub colon' C' h' r' o' m' e' B' a' c' k' colon' by uniE830;
+
+  # replace ProvisioningPackage
+  sub colon' P' r' o' v' i' s' i' o' n' i' n' g' P' a' c' k' a' g' e' colon' by uniE835;
+
+  # replace AddRemoteDevice
+  sub colon' A' d' d' R' e' m' o' t' e' D' e' v' i' c' e' colon' by uniE836;
+
+  # replace FolderOpen
+  sub colon' F' o' l' d' e' r' O' p' e' n' colon' by uniE838;
+
+  # replace Ethernet
+  sub colon' E' t' h' e' r' n' e' t' colon' by uniE839;
+
+  # replace ShareBroadband
+  sub colon' S' h' a' r' e' B' r' o' a' d' b' a' n' d' colon' by uniE83A;
+
+  # replace DirectAccess
+  sub colon' D' i' r' e' c' t' A' c' c' e' s' s' colon' by uniE83B;
+
+  # replace DialUp
+  sub colon' D' i' a' l' U' p' colon' by uniE83C;
+
+  # replace DefenderApp
+  sub colon' D' e' f' e' n' d' e' r' A' p' p' colon' by uniE83D;
+
+  # replace BatteryCharging9
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' nine' colon' by uniE83E;
+
+  # replace Battery10
+  sub colon' B' a' t' t' e' r' y' one' zero' colon' by uniE83F;
+
+  # replace Pinned
+  sub colon' P' i' n' n' e' d' colon' by uniE840;
+
+  # replace PinFill
+  sub colon' P' i' n' F' i' l' l' colon' by uniE841;
+
+  # replace PinnedFill
+  sub colon' P' i' n' n' e' d' F' i' l' l' colon' by uniE842;
+
+  # replace PeriodKey
+  sub colon' P' e' r' i' o' d' K' e' y' colon' by uniE843;
+
+  # replace PuncKey
+  sub colon' P' u' n' c' K' e' y' colon' by uniE844;
+
+  # replace RevToggleKey
+  sub colon' R' e' v' T' o' g' g' l' e' K' e' y' colon' by uniE845;
+
+  # replace RightArrowKeyTime1
+  sub colon' R' i' g' h' t' A' r' r' o' w' K' e' y' T' i' m' e' one' colon' by uniE846;
+
+  # replace RightArrowKeyTime2
+  sub colon' R' i' g' h' t' A' r' r' o' w' K' e' y' T' i' m' e' two' colon' by uniE847;
+
+  # replace LeftQuote
+  sub colon' L' e' f' t' Q' u' o' t' e' colon' by uniE848;
+
+  # replace RightQuote
+  sub colon' R' i' g' h' t' Q' u' o' t' e' colon' by uniE849;
+
+  # replace DownShiftKey
+  sub colon' D' o' w' n' S' h' i' f' t' K' e' y' colon' by uniE84A;
+
+  # replace UpShiftKey
+  sub colon' U' p' S' h' i' f' t' K' e' y' colon' by uniE84B;
+
+  # replace PuncKey0
+  sub colon' P' u' n' c' K' e' y' zero' colon' by uniE84C;
+
+  # replace PuncKeyLeftBottom
+  sub colon' P' u' n' c' K' e' y' L' e' f' t' B' o' t' t' o' m' colon' by uniE84D;
+
+  # replace RightArrowKeyTime3
+  sub colon' R' i' g' h' t' A' r' r' o' w' K' e' y' T' i' m' e' three' colon' by uniE84E;
+
+  # replace RightArrowKeyTime4
+  sub colon' R' i' g' h' t' A' r' r' o' w' K' e' y' T' i' m' e' four' colon' by uniE84F;
+
+  # replace Battery0
+  sub colon' B' a' t' t' e' r' y' zero' colon' by uniE850;
+
+  # replace Battery1
+  sub colon' B' a' t' t' e' r' y' one' colon' by uniE851;
+
+  # replace Battery2
+  sub colon' B' a' t' t' e' r' y' two' colon' by uniE852;
+
+  # replace Battery3
+  sub colon' B' a' t' t' e' r' y' three' colon' by uniE853;
+
+  # replace Battery4
+  sub colon' B' a' t' t' e' r' y' four' colon' by uniE854;
+
+  # replace Battery5
+  sub colon' B' a' t' t' e' r' y' five' colon' by uniE855;
+
+  # replace Battery6
+  sub colon' B' a' t' t' e' r' y' six' colon' by uniE856;
+
+  # replace Battery7
+  sub colon' B' a' t' t' e' r' y' seven' colon' by uniE857;
+
+  # replace Battery8
+  sub colon' B' a' t' t' e' r' y' eight' colon' by uniE858;
+
+  # replace Battery9
+  sub colon' B' a' t' t' e' r' y' nine' colon' by uniE859;
+
+  # replace BatteryCharging0
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' zero' colon' by uniE85A;
+
+  # replace BatteryCharging1
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' one' colon' by uniE85B;
+
+  # replace BatteryCharging2
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' two' colon' by uniE85C;
+
+  # replace BatteryCharging3
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' three' colon' by uniE85D;
+
+  # replace BatteryCharging4
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' four' colon' by uniE85E;
+
+  # replace BatteryCharging5
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' five' colon' by uniE85F;
+
+  # replace BatteryCharging6
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' six' colon' by uniE860;
+
+  # replace BatteryCharging7
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' seven' colon' by uniE861;
+
+  # replace BatteryCharging8
+  sub colon' B' a' t' t' e' r' y' C' h' a' r' g' i' n' g' eight' colon' by uniE862;
+
+  # replace BatterySaver0
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' zero' colon' by uniE863;
+
+  # replace BatterySaver1
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' one' colon' by uniE864;
+
+  # replace BatterySaver2
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' two' colon' by uniE865;
+
+  # replace BatterySaver3
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' three' colon' by uniE866;
+
+  # replace BatterySaver4
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' four' colon' by uniE867;
+
+  # replace BatterySaver5
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' five' colon' by uniE868;
+
+  # replace BatterySaver6
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' six' colon' by uniE869;
+
+  # replace BatterySaver7
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' seven' colon' by uniE86A;
+
+  # replace BatterySaver8
+  sub colon' B' a' t' t' e' r' y' S' a' v' e' r' eight' colon' by uniE86B;
+
+  # replace SignalBars1
+  sub colon' S' i' g' n' a' l' B' a' r' s' one' colon' by uniE86C;
+
+  # replace SignalBars2
+  sub colon' S' i' g' n' a' l' B' a' r' s' two' colon' by uniE86D;
+
+  # replace SignalBars3
+  sub colon' S' i' g' n' a' l' B' a' r' s' three' colon' by uniE86E;
+
+  # replace SignalBars4
+  sub colon' S' i' g' n' a' l' B' a' r' s' four' colon' by uniE86F;
+
+  # replace SignalBars5
+  sub colon' S' i' g' n' a' l' B' a' r' s' five' colon' by uniE870;
+
+  # replace SignalNotConnected
+  sub colon' S' i' g' n' a' l' N' o' t' C' o' n' n' e' c' t' e' d' colon' by uniE871;
+
+  # replace Wifi1
+  sub colon' W' i' f' i' one' colon' by uniE872;
+
+  # replace Wifi2
+  sub colon' W' i' f' i' two' colon' by uniE873;
+
+  # replace Wifi3
+  sub colon' W' i' f' i' three' colon' by uniE874;
+
+  # replace MobSIMLock
+  sub colon' M' o' b' S' I' M' L' o' c' k' colon' by uniE875;
+
+  # replace MobSIMMissing
+  sub colon' M' o' b' S' I' M' M' i' s' s' i' n' g' colon' by uniE876;
+
+  # replace Vibrate
+  sub colon' V' i' b' r' a' t' e' colon' by uniE877;
+
+  # replace RoamingInternational
+  sub colon' R' o' a' m' i' n' g' I' n' t' e' r' n' a' t' i' o' n' a' l' colon' by uniE878;
+
+  # replace RoamingDomestic
+  sub colon' R' o' a' m' i' n' g' D' o' m' e' s' t' i' c' colon' by uniE879;
+
+  # replace CallForwardInternational
+  sub colon' C' a' l' l' F' o' r' w' a' r' d' I' n' t' e' r' n' a' t' i' o' n' a' l' colon' by uniE87A;
+
+  # replace CallForwardRoaming
+  sub colon' C' a' l' l' F' o' r' w' a' r' d' R' o' a' m' i' n' g' colon' by uniE87B;
+
+  # replace JpnRomanji
+  sub colon' J' p' n' R' o' m' a' n' j' i' colon' by uniE87C;
+
+  # replace JpnRomanjiLock
+  sub colon' J' p' n' R' o' m' a' n' j' i' L' o' c' k' colon' by uniE87D;
+
+  # replace JpnRomanjiShift
+  sub colon' J' p' n' R' o' m' a' n' j' i' S' h' i' f' t' colon' by uniE87E;
+
+  # replace JpnRomanjiShiftLock
+  sub colon' J' p' n' R' o' m' a' n' j' i' S' h' i' f' t' L' o' c' k' colon' by uniE87F;
+
+  # replace StatusDataTransfer
+  sub colon' S' t' a' t' u' s' D' a' t' a' T' r' a' n' s' f' e' r' colon' by uniE880;
+
+  # replace StatusDataTransferVPN
+  sub colon' S' t' a' t' u' s' D' a' t' a' T' r' a' n' s' f' e' r' V' P' N' colon' by uniE881;
+
+  # replace StatusDualSIM2
+  sub colon' S' t' a' t' u' s' D' u' a' l' S' I' M' two' colon' by uniE882;
+
+  # replace StatusDualSIM2VPN
+  sub colon' S' t' a' t' u' s' D' u' a' l' S' I' M' two' V' P' N' colon' by uniE883;
+
+  # replace StatusDualSIM1
+  sub colon' S' t' a' t' u' s' D' u' a' l' S' I' M' one' colon' by uniE884;
+
+  # replace StatusDualSIM1VPN
+  sub colon' S' t' a' t' u' s' D' u' a' l' S' I' M' one' V' P' N' colon' by uniE885;
+
+  # replace StatusSGLTE
+  sub colon' S' t' a' t' u' s' S' G' L' T' E' colon' by uniE886;
+
+  # replace StatusSGLTECell
+  sub colon' S' t' a' t' u' s' S' G' L' T' E' C' e' l' l' colon' by uniE887;
+
+  # replace StatusSGLTEDataVPN
+  sub colon' S' t' a' t' u' s' S' G' L' T' E' D' a' t' a' V' P' N' colon' by uniE888;
+
+  # replace StatusVPN
+  sub colon' S' t' a' t' u' s' V' P' N' colon' by uniE889;
+
+  # replace WifiHotspot
+  sub colon' W' i' f' i' H' o' t' s' p' o' t' colon' by uniE88A;
+
+  # replace LanguageKor
+  sub colon' L' a' n' g' u' a' g' e' K' o' r' colon' by uniE88B;
+
+  # replace LanguageCht
+  sub colon' L' a' n' g' u' a' g' e' C' h' t' colon' by uniE88C;
+
+  # replace LanguageChs
+  sub colon' L' a' n' g' u' a' g' e' C' h' s' colon' by uniE88D;
+
+  # replace USB
+  sub colon' U' S' B' colon' by uniE88E;
+
+  # replace InkingToolFill
+  sub colon' I' n' k' i' n' g' T' o' o' l' F' i' l' l' colon' by uniE88F;
+
+  # replace View
+  sub colon' V' i' e' w' colon' by uniE052;
+
+  # replace HighlightFill
+  sub colon' H' i' g' h' l' i' g' h' t' F' i' l' l' colon' by uniE891;
+
+  # replace Previous
+  sub colon' P' r' e' v' i' o' u' s' colon' by uniE100;
+
+  # replace Next
+  sub colon' N' e' x' t' colon' by uniE101;
+
+  # replace Clear
+  sub colon' C' l' e' a' r' colon' by uniE106;
+
+  # replace Sync
+  sub colon' S' y' n' c' colon' by uniE117;
+
+  # replace Download
+  sub colon' D' o' w' n' l' o' a' d' colon' by uniE118;
+
+  # replace Help
+  sub colon' H' e' l' p' colon' by uniE11B;
+
+  # replace Upload
+  sub colon' U' p' l' o' a' d' colon' by uniE11C;
+
+  # replace Emoji
+  sub colon' E' m' o' j' i' colon' by uniE11D;
+
+  # replace TwoPage
+  sub colon' T' w' o' P' a' g' e' colon' by uniE11E;
+
+  # replace LeaveChat
+  sub colon' L' e' a' v' e' C' h' a' t' colon' by uniE11F;
+
+  # replace MailForward
+  sub colon' M' a' i' l' F' o' r' w' a' r' d' colon' by uniE120;
+
+  # replace RotateCamera
+  sub colon' R' o' t' a' t' e' C' a' m' e' r' a' colon' by uniE124;
+
+  # replace ClosePane
+  sub colon' C' l' o' s' e' P' a' n' e' colon' by uniE126;
+
+  # replace OpenPane
+  sub colon' O' p' e' n' P' a' n' e' colon' by uniE127;
+
+  # replace PreviewLink
+  sub colon' P' r' e' v' i' e' w' L' i' n' k' colon' by uniE12A;
+
+  # replace AttachCamera
+  sub colon' A' t' t' a' c' h' C' a' m' e' r' a' colon' by uniE12D;
+
+  # replace ZoomIn
+  sub colon' Z' o' o' m' I' n' colon' by uniE12E;
+
+  # replace Bookmarks
+  sub colon' B' o' o' k' m' a' r' k' s' colon' by uniE12F;
+
+  # replace Document
+  sub colon' D' o' c' u' m' e' n' t' colon' by uniE130;
+
+  # replace ProtectedDocument
+  sub colon' P' r' o' t' e' c' t' e' d' D' o' c' u' m' e' n' t' colon' by uniE131;
+
+  # replace OpenInNewWindow
+  sub colon' O' p' e' n' I' n' N' e' w' W' i' n' d' o' w' colon' by uniE2B4;
+
+  # replace MailFill
+  sub colon' M' a' i' l' F' i' l' l' colon' by uniE135;
+
+  # replace ViewAll
+  sub colon' V' i' e' w' A' l' l' colon' by uniE138;
+
+  # replace VideoChat
+  sub colon' V' i' d' e' o' C' h' a' t' colon' by uniE13B;
+
+  # replace Switch
+  sub colon' S' w' i' t' c' h' colon' by uniE13C;
+
+  # replace Rename
+  sub colon' R' e' n' a' m' e' colon' by uniE13E;
+
+  # replace Go
+  sub colon' G' o' colon' by uniE143;
+
+  # replace SurfaceHub
+  sub colon' S' u' r' f' a' c' e' H' u' b' colon' by uniE8AE;
+
+  # replace Remote
+  sub colon' R' e' m' o' t' e' colon' by uniE148;
+
+  # replace Click
+  sub colon' C' l' i' c' k' colon' by uniE8B0;
+
+  # replace Shuffle
+  sub colon' S' h' u' f' f' l' e' colon' by uniE14B;
+
+  # replace Movies
+  sub colon' M' o' v' i' e' s' colon' by uniE8B2;
+
+  # replace SelectAll
+  sub colon' S' e' l' e' c' t' A' l' l' colon' by uniE14E;
+
+  # replace Orientation
+  sub colon' O' r' i' e' n' t' a' t' i' o' n' colon' by uniE14F;
+
+  # replace Import
+  sub colon' I' m' p' o' r' t' colon' by uniE150;
+
+  # replace ImportAll
+  sub colon' I' m' p' o' r' t' A' l' l' colon' by uniE151;
+
+  # replace Folder
+  sub colon' F' o' l' d' e' r' colon' by uniE8B7;
+
+  # replace Webcam
+  sub colon' W' e' b' c' a' m' colon' by uniE156;
+
+  # replace Picture
+  sub colon' P' i' c' t' u' r' e' colon' by uniE158;
+
+  # replace Caption
+  sub colon' C' a' p' t' i' o' n' colon' by uniE15A;
+
+  # replace ChromeClose
+  sub colon' C' h' r' o' m' e' C' l' o' s' e' colon' by uniE8BB;
+
+  # replace ShowResults
+  sub colon' S' h' o' w' R' e' s' u' l' t' s' colon' by uniE15C;
+
+  # replace Message
+  sub colon' M' e' s' s' a' g' e' colon' by uniE15F;
+
+  # replace Leaf
+  sub colon' L' e' a' f' colon' by uniE8BE;
+
+  # replace CalendarDay
+  sub colon' C' a' l' e' n' d' a' r' D' a' y' colon' by uniE161;
+
+  # replace CalendarWeek
+  sub colon' C' a' l' e' n' d' a' r' W' e' e' k' colon' by uniE162;
+
+  # replace Characters
+  sub colon' C' h' a' r' a' c' t' e' r' s' colon' by uniE164;
+
+  # replace MailReplyAll
+  sub colon' M' a' i' l' R' e' p' l' y' A' l' l' colon' by uniE165;
+
+  # replace Read
+  sub colon' R' e' a' d' colon' by uniE166;
+
+  # replace ShowBcc
+  sub colon' S' h' o' w' B' c' c' colon' by uniE169;
+
+  # replace HideBcc
+  sub colon' H' i' d' e' B' c' c' colon' by uniE16A;
+
+  # replace Cut
+  sub colon' C' u' t' colon' by uniE16B;
+
+  # replace PaymentCard
+  sub colon' P' a' y' m' e' n' t' C' a' r' d' colon' by uniE8C7;
+
+  # replace Copy
+  sub colon' C' o' p' y' colon' by uniE16F;
+
+  # replace Important
+  sub colon' I' m' p' o' r' t' a' n' t' colon' by uniE171;
+
+  # replace MailReply
+  sub colon' M' a' i' l' R' e' p' l' y' colon' by uniE172;
+
+  # replace Sort
+  sub colon' S' o' r' t' colon' by uniE174;
+
+  # replace MobileTablet
+  sub colon' M' o' b' i' l' e' T' a' b' l' e' t' colon' by uniE8CC;
+
+  # replace DisconnectDrive
+  sub colon' D' i' s' c' o' n' n' e' c' t' D' r' i' v' e' colon' by uniE17A;
+
+  # replace MapDrive
+  sub colon' M' a' p' D' r' i' v' e' colon' by uniE17B;
+
+  # replace ContactPresence
+  sub colon' C' o' n' t' a' c' t' P' r' e' s' e' n' c' e' colon' by uniE181;
+
+  # replace Priority
+  sub colon' P' r' i' o' r' i' t' y' colon' by uniE182;
+
+  # replace GotoToday
+  sub colon' G' o' t' o' T' o' d' a' y' colon' by uniE184;
+
+  # replace Font
+  sub colon' F' o' n' t' colon' by uniE185;
+
+  # replace FontColor
+  sub colon' F' o' n' t' C' o' l' o' r' colon' by uniE186;
+
+  # replace Contact2
+  sub colon' C' o' n' t' a' c' t' two' colon' by uniE187;
+
+  # replace FolderFill
+  sub colon' F' o' l' d' e' r' F' i' l' l' colon' by uniE188;
+
+  # replace Audio
+  sub colon' A' u' d' i' o' colon' by uniE189;
+
+  # replace Permissions
+  sub colon' P' e' r' m' i' s' s' i' o' n' s' colon' by uniE192;
+
+  # replace DisableUpdates
+  sub colon' D' i' s' a' b' l' e' U' p' d' a' t' e' s' colon' by uniE194;
+
+  # replace Unfavorite
+  sub colon' U' n' f' a' v' o' r' i' t' e' colon' by uniE195;
+
+  # replace OpenLocal
+  sub colon' O' p' e' n' L' o' c' a' l' colon' by uniE197;
+
+  # replace Italic
+  sub colon' I' t' a' l' i' c' colon' by uniE199;
+
+  # replace Underline
+  sub colon' U' n' d' e' r' l' i' n' e' colon' by uniE19A;
+
+  # replace Bold
+  sub colon' B' o' l' d' colon' by uniE19B;
+
+  # replace MoveToFolder
+  sub colon' M' o' v' e' T' o' F' o' l' d' e' r' colon' by uniE19C;
+
+  # replace LikeDislike
+  sub colon' L' i' k' e' D' i' s' l' i' k' e' colon' by uniE19D;
+
+  # replace Dislike
+  sub colon' D' i' s' l' i' k' e' colon' by uniE19E;
+
+  # replace Like
+  sub colon' L' i' k' e' colon' by uniE19F;
+
+  # replace AlignRight
+  sub colon' A' l' i' g' n' R' i' g' h' t' colon' by uniE1A0;
+
+  # replace AlignCenter
+  sub colon' A' l' i' g' n' C' e' n' t' e' r' colon' by uniE1A1;
+
+  # replace AlignLeft
+  sub colon' A' l' i' g' n' L' e' f' t' colon' by uniE1A2;
+
+  # replace OpenFile
+  sub colon' O' p' e' n' F' i' l' e' colon' by uniE1A5;
+
+  # replace ClearSelection
+  sub colon' C' l' e' a' r' S' e' l' e' c' t' i' o' n' colon' by uniE1C5;
+
+  # replace FontDecrease
+  sub colon' F' o' n' t' D' e' c' r' e' a' s' e' colon' by uniE1C6;
+
+  # replace FontIncrease
+  sub colon' F' o' n' t' I' n' c' r' e' a' s' e' colon' by uniE1C7;
+
+  # replace FontSize
+  sub colon' F' o' n' t' S' i' z' e' colon' by uniE1C8;
+
+  # replace CellPhone
+  sub colon' C' e' l' l' P' h' o' n' e' colon' by uniE1C9;
+
+  # replace Reshare
+  sub colon' R' e' s' h' a' r' e' colon' by uniE1CA;
+
+  # replace Tag
+  sub colon' T' a' g' colon' by uniE1CB;
+
+  # replace RepeatOne
+  sub colon' R' e' p' e' a' t' O' n' e' colon' by uniE1CC;
+
+  # replace RepeatAll
+  sub colon' R' e' p' e' a' t' A' l' l' colon' by uniE1CD;
+
+  # replace Calculator
+  sub colon' C' a' l' c' u' l' a' t' o' r' colon' by uniE1D0;
+
+  # replace Directions
+  sub colon' D' i' r' e' c' t' i' o' n' s' colon' by uniE1D1;
+
+  # replace Library
+  sub colon' L' i' b' r' a' r' y' colon' by uniE1D3;
+
+  # replace ChatBubbles
+  sub colon' C' h' a' t' B' u' b' b' l' e' s' colon' by uniE8F2;
+
+  # replace PostUpdate
+  sub colon' P' o' s' t' U' p' d' a' t' e' colon' by uniE1D7;
+
+  # replace NewFolder
+  sub colon' N' e' w' F' o' l' d' e' r' colon' by uniE1DA;
+
+  # replace CalendarReply
+  sub colon' C' a' l' e' n' d' a' r' R' e' p' l' y' colon' by uniE1DB;
+
+  # replace UnsyncFolder
+  sub colon' U' n' s' y' n' c' F' o' l' d' e' r' colon' by uniE1DD;
+
+  # replace SyncFolder
+  sub colon' S' y' n' c' F' o' l' d' e' r' colon' by uniE1DF;
+
+  # replace BlockContact
+  sub colon' B' l' o' c' k' C' o' n' t' a' c' t' colon' by uniE1E0;
+
+  # replace SwitchApps
+  sub colon' S' w' i' t' c' h' A' p' p' s' colon' by uniE1E1;
+
+  # replace AddFriend
+  sub colon' A' d' d' F' r' i' e' n' d' colon' by uniE1E2;
+
+  # replace Accept
+  sub colon' A' c' c' e' p' t' colon' by uniE081;
+
+  # replace GoToStart
+  sub colon' G' o' T' o' S' t' a' r' t' colon' by uniE1E4;
+
+  # replace BulletedList
+  sub colon' B' u' l' l' e' t' e' d' L' i' s' t' colon' by uniE14C;
+
+  # replace Scan
+  sub colon' S' c' a' n' colon' by uniE294;
+
+  # replace Preview
+  sub colon' P' r' e' v' i' e' w' colon' by uniE295;
+
+  # replace Group
+  sub colon' G' r' o' u' p' colon' by uniE902;
+
+  # replace ZeroBars
+  sub colon' Z' e' r' o' B' a' r' s' colon' by uniE1E5;
+
+  # replace OneBar
+  sub colon' O' n' e' B' a' r' colon' by uniE1E6;
+
+  # replace TwoBars
+  sub colon' T' w' o' B' a' r' s' colon' by uniE1E7;
+
+  # replace ThreeBars
+  sub colon' T' h' r' e' e' B' a' r' s' colon' by uniE1E8;
+
+  # replace FourBars
+  sub colon' F' o' u' r' B' a' r' s' colon' by uniE1E9;
+
+  # replace World
+  sub colon' W' o' r' l' d' colon' by uniE128;
+
+  # replace Comment
+  sub colon' C' o' m' m' e' n' t' colon' by uniE134;
+
+  # replace MusicInfo
+  sub colon' M' u' s' i' c' I' n' f' o' colon' by uniE142;
+
+  # replace DockLeft
+  sub colon' D' o' c' k' L' e' f' t' colon' by uniE145;
+
+  # replace DockRight
+  sub colon' D' o' c' k' R' i' g' h' t' colon' by uniE146;
+
+  # replace DockBottom
+  sub colon' D' o' c' k' B' o' t' t' o' m' colon' by uniE147;
+
+  # replace Repair
+  sub colon' R' e' p' a' i' r' colon' by uniE15E;
+
+  # replace Accounts
+  sub colon' A' c' c' o' u' n' t' s' colon' by uniE168;
+
+  # replace DullSound
+  sub colon' D' u' l' l' S' o' u' n' d' colon' by uniE911;
+
+  # replace Manage
+  sub colon' M' a' n' a' g' e' colon' by uniE178;
+
+  # replace Street
+  sub colon' S' t' r' e' e' t' colon' by uniE1C3;
+
+  # replace Printer3D
+  sub colon' P' r' i' n' t' e' r' three' D' colon' by uniE914;
+
+  # replace RadioBullet
+  sub colon' R' a' d' i' o' B' u' l' l' e' t' colon' by uniE915;
+
+  # replace Stopwatch
+  sub colon' S' t' o' p' w' a' t' c' h' colon' by uniE916;
+
+  # replace Photo
+  sub colon' P' h' o' t' o' colon' by uniE91B;
+
+  # replace ActionCenter
+  sub colon' A' c' t' i' o' n' C' e' n' t' e' r' colon' by uniE91C;
+
+  # replace FullCircleMask
+  sub colon' F' u' l' l' C' i' r' c' l' e' M' a' s' k' colon' by uniE91F;
+
+  # replace ChromeMinimize
+  sub colon' C' h' r' o' m' e' M' i' n' i' m' i' z' e' colon' by uniE921;
+
+  # replace ChromeMaximize
+  sub colon' C' h' r' o' m' e' M' a' x' i' m' i' z' e' colon' by uniE922;
+
+  # replace ChromeRestore
+  sub colon' C' h' r' o' m' e' R' e' s' t' o' r' e' colon' by uniE923;
+
+  # replace Annotation
+  sub colon' A' n' n' o' t' a' t' i' o' n' colon' by uniE924;
+
+  # replace BackSpaceQWERTYSm
+  sub colon' B' a' c' k' S' p' a' c' e' Q' W' E' R' T' Y' S' m' colon' by uniE925;
+
+  # replace BackSpaceQWERTYMd
+  sub colon' B' a' c' k' S' p' a' c' e' Q' W' E' R' T' Y' M' d' colon' by uniE926;
+
+  # replace Swipe
+  sub colon' S' w' i' p' e' colon' by uniE927;
+
+  # replace Fingerprint
+  sub colon' F' i' n' g' e' r' p' r' i' n' t' colon' by uniE928;
+
+  # replace Handwriting
+  sub colon' H' a' n' d' w' r' i' t' i' n' g' colon' by uniE929;
+
+  # replace ChromeBackToWindow
+  sub colon' C' h' r' o' m' e' B' a' c' k' T' o' W' i' n' d' o' w' colon' by uniE92C;
+
+  # replace ChromeFullScreen
+  sub colon' C' h' r' o' m' e' F' u' l' l' S' c' r' e' e' n' colon' by uniE92D;
+
+  # replace KeyboardStandard
+  sub colon' K' e' y' b' o' a' r' d' S' t' a' n' d' a' r' d' colon' by uniE087;
+
+  # replace KeyboardDismiss
+  sub colon' K' e' y' b' o' a' r' d' D' i' s' m' i' s' s' colon' by uniE92F;
+
+  # replace Completed
+  sub colon' C' o' m' p' l' e' t' e' d' colon' by uniE930;
+
+  # replace ChromeAnnotate
+  sub colon' C' h' r' o' m' e' A' n' n' o' t' a' t' e' colon' by uniE931;
+
+  # replace Label
+  sub colon' L' a' b' e' l' colon' by uniE932;
+
+  # replace IBeam
+  sub colon' I' B' e' a' m' colon' by uniE933;
+
+  # replace IBeamOutline
+  sub colon' I' B' e' a' m' O' u' t' l' i' n' e' colon' by uniE934;
+
+  # replace FlickDown
+  sub colon' F' l' i' c' k' D' o' w' n' colon' by uniE935;
+
+  # replace FlickUp
+  sub colon' F' l' i' c' k' U' p' colon' by uniE936;
+
+  # replace FlickLeft
+  sub colon' F' l' i' c' k' L' e' f' t' colon' by uniE937;
+
+  # replace FlickRight
+  sub colon' F' l' i' c' k' R' i' g' h' t' colon' by uniE938;
+
+  # replace FeedbackApp
+  sub colon' F' e' e' d' b' a' c' k' A' p' p' colon' by uniE939;
+
+  # replace MusicAlbum
+  sub colon' M' u' s' i' c' A' l' b' u' m' colon' by uniE93C;
+
+  # replace Streaming
+  sub colon' S' t' r' e' a' m' i' n' g' colon' by uniE93E;
+
+  # replace Code
+  sub colon' C' o' d' e' colon' by uniE943;
+
+  # replace ReturnToWindow
+  sub colon' R' e' t' u' r' n' T' o' W' i' n' d' o' w' colon' by uniE2B3;
+
+  # replace LightningBolt
+  sub colon' L' i' g' h' t' n' i' n' g' B' o' l' t' colon' by uniE945;
+
+  # replace Info
+  sub colon' I' n' f' o' colon' by uniE946;
+
+  # replace CalculatorMultiply
+  sub colon' C' a' l' c' u' l' a' t' o' r' M' u' l' t' i' p' l' y' colon' by uniE947;
+
+  # replace CalculatorAddition
+  sub colon' C' a' l' c' u' l' a' t' o' r' A' d' d' i' t' i' o' n' colon' by uniE948;
+
+  # replace CalculatorSubtract
+  sub colon' C' a' l' c' u' l' a' t' o' r' S' u' b' t' r' a' c' t' colon' by uniE949;
+
+  # replace CalculatorDivide
+  sub colon' C' a' l' c' u' l' a' t' o' r' D' i' v' i' d' e' colon' by uniE94A;
+
+  # replace CalculatorSquareroot
+  sub colon' C' a' l' c' u' l' a' t' o' r' S' q' u' a' r' e' r' o' o' t' colon' by uniE94B;
+
+  # replace CalculatorPercentage
+  sub colon' C' a' l' c' u' l' a' t' o' r' P' e' r' c' e' n' t' a' g' e' colon' by uniE94C;
+
+  # replace CalculatorNegate
+  sub colon' C' a' l' c' u' l' a' t' o' r' N' e' g' a' t' e' colon' by uniE94D;
+
+  # replace CalculatorEqualTo
+  sub colon' C' a' l' c' u' l' a' t' o' r' E' q' u' a' l' T' o' colon' by uniE94E;
+
+  # replace CalculatorBackspace
+  sub colon' C' a' l' c' u' l' a' t' o' r' B' a' c' k' s' p' a' c' e' colon' by uniE94F;
+
+  # replace Component
+  sub colon' C' o' m' p' o' n' e' n' t' colon' by uniE950;
+
+  # replace DMC
+  sub colon' D' M' C' colon' by uniE951;
+
+  # replace Dock
+  sub colon' D' o' c' k' colon' by uniE952;
+
+  # replace MultimediaDMS
+  sub colon' M' u' l' t' i' m' e' d' i' a' D' M' S' colon' by uniE953;
+
+  # replace MultimediaDVR
+  sub colon' M' u' l' t' i' m' e' d' i' a' D' V' R' colon' by uniE954;
+
+  # replace MultimediaPMP
+  sub colon' M' u' l' t' i' m' e' d' i' a' P' M' P' colon' by uniE955;
+
+  # replace PrintfaxPrinterFile
+  sub colon' P' r' i' n' t' f' a' x' P' r' i' n' t' e' r' F' i' l' e' colon' by uniE956;
+
+  # replace Sensor
+  sub colon' S' e' n' s' o' r' colon' by uniE957;
+
+  # replace StorageOptical
+  sub colon' S' t' o' r' a' g' e' O' p' t' i' c' a' l' colon' by uniE958;
+
+  # replace Communications
+  sub colon' C' o' m' m' u' n' i' c' a' t' i' o' n' s' colon' by uniE95A;
+
+  # replace Headset
+  sub colon' H' e' a' d' s' e' t' colon' by uniE95B;
+
+  # replace Projector
+  sub colon' P' r' o' j' e' c' t' o' r' colon' by uniE95D;
+
+  # replace Health
+  sub colon' H' e' a' l' t' h' colon' by uniE95E;
+
+  # replace Webcam2
+  sub colon' W' e' b' c' a' m' two' colon' by uniE960;
+
+  # replace Input
+  sub colon' I' n' p' u' t' colon' by uniE961;
+
+  # replace Mouse
+  sub colon' M' o' u' s' e' colon' by uniE962;
+
+  # replace Smartcard
+  sub colon' S' m' a' r' t' c' a' r' d' colon' by uniE963;
+
+  # replace SmartcardVirtual
+  sub colon' S' m' a' r' t' c' a' r' d' V' i' r' t' u' a' l' colon' by uniE964;
+
+  # replace MediaStorageTower
+  sub colon' M' e' d' i' a' S' t' o' r' a' g' e' T' o' w' e' r' colon' by uniE965;
+
+  # replace ReturnKeySm
+  sub colon' R' e' t' u' r' n' K' e' y' S' m' colon' by uniE966;
+
+  # replace GameConsole
+  sub colon' G' a' m' e' C' o' n' s' o' l' e' colon' by uniE967;
+
+  # replace Network
+  sub colon' N' e' t' w' o' r' k' colon' by uniE968;
+
+  # replace StorageNetworkWireless
+  sub colon' S' t' o' r' a' g' e' N' e' t' w' o' r' k' W' i' r' e' l' e' s' s' colon' by uniE969;
+
+  # replace StorageTape
+  sub colon' S' t' o' r' a' g' e' T' a' p' e' colon' by uniE96A;
+
+  # replace ChevronUpSmall
+  sub colon' C' h' e' v' r' o' n' U' p' S' m' a' l' l' colon' by uniE96D;
+
+  # replace ChevronDownSmall
+  sub colon' C' h' e' v' r' o' n' D' o' w' n' S' m' a' l' l' colon' by uniE228;
+
+  # replace ChevronLeftSmall
+  sub colon' C' h' e' v' r' o' n' L' e' f' t' S' m' a' l' l' colon' by uniE26C;
+
+  # replace ChevronRightSmall
+  sub colon' C' h' e' v' r' o' n' R' i' g' h' t' S' m' a' l' l' colon' by uniE26B;
+
+  # replace ChevronUpMed
+  sub colon' C' h' e' v' r' o' n' U' p' M' e' d' colon' by uniE971;
+
+  # replace ChevronDownMed
+  sub colon' C' h' e' v' r' o' n' D' o' w' n' M' e' d' colon' by uniE972;
+
+  # replace ChevronLeftMed
+  sub colon' C' h' e' v' r' o' n' L' e' f' t' M' e' d' colon' by uniE973;
+
+  # replace ChevronRightMed
+  sub colon' C' h' e' v' r' o' n' R' i' g' h' t' M' e' d' colon' by uniE974;
+
+  # replace Devices2
+  sub colon' D' e' v' i' c' e' s' two' colon' by uniE212;
+
+  # replace ExpandTile
+  sub colon' E' x' p' a' n' d' T' i' l' e' colon' by uniE13F;
+
+  # replace PC1
+  sub colon' P' C' one' colon' by uniE211;
+
+  # replace PresenceChicklet
+  sub colon' P' r' e' s' e' n' c' e' C' h' i' c' k' l' e' t' colon' by uniE25E;
+
+  # replace PresenceChickletVideo
+  sub colon' P' r' e' s' e' n' c' e' C' h' i' c' k' l' e' t' V' i' d' e' o' colon' by uniE25D;
+
+  # replace Reply
+  sub colon' R' e' p' l' y' colon' by uniE248;
+
+  # replace SetTile
+  sub colon' S' e' t' T' i' l' e' colon' by uniE18D;
+
+  # replace Type
+  sub colon' T' y' p' e' colon' by uniE2B0;
+
+  # replace Korean
+  sub colon' K' o' r' e' a' n' colon' by uniE97D;
+
+  # replace HalfAlpha
+  sub colon' H' a' l' f' A' l' p' h' a' colon' by uniE97E;
+
+  # replace FullAlpha
+  sub colon' F' u' l' l' A' l' p' h' a' colon' by uniE97F;
+
+  # replace Key12On
+  sub colon' K' e' y' one' two' O' n' colon' by uniE980;
+
+  # replace ChineseChangjie
+  sub colon' C' h' i' n' e' s' e' C' h' a' n' g' j' i' e' colon' by uniE981;
+
+  # replace QWERTYOn
+  sub colon' Q' W' E' R' T' Y' O' n' colon' by uniE982;
+
+  # replace QWERTYOff
+  sub colon' Q' W' E' R' T' Y' O' f' f' colon' by uniE983;
+
+  # replace ChineseQuick
+  sub colon' C' h' i' n' e' s' e' Q' u' i' c' k' colon' by uniE984;
+
+  # replace Japanese
+  sub colon' J' a' p' a' n' e' s' e' colon' by uniE985;
+
+  # replace FullHiragana
+  sub colon' F' u' l' l' H' i' r' a' g' a' n' a' colon' by uniE986;
+
+  # replace FullKatakana
+  sub colon' F' u' l' l' K' a' t' a' k' a' n' a' colon' by uniE987;
+
+  # replace HalfKatakana
+  sub colon' H' a' l' f' K' a' t' a' k' a' n' a' colon' by uniE988;
+
+  # replace ChineseBoPoMoFo
+  sub colon' C' h' i' n' e' s' e' B' o' P' o' M' o' F' o' colon' by uniE989;
+
+  # replace ChinesePinyin
+  sub colon' C' h' i' n' e' s' e' P' i' n' y' i' n' colon' by uniE98A;
+
+  # replace ConstructionCone
+  sub colon' C' o' n' s' t' r' u' c' t' i' o' n' C' o' n' e' colon' by uniE98F;
+
+  # replace XboxOneConsole
+  sub colon' X' b' o' x' O' n' e' C' o' n' s' o' l' e' colon' by uniE990;
+
+  # replace Volume0
+  sub colon' V' o' l' u' m' e' zero' colon' by uniE992;
+
+  # replace Volume1
+  sub colon' V' o' l' u' m' e' one' colon' by uniE993;
+
+  # replace Volume2
+  sub colon' V' o' l' u' m' e' two' colon' by uniE994;
+
+  # replace Volume3
+  sub colon' V' o' l' u' m' e' three' colon' by uniE995;
+
+  # replace BatteryUnknown
+  sub colon' B' a' t' t' e' r' y' U' n' k' n' o' w' n' colon' by uniE996;
+
+  # replace WifiAttentionOverlay
+  sub colon' W' i' f' i' A' t' t' e' n' t' i' o' n' O' v' e' r' l' a' y' colon' by uniE998;
+
+  # replace Robot
+  sub colon' R' o' b' o' t' colon' by uniE99A;
+
+  # replace TapAndSend
+  sub colon' T' a' p' A' n' d' S' e' n' d' colon' by uniE9A1;
+
+  # replace PasswordKeyShow
+  sub colon' P' a' s' s' w' o' r' d' K' e' y' S' h' o' w' colon' by uniE9A8;
+
+  # replace PasswordKeyHide
+  sub colon' P' a' s' s' w' o' r' d' K' e' y' H' i' d' e' colon' by uniE9A9;
+
+  # replace BidiLtr
+  sub colon' B' i' d' i' L' t' r' colon' by uniE9AA;
+
+  # replace BidiRtl
+  sub colon' B' i' d' i' R' t' l' colon' by uniE9AB;
+
+  # replace ForwardSm
+  sub colon' F' o' r' w' a' r' d' S' m' colon' by uniE9AC;
+
+  # replace CommaKey
+  sub colon' C' o' m' m' a' K' e' y' colon' by uniE9AD;
+
+  # replace DashKey
+  sub colon' D' a' s' h' K' e' y' colon' by uniE9AE;
+
+  # replace DullSoundKey
+  sub colon' D' u' l' l' S' o' u' n' d' K' e' y' colon' by uniE9AF;
+
+  # replace HalfDullSound
+  sub colon' H' a' l' f' D' u' l' l' S' o' u' n' d' colon' by uniE9B0;
+
+  # replace RightDoubleQuote
+  sub colon' R' i' g' h' t' D' o' u' b' l' e' Q' u' o' t' e' colon' by uniE9B1;
+
+  # replace LeftDoubleQuote
+  sub colon' L' e' f' t' D' o' u' b' l' e' Q' u' o' t' e' colon' by uniE9B2;
+
+  # replace PuncKeyRightBottom
+  sub colon' P' u' n' c' K' e' y' R' i' g' h' t' B' o' t' t' o' m' colon' by uniE9B3;
+
+  # replace PuncKey1
+  sub colon' P' u' n' c' K' e' y' one' colon' by uniE9B4;
+
+  # replace PuncKey2
+  sub colon' P' u' n' c' K' e' y' two' colon' by uniE9B5;
+
+  # replace PuncKey3
+  sub colon' P' u' n' c' K' e' y' three' colon' by uniE9B6;
+
+  # replace PuncKey4
+  sub colon' P' u' n' c' K' e' y' four' colon' by uniE9B7;
+
+  # replace PuncKey5
+  sub colon' P' u' n' c' K' e' y' five' colon' by uniE9B8;
+
+  # replace PuncKey6
+  sub colon' P' u' n' c' K' e' y' six' colon' by uniE9B9;
+
+  # replace PuncKey9
+  sub colon' P' u' n' c' K' e' y' nine' colon' by uniE9BA;
+
+  # replace PuncKey7
+  sub colon' P' u' n' c' K' e' y' seven' colon' by uniE9BB;
+
+  # replace PuncKey8
+  sub colon' P' u' n' c' K' e' y' eight' colon' by uniE9BC;
+
+  # replace Frigid
+  sub colon' F' r' i' g' i' d' colon' by uniE9CA;
+
+  # replace AreaChart
+  sub colon' A' r' e' a' C' h' a' r' t' colon' by uniE9D2;
+
+  # replace CheckList
+  sub colon' C' h' e' c' k' L' i' s' t' colon' by uniE9D5;
+
+  # replace Diagnostic
+  sub colon' D' i' a' g' n' o' s' t' i' c' colon' by uniE9D9;
+
+  # replace Process
+  sub colon' P' r' o' c' e' s' s' colon' by uniE9F3;
+
+  # replace Processing
+  sub colon' P' r' o' c' e' s' s' i' n' g' colon' by uniE9F5;
+
+  # replace ReportDocument
+  sub colon' R' e' p' o' r' t' D' o' c' u' m' e' n' t' colon' by uniE9F9;
+
+} calt;

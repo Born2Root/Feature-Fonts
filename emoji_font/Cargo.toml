@@ -1,0 +1,9 @@
+[package]
+name = "emoji_font"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+emojis = "^0.6"
+font-kit = "0.14"
+ttf-parser = "0.25"

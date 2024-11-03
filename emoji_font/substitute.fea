@@ -1,0 +1,5276 @@
+feature calt {
+  # replace grinning face
+  sub colon' g' r' i' n' n' i' n' g' colon' by u1F600;
+
+  # replace grinning face with big eyes
+  sub colon' s' m' i' l' e' y' colon' by u1F603;
+
+  # replace grinning face with smiling eyes
+  sub colon' s' m' i' l' e' colon' by u1F604;
+
+  # replace beaming face with smiling eyes
+  sub colon' g' r' i' n' colon' by u1F601;
+
+  # replace grinning squinting face
+  sub colon' l' a' u' g' h' i' n' g' colon' by u1F606;
+
+  # replace grinning face with sweat
+  sub colon' s' w' e' a' t' underscore' s' m' i' l' e' colon' by u1F605;
+
+  # replace rolling on the floor laughing
+  sub colon' r' o' f' l' colon' by u1F923;
+
+  # replace face with tears of joy
+  sub colon' j' o' y' colon' by u1F602;
+
+  # replace slightly smiling face
+  sub colon' s' l' i' g' h' t' l' y' underscore' s' m' i' l' i' n' g' underscore' f' a' c' e' colon' by u1F642;
+
+  # replace upside-down face
+  sub colon' u' p' s' i' d' e' underscore' d' o' w' n' underscore' f' a' c' e' colon' by u1F643;
+
+  # replace winking face
+  sub colon' w' i' n' k' colon' by u1F609;
+
+  # replace smiling face with smiling eyes
+  sub colon' b' l' u' s' h' colon' by u1F60A;
+
+  # replace smiling face with halo
+  sub colon' i' n' n' o' c' e' n' t' colon' by u1F607;
+
+  # replace smiling face with hearts
+  sub colon' s' m' i' l' i' n' g' underscore' f' a' c' e' underscore' w' i' t' h' underscore' t' h' r' e' e' underscore' h' e' a' r' t' s' colon' by u1F970;
+
+  # replace smiling face with heart-eyes
+  sub colon' h' e' a' r' t' underscore' e' y' e' s' colon' by u1F60D;
+
+  # replace star-struck
+  sub colon' s' t' a' r' underscore' s' t' r' u' c' k' colon' by u1F929;
+
+  # replace face blowing a kiss
+  sub colon' k' i' s' s' i' n' g' underscore' h' e' a' r' t' colon' by u1F618;
+
+  # replace kissing face
+  sub colon' k' i' s' s' i' n' g' colon' by u1F617;
+
+  # replace smiling face
+  sub colon' r' e' l' a' x' e' d' colon' by smileface;
+
+  # replace kissing face with closed eyes
+  sub colon' k' i' s' s' i' n' g' underscore' c' l' o' s' e' d' underscore' e' y' e' s' colon' by u1F61A;
+
+  # replace kissing face with smiling eyes
+  sub colon' k' i' s' s' i' n' g' underscore' s' m' i' l' i' n' g' underscore' e' y' e' s' colon' by u1F619;
+
+  # replace face savoring food
+  sub colon' y' u' m' colon' by u1F60B;
+
+  # replace face with tongue
+  sub colon' s' t' u' c' k' underscore' o' u' t' underscore' t' o' n' g' u' e' colon' by u1F61B;
+
+  # replace winking face with tongue
+  sub colon' s' t' u' c' k' underscore' o' u' t' underscore' t' o' n' g' u' e' underscore' w' i' n' k' i' n' g' underscore' e' y' e' colon' by u1F61C;
+
+  # replace zany face
+  sub colon' z' a' n' y' underscore' f' a' c' e' colon' by u1F92A;
+
+  # replace squinting face with tongue
+  sub colon' s' t' u' c' k' underscore' o' u' t' underscore' t' o' n' g' u' e' underscore' c' l' o' s' e' d' underscore' e' y' e' s' colon' by u1F61D;
+
+  # replace money-mouth face
+  sub colon' m' o' n' e' y' underscore' m' o' u' t' h' underscore' f' a' c' e' colon' by u1F911;
+
+  # replace smiling face with open hands
+  sub colon' h' u' g' s' colon' by u1F917;
+
+  # replace face with hand over mouth
+  sub colon' h' a' n' d' underscore' o' v' e' r' underscore' m' o' u' t' h' colon' by u1F92D;
+
+  # replace shushing face
+  sub colon' s' h' u' s' h' i' n' g' underscore' f' a' c' e' colon' by u1F92B;
+
+  # replace thinking face
+  sub colon' t' h' i' n' k' i' n' g' colon' by u1F914;
+
+  # replace zipper-mouth face
+  sub colon' z' i' p' p' e' r' underscore' m' o' u' t' h' underscore' f' a' c' e' colon' by u1F910;
+
+  # replace face with raised eyebrow
+  sub colon' r' a' i' s' e' d' underscore' e' y' e' b' r' o' w' colon' by u1F928;
+
+  # replace neutral face
+  sub colon' n' e' u' t' r' a' l' underscore' f' a' c' e' colon' by u1F610;
+
+  # replace expressionless face
+  sub colon' e' x' p' r' e' s' s' i' o' n' l' e' s' s' colon' by u1F611;
+
+  # replace face without mouth
+  sub colon' n' o' underscore' m' o' u' t' h' colon' by u1F636;
+
+  # replace face in clouds
+  sub colon' f' a' c' e' underscore' i' n' underscore' c' l' o' u' d' s' colon' by u1F636;
+
+  # replace smirking face
+  sub colon' s' m' i' r' k' colon' by u1F60F;
+
+  # replace unamused face
+  sub colon' u' n' a' m' u' s' e' d' colon' by u1F612;
+
+  # replace face with rolling eyes
+  sub colon' r' o' l' l' underscore' e' y' e' s' colon' by u1F644;
+
+  # replace grimacing face
+  sub colon' g' r' i' m' a' c' i' n' g' colon' by u1F62C;
+
+  # replace face exhaling
+  sub colon' f' a' c' e' underscore' e' x' h' a' l' i' n' g' colon' by u1F62E;
+
+  # replace lying face
+  sub colon' l' y' i' n' g' underscore' f' a' c' e' colon' by u1F925;
+
+  # replace relieved face
+  sub colon' r' e' l' i' e' v' e' d' colon' by u1F60C;
+
+  # replace pensive face
+  sub colon' p' e' n' s' i' v' e' colon' by u1F614;
+
+  # replace sleepy face
+  sub colon' s' l' e' e' p' y' colon' by u1F62A;
+
+  # replace drooling face
+  sub colon' d' r' o' o' l' i' n' g' underscore' f' a' c' e' colon' by u1F924;
+
+  # replace sleeping face
+  sub colon' s' l' e' e' p' i' n' g' colon' by u1F634;
+
+  # replace face with medical mask
+  sub colon' m' a' s' k' colon' by u1F637;
+
+  # replace face with thermometer
+  sub colon' f' a' c' e' underscore' w' i' t' h' underscore' t' h' e' r' m' o' m' e' t' e' r' colon' by u1F912;
+
+  # replace face with head-bandage
+  sub colon' f' a' c' e' underscore' w' i' t' h' underscore' h' e' a' d' underscore' b' a' n' d' a' g' e' colon' by u1F915;
+
+  # replace nauseated face
+  sub colon' n' a' u' s' e' a' t' e' d' underscore' f' a' c' e' colon' by u1F922;
+
+  # replace face vomiting
+  sub colon' v' o' m' i' t' i' n' g' underscore' f' a' c' e' colon' by u1F92E;
+
+  # replace sneezing face
+  sub colon' s' n' e' e' z' i' n' g' underscore' f' a' c' e' colon' by u1F927;
+
+  # replace hot face
+  sub colon' h' o' t' underscore' f' a' c' e' colon' by u1F975;
+
+  # replace cold face
+  sub colon' c' o' l' d' underscore' f' a' c' e' colon' by u1F976;
+
+  # replace woozy face
+  sub colon' w' o' o' z' y' underscore' f' a' c' e' colon' by u1F974;
+
+  # replace face with crossed-out eyes
+  sub colon' d' i' z' z' y' underscore' f' a' c' e' colon' by u1F635;
+
+  # replace face with spiral eyes
+  sub colon' f' a' c' e' underscore' w' i' t' h' underscore' s' p' i' r' a' l' underscore' e' y' e' s' colon' by u1F635;
+
+  # replace exploding head
+  sub colon' e' x' p' l' o' d' i' n' g' underscore' h' e' a' d' colon' by u1F92F;
+
+  # replace cowboy hat face
+  sub colon' c' o' w' b' o' y' underscore' h' a' t' underscore' f' a' c' e' colon' by u1F920;
+
+  # replace partying face
+  sub colon' p' a' r' t' y' i' n' g' underscore' f' a' c' e' colon' by u1F973;
+
+  # replace smiling face with sunglasses
+  sub colon' s' u' n' g' l' a' s' s' e' s' colon' by u1F60E;
+
+  # replace nerd face
+  sub colon' n' e' r' d' underscore' f' a' c' e' colon' by u1F913;
+
+  # replace face with monocle
+  sub colon' m' o' n' o' c' l' e' underscore' f' a' c' e' colon' by u1F9D0;
+
+  # replace confused face
+  sub colon' c' o' n' f' u' s' e' d' colon' by u1F615;
+
+  # replace worried face
+  sub colon' w' o' r' r' i' e' d' colon' by u1F61F;
+
+  # replace slightly frowning face
+  sub colon' s' l' i' g' h' t' l' y' underscore' f' r' o' w' n' i' n' g' underscore' f' a' c' e' colon' by u1F641;
+
+  # replace frowning face
+  sub colon' f' r' o' w' n' i' n' g' underscore' f' a' c' e' colon' by uni2639;
+
+  # replace face with open mouth
+  sub colon' o' p' e' n' underscore' m' o' u' t' h' colon' by u1F62E;
+
+  # replace hushed face
+  sub colon' h' u' s' h' e' d' colon' by u1F62F;
+
+  # replace astonished face
+  sub colon' a' s' t' o' n' i' s' h' e' d' colon' by u1F632;
+
+  # replace flushed face
+  sub colon' f' l' u' s' h' e' d' colon' by u1F633;
+
+  # replace pleading face
+  sub colon' p' l' e' a' d' i' n' g' underscore' f' a' c' e' colon' by u1F97A;
+
+  # replace frowning face with open mouth
+  sub colon' f' r' o' w' n' i' n' g' colon' by u1F626;
+
+  # replace anguished face
+  sub colon' a' n' g' u' i' s' h' e' d' colon' by u1F627;
+
+  # replace fearful face
+  sub colon' f' e' a' r' f' u' l' colon' by u1F628;
+
+  # replace anxious face with sweat
+  sub colon' c' o' l' d' underscore' s' w' e' a' t' colon' by u1F630;
+
+  # replace sad but relieved face
+  sub colon' d' i' s' a' p' p' o' i' n' t' e' d' underscore' r' e' l' i' e' v' e' d' colon' by u1F625;
+
+  # replace crying face
+  sub colon' c' r' y' colon' by u1F622;
+
+  # replace loudly crying face
+  sub colon' s' o' b' colon' by u1F62D;
+
+  # replace face screaming in fear
+  sub colon' s' c' r' e' a' m' colon' by u1F631;
+
+  # replace confounded face
+  sub colon' c' o' n' f' o' u' n' d' e' d' colon' by u1F616;
+
+  # replace persevering face
+  sub colon' p' e' r' s' e' v' e' r' e' colon' by u1F623;
+
+  # replace disappointed face
+  sub colon' d' i' s' a' p' p' o' i' n' t' e' d' colon' by u1F61E;
+
+  # replace downcast face with sweat
+  sub colon' s' w' e' a' t' colon' by u1F613;
+
+  # replace weary face
+  sub colon' w' e' a' r' y' colon' by u1F629;
+
+  # replace tired face
+  sub colon' t' i' r' e' d' underscore' f' a' c' e' colon' by u1F62B;
+
+  # replace yawning face
+  sub colon' y' a' w' n' i' n' g' underscore' f' a' c' e' colon' by u1F971;
+
+  # replace face with steam from nose
+  sub colon' t' r' i' u' m' p' h' colon' by u1F624;
+
+  # replace enraged face
+  sub colon' r' a' g' e' colon' by u1F621;
+
+  # replace angry face
+  sub colon' a' n' g' r' y' colon' by u1F620;
+
+  # replace face with symbols on mouth
+  sub colon' c' u' r' s' i' n' g' underscore' f' a' c' e' colon' by u1F92C;
+
+  # replace smiling face with horns
+  sub colon' s' m' i' l' i' n' g' underscore' i' m' p' colon' by u1F608;
+
+  # replace angry face with horns
+  sub colon' i' m' p' colon' by u1F47F;
+
+  # replace skull
+  sub colon' s' k' u' l' l' colon' by u1F480;
+
+  # replace skull and crossbones
+  sub colon' s' k' u' l' l' underscore' a' n' d' underscore' c' r' o' s' s' b' o' n' e' s' colon' by uni2620;
+
+  # replace pile of poo
+  sub colon' h' a' n' k' e' y' colon' by u1F4A9;
+
+  # replace clown face
+  sub colon' c' l' o' w' n' underscore' f' a' c' e' colon' by u1F921;
+
+  # replace ogre
+  sub colon' j' a' p' a' n' e' s' e' underscore' o' g' r' e' colon' by u1F479;
+
+  # replace goblin
+  sub colon' j' a' p' a' n' e' s' e' underscore' g' o' b' l' i' n' colon' by u1F47A;
+
+  # replace ghost
+  sub colon' g' h' o' s' t' colon' by u1F47B;
+
+  # replace alien
+  sub colon' a' l' i' e' n' colon' by u1F47D;
+
+  # replace alien monster
+  sub colon' s' p' a' c' e' underscore' i' n' v' a' d' e' r' colon' by u1F47E;
+
+  # replace robot
+  sub colon' r' o' b' o' t' colon' by u1F916;
+
+  # replace grinning cat
+  sub colon' s' m' i' l' e' y' underscore' c' a' t' colon' by u1F63A;
+
+  # replace grinning cat with smiling eyes
+  sub colon' s' m' i' l' e' underscore' c' a' t' colon' by u1F638;
+
+  # replace cat with tears of joy
+  sub colon' j' o' y' underscore' c' a' t' colon' by u1F639;
+
+  # replace smiling cat with heart-eyes
+  sub colon' h' e' a' r' t' underscore' e' y' e' s' underscore' c' a' t' colon' by u1F63B;
+
+  # replace cat with wry smile
+  sub colon' s' m' i' r' k' underscore' c' a' t' colon' by u1F63C;
+
+  # replace kissing cat
+  sub colon' k' i' s' s' i' n' g' underscore' c' a' t' colon' by u1F63D;
+
+  # replace weary cat
+  sub colon' s' c' r' e' a' m' underscore' c' a' t' colon' by u1F640;
+
+  # replace crying cat
+  sub colon' c' r' y' i' n' g' underscore' c' a' t' underscore' f' a' c' e' colon' by u1F63F;
+
+  # replace pouting cat
+  sub colon' p' o' u' t' i' n' g' underscore' c' a' t' colon' by u1F63E;
+
+  # replace see-no-evil monkey
+  sub colon' s' e' e' underscore' n' o' underscore' e' v' i' l' colon' by u1F648;
+
+  # replace hear-no-evil monkey
+  sub colon' h' e' a' r' underscore' n' o' underscore' e' v' i' l' colon' by u1F649;
+
+  # replace speak-no-evil monkey
+  sub colon' s' p' e' a' k' underscore' n' o' underscore' e' v' i' l' colon' by u1F64A;
+
+  # replace love letter
+  sub colon' l' o' v' e' underscore' l' e' t' t' e' r' colon' by u1F48C;
+
+  # replace heart with arrow
+  sub colon' c' u' p' i' d' colon' by u1F498;
+
+  # replace heart with ribbon
+  sub colon' g' i' f' t' underscore' h' e' a' r' t' colon' by u1F49D;
+
+  # replace sparkling heart
+  sub colon' s' p' a' r' k' l' i' n' g' underscore' h' e' a' r' t' colon' by u1F496;
+
+  # replace growing heart
+  sub colon' h' e' a' r' t' p' u' l' s' e' colon' by u1F497;
+
+  # replace beating heart
+  sub colon' h' e' a' r' t' b' e' a' t' colon' by u1F493;
+
+  # replace revolving hearts
+  sub colon' r' e' v' o' l' v' i' n' g' underscore' h' e' a' r' t' s' colon' by u1F49E;
+
+  # replace two hearts
+  sub colon' t' w' o' underscore' h' e' a' r' t' s' colon' by u1F495;
+
+  # replace heart decoration
+  sub colon' h' e' a' r' t' underscore' d' e' c' o' r' a' t' i' o' n' colon' by u1F49F;
+
+  # replace heart exclamation
+  sub colon' h' e' a' v' y' underscore' h' e' a' r' t' underscore' e' x' c' l' a' m' a' t' i' o' n' colon' by uni2763;
+
+  # replace broken heart
+  sub colon' b' r' o' k' e' n' underscore' h' e' a' r' t' colon' by u1F494;
+
+  # replace heart on fire
+  sub colon' h' e' a' r' t' underscore' o' n' underscore' f' i' r' e' colon' by uni2764;
+
+  # replace mending heart
+  sub colon' m' e' n' d' i' n' g' underscore' h' e' a' r' t' colon' by uni2764;
+
+  # replace red heart
+  sub colon' h' e' a' r' t' colon' by uni2764;
+
+  # replace orange heart
+  sub colon' o' r' a' n' g' e' underscore' h' e' a' r' t' colon' by u1F9E1;
+
+  # replace yellow heart
+  sub colon' y' e' l' l' o' w' underscore' h' e' a' r' t' colon' by u1F49B;
+
+  # replace green heart
+  sub colon' g' r' e' e' n' underscore' h' e' a' r' t' colon' by u1F49A;
+
+  # replace blue heart
+  sub colon' b' l' u' e' underscore' h' e' a' r' t' colon' by u1F499;
+
+  # replace purple heart
+  sub colon' p' u' r' p' l' e' underscore' h' e' a' r' t' colon' by u1F49C;
+
+  # replace brown heart
+  sub colon' b' r' o' w' n' underscore' h' e' a' r' t' colon' by u1F90E;
+
+  # replace black heart
+  sub colon' b' l' a' c' k' underscore' h' e' a' r' t' colon' by u1F5A4;
+
+  # replace white heart
+  sub colon' w' h' i' t' e' underscore' h' e' a' r' t' colon' by u1F90D;
+
+  # replace kiss mark
+  sub colon' k' i' s' s' colon' by u1F48B;
+
+  # replace hundred points
+  sub colon' one' zero' zero' colon' by u1F4AF;
+
+  # replace anger symbol
+  sub colon' a' n' g' e' r' colon' by u1F4A2;
+
+  # replace collision
+  sub colon' b' o' o' m' colon' by u1F4A5;
+
+  # replace dizzy
+  sub colon' d' i' z' z' y' colon' by u1F4AB;
+
+  # replace sweat droplets
+  sub colon' s' w' e' a' t' underscore' d' r' o' p' s' colon' by u1F4A6;
+
+  # replace dashing away
+  sub colon' d' a' s' h' colon' by u1F4A8;
+
+  # replace hole
+  sub colon' h' o' l' e' colon' by u1F573;
+
+  # replace speech balloon
+  sub colon' s' p' e' e' c' h' underscore' b' a' l' l' o' o' n' colon' by u1F4AC;
+
+  # replace eye in speech bubble
+  sub colon' e' y' e' underscore' s' p' e' e' c' h' underscore' b' u' b' b' l' e' colon' by u1F441;
+
+  # replace left speech bubble
+  sub colon' l' e' f' t' underscore' s' p' e' e' c' h' underscore' b' u' b' b' l' e' colon' by u1F5E8;
+
+  # replace right anger bubble
+  sub colon' r' i' g' h' t' underscore' a' n' g' e' r' underscore' b' u' b' b' l' e' colon' by u1F5EF;
+
+  # replace thought balloon
+  sub colon' t' h' o' u' g' h' t' underscore' b' a' l' l' o' o' n' colon' by u1F4AD;
+
+  # replace ZZZ
+  sub colon' z' z' z' colon' by u1F4A4;
+
+  # replace waving hand
+  sub colon' w' a' v' e' colon' by u1F44B;
+
+  # replace raised back of hand
+  sub colon' r' a' i' s' e' d' underscore' b' a' c' k' underscore' o' f' underscore' h' a' n' d' colon' by u1F91A;
+
+  # replace hand with fingers splayed
+  sub colon' r' a' i' s' e' d' underscore' h' a' n' d' underscore' w' i' t' h' underscore' f' i' n' g' e' r' s' underscore' s' p' l' a' y' e' d' colon' by u1F590;
+
+  # replace raised hand
+  sub colon' h' a' n' d' colon' by uni270B;
+
+  # replace vulcan salute
+  sub colon' v' u' l' c' a' n' underscore' s' a' l' u' t' e' colon' by u1F596;
+
+  # replace OK hand
+  sub colon' o' k' underscore' h' a' n' d' colon' by u1F44C;
+
+  # replace pinching hand
+  sub colon' p' i' n' c' h' i' n' g' underscore' h' a' n' d' colon' by u1F90F;
+
+  # replace victory hand
+  sub colon' v' colon' by uni270C;
+
+  # replace crossed fingers
+  sub colon' c' r' o' s' s' e' d' underscore' f' i' n' g' e' r' s' colon' by u1F91E;
+
+  # replace love-you gesture
+  sub colon' l' o' v' e' underscore' y' o' u' underscore' g' e' s' t' u' r' e' colon' by u1F91F;
+
+  # replace sign of the horns
+  sub colon' m' e' t' a' l' colon' by u1F918;
+
+  # replace call me hand
+  sub colon' c' a' l' l' underscore' m' e' underscore' h' a' n' d' colon' by u1F919;
+
+  # replace backhand index pointing left
+  sub colon' p' o' i' n' t' underscore' l' e' f' t' colon' by u1F448;
+
+  # replace backhand index pointing right
+  sub colon' p' o' i' n' t' underscore' r' i' g' h' t' colon' by u1F449;
+
+  # replace backhand index pointing up
+  sub colon' p' o' i' n' t' underscore' u' p' underscore' two' colon' by u1F446;
+
+  # replace middle finger
+  sub colon' m' i' d' d' l' e' underscore' f' i' n' g' e' r' colon' by u1F595;
+
+  # replace backhand index pointing down
+  sub colon' p' o' i' n' t' underscore' d' o' w' n' colon' by u1F447;
+
+  # replace index pointing up
+  sub colon' p' o' i' n' t' underscore' u' p' colon' by uni261D;
+
+  # replace thumbs up
+  sub colon' plus' one' colon' by u1F44D;
+
+  # replace thumbs down
+  sub colon' hyphen' one' colon' by u1F44E;
+
+  # replace raised fist
+  sub colon' f' i' s' t' underscore' r' a' i' s' e' d' colon' by uni270A;
+
+  # replace oncoming fist
+  sub colon' f' i' s' t' underscore' o' n' c' o' m' i' n' g' colon' by u1F44A;
+
+  # replace left-facing fist
+  sub colon' f' i' s' t' underscore' l' e' f' t' colon' by u1F91B;
+
+  # replace right-facing fist
+  sub colon' f' i' s' t' underscore' r' i' g' h' t' colon' by u1F91C;
+
+  # replace clapping hands
+  sub colon' c' l' a' p' colon' by u1F44F;
+
+  # replace raising hands
+  sub colon' r' a' i' s' e' d' underscore' h' a' n' d' s' colon' by u1F64C;
+
+  # replace open hands
+  sub colon' o' p' e' n' underscore' h' a' n' d' s' colon' by u1F450;
+
+  # replace palms up together
+  sub colon' p' a' l' m' s' underscore' u' p' underscore' t' o' g' e' t' h' e' r' colon' by u1F932;
+
+  # replace handshake
+  sub colon' h' a' n' d' s' h' a' k' e' colon' by u1F91D;
+
+  # replace folded hands
+  sub colon' p' r' a' y' colon' by u1F64F;
+
+  # replace writing hand
+  sub colon' w' r' i' t' i' n' g' underscore' h' a' n' d' colon' by uni270D;
+
+  # replace nail polish
+  sub colon' n' a' i' l' underscore' c' a' r' e' colon' by u1F485;
+
+  # replace selfie
+  sub colon' s' e' l' f' i' e' colon' by u1F933;
+
+  # replace flexed biceps
+  sub colon' m' u' s' c' l' e' colon' by u1F4AA;
+
+  # replace mechanical arm
+  sub colon' m' e' c' h' a' n' i' c' a' l' underscore' a' r' m' colon' by u1F9BE;
+
+  # replace mechanical leg
+  sub colon' m' e' c' h' a' n' i' c' a' l' underscore' l' e' g' colon' by u1F9BF;
+
+  # replace leg
+  sub colon' l' e' g' colon' by u1F9B5;
+
+  # replace foot
+  sub colon' f' o' o' t' colon' by u1F9B6;
+
+  # replace ear
+  sub colon' e' a' r' colon' by u1F442;
+
+  # replace ear with hearing aid
+  sub colon' e' a' r' underscore' w' i' t' h' underscore' h' e' a' r' i' n' g' underscore' a' i' d' colon' by u1F9BB;
+
+  # replace nose
+  sub colon' n' o' s' e' colon' by u1F443;
+
+  # replace brain
+  sub colon' b' r' a' i' n' colon' by u1F9E0;
+
+  # replace tooth
+  sub colon' t' o' o' t' h' colon' by u1F9B7;
+
+  # replace bone
+  sub colon' b' o' n' e' colon' by u1F9B4;
+
+  # replace eyes
+  sub colon' e' y' e' s' colon' by u1F440;
+
+  # replace eye
+  sub colon' e' y' e' colon' by u1F441;
+
+  # replace tongue
+  sub colon' t' o' n' g' u' e' colon' by u1F445;
+
+  # replace mouth
+  sub colon' l' i' p' s' colon' by u1F444;
+
+  # replace baby
+  sub colon' b' a' b' y' colon' by u1F476;
+
+  # replace child
+  sub colon' c' h' i' l' d' colon' by u1F9D2;
+
+  # replace boy
+  sub colon' b' o' y' colon' by u1F466;
+
+  # replace girl
+  sub colon' g' i' r' l' colon' by u1F467;
+
+  # replace person
+  sub colon' a' d' u' l' t' colon' by u1F9D1;
+
+  # replace person: blond hair
+  sub colon' b' l' o' n' d' underscore' h' a' i' r' e' d' underscore' p' e' r' s' o' n' colon' by u1F471;
+
+  # replace man
+  sub colon' m' a' n' colon' by u1F468;
+
+  # replace person: beard
+  sub colon' b' e' a' r' d' e' d' underscore' p' e' r' s' o' n' colon' by u1F9D4;
+
+  # replace man: beard
+  sub colon' m' a' n' underscore' b' e' a' r' d' colon' by u1F9D4;
+
+  # replace woman: beard
+  sub colon' w' o' m' a' n' underscore' b' e' a' r' d' colon' by u1F9D4;
+
+  # replace man: red hair
+  sub colon' r' e' d' underscore' h' a' i' r' e' d' underscore' m' a' n' colon' by u1F468;
+
+  # replace man: curly hair
+  sub colon' c' u' r' l' y' underscore' h' a' i' r' e' d' underscore' m' a' n' colon' by u1F468;
+
+  # replace man: white hair
+  sub colon' w' h' i' t' e' underscore' h' a' i' r' e' d' underscore' m' a' n' colon' by u1F468;
+
+  # replace man: bald
+  sub colon' b' a' l' d' underscore' m' a' n' colon' by u1F468;
+
+  # replace woman
+  sub colon' w' o' m' a' n' colon' by u1F469;
+
+  # replace woman: red hair
+  sub colon' r' e' d' underscore' h' a' i' r' e' d' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace person: red hair
+  sub colon' p' e' r' s' o' n' underscore' r' e' d' underscore' h' a' i' r' colon' by u1F9D1;
+
+  # replace woman: curly hair
+  sub colon' c' u' r' l' y' underscore' h' a' i' r' e' d' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace person: curly hair
+  sub colon' p' e' r' s' o' n' underscore' c' u' r' l' y' underscore' h' a' i' r' colon' by u1F9D1;
+
+  # replace woman: white hair
+  sub colon' w' h' i' t' e' underscore' h' a' i' r' e' d' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace person: white hair
+  sub colon' p' e' r' s' o' n' underscore' w' h' i' t' e' underscore' h' a' i' r' colon' by u1F9D1;
+
+  # replace woman: bald
+  sub colon' b' a' l' d' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace person: bald
+  sub colon' p' e' r' s' o' n' underscore' b' a' l' d' colon' by u1F9D1;
+
+  # replace woman: blond hair
+  sub colon' b' l' o' n' d' underscore' h' a' i' r' e' d' underscore' w' o' m' a' n' colon' by u1F471;
+
+  # replace man: blond hair
+  sub colon' b' l' o' n' d' underscore' h' a' i' r' e' d' underscore' m' a' n' colon' by u1F471;
+
+  # replace older person
+  sub colon' o' l' d' e' r' underscore' a' d' u' l' t' colon' by u1F9D3;
+
+  # replace old man
+  sub colon' o' l' d' e' r' underscore' m' a' n' colon' by u1F474;
+
+  # replace old woman
+  sub colon' o' l' d' e' r' underscore' w' o' m' a' n' colon' by u1F475;
+
+  # replace person frowning
+  sub colon' f' r' o' w' n' i' n' g' underscore' p' e' r' s' o' n' colon' by u1F64D;
+
+  # replace man frowning
+  sub colon' f' r' o' w' n' i' n' g' underscore' m' a' n' colon' by u1F64D;
+
+  # replace woman frowning
+  sub colon' f' r' o' w' n' i' n' g' underscore' w' o' m' a' n' colon' by u1F64D;
+
+  # replace person pouting
+  sub colon' p' o' u' t' i' n' g' underscore' f' a' c' e' colon' by u1F64E;
+
+  # replace man pouting
+  sub colon' p' o' u' t' i' n' g' underscore' m' a' n' colon' by u1F64E;
+
+  # replace woman pouting
+  sub colon' p' o' u' t' i' n' g' underscore' w' o' m' a' n' colon' by u1F64E;
+
+  # replace person gesturing NO
+  sub colon' n' o' underscore' g' o' o' d' colon' by u1F645;
+
+  # replace man gesturing NO
+  sub colon' n' o' underscore' g' o' o' d' underscore' m' a' n' colon' by u1F645;
+
+  # replace woman gesturing NO
+  sub colon' n' o' underscore' g' o' o' d' underscore' w' o' m' a' n' colon' by u1F645;
+
+  # replace person gesturing OK
+  sub colon' o' k' underscore' p' e' r' s' o' n' colon' by u1F646;
+
+  # replace man gesturing OK
+  sub colon' o' k' underscore' m' a' n' colon' by u1F646;
+
+  # replace woman gesturing OK
+  sub colon' o' k' underscore' w' o' m' a' n' colon' by u1F646;
+
+  # replace person tipping hand
+  sub colon' t' i' p' p' i' n' g' underscore' h' a' n' d' underscore' p' e' r' s' o' n' colon' by u1F481;
+
+  # replace man tipping hand
+  sub colon' t' i' p' p' i' n' g' underscore' h' a' n' d' underscore' m' a' n' colon' by u1F481;
+
+  # replace woman tipping hand
+  sub colon' t' i' p' p' i' n' g' underscore' h' a' n' d' underscore' w' o' m' a' n' colon' by u1F481;
+
+  # replace person raising hand
+  sub colon' r' a' i' s' i' n' g' underscore' h' a' n' d' colon' by u1F64B;
+
+  # replace man raising hand
+  sub colon' r' a' i' s' i' n' g' underscore' h' a' n' d' underscore' m' a' n' colon' by u1F64B;
+
+  # replace woman raising hand
+  sub colon' r' a' i' s' i' n' g' underscore' h' a' n' d' underscore' w' o' m' a' n' colon' by u1F64B;
+
+  # replace deaf person
+  sub colon' d' e' a' f' underscore' p' e' r' s' o' n' colon' by u1F9CF;
+
+  # replace deaf man
+  sub colon' d' e' a' f' underscore' m' a' n' colon' by u1F9CF;
+
+  # replace deaf woman
+  sub colon' d' e' a' f' underscore' w' o' m' a' n' colon' by u1F9CF;
+
+  # replace person bowing
+  sub colon' b' o' w' colon' by u1F647;
+
+  # replace man bowing
+  sub colon' b' o' w' i' n' g' underscore' m' a' n' colon' by u1F647;
+
+  # replace woman bowing
+  sub colon' b' o' w' i' n' g' underscore' w' o' m' a' n' colon' by u1F647;
+
+  # replace person facepalming
+  sub colon' f' a' c' e' p' a' l' m' colon' by u1F926;
+
+  # replace man facepalming
+  sub colon' m' a' n' underscore' f' a' c' e' p' a' l' m' i' n' g' colon' by u1F926;
+
+  # replace woman facepalming
+  sub colon' w' o' m' a' n' underscore' f' a' c' e' p' a' l' m' i' n' g' colon' by u1F926;
+
+  # replace person shrugging
+  sub colon' s' h' r' u' g' colon' by u1F937;
+
+  # replace man shrugging
+  sub colon' m' a' n' underscore' s' h' r' u' g' g' i' n' g' colon' by u1F937;
+
+  # replace woman shrugging
+  sub colon' w' o' m' a' n' underscore' s' h' r' u' g' g' i' n' g' colon' by u1F937;
+
+  # replace health worker
+  sub colon' h' e' a' l' t' h' underscore' w' o' r' k' e' r' colon' by u1F9D1;
+
+  # replace man health worker
+  sub colon' m' a' n' underscore' h' e' a' l' t' h' underscore' w' o' r' k' e' r' colon' by u1F468;
+
+  # replace woman health worker
+  sub colon' w' o' m' a' n' underscore' h' e' a' l' t' h' underscore' w' o' r' k' e' r' colon' by u1F469;
+
+  # replace student
+  sub colon' s' t' u' d' e' n' t' colon' by u1F9D1;
+
+  # replace man student
+  sub colon' m' a' n' underscore' s' t' u' d' e' n' t' colon' by u1F468;
+
+  # replace woman student
+  sub colon' w' o' m' a' n' underscore' s' t' u' d' e' n' t' colon' by u1F469;
+
+  # replace teacher
+  sub colon' t' e' a' c' h' e' r' colon' by u1F9D1;
+
+  # replace man teacher
+  sub colon' m' a' n' underscore' t' e' a' c' h' e' r' colon' by u1F468;
+
+  # replace woman teacher
+  sub colon' w' o' m' a' n' underscore' t' e' a' c' h' e' r' colon' by u1F469;
+
+  # replace judge
+  sub colon' j' u' d' g' e' colon' by u1F9D1;
+
+  # replace man judge
+  sub colon' m' a' n' underscore' j' u' d' g' e' colon' by u1F468;
+
+  # replace woman judge
+  sub colon' w' o' m' a' n' underscore' j' u' d' g' e' colon' by u1F469;
+
+  # replace farmer
+  sub colon' f' a' r' m' e' r' colon' by u1F9D1;
+
+  # replace man farmer
+  sub colon' m' a' n' underscore' f' a' r' m' e' r' colon' by u1F468;
+
+  # replace woman farmer
+  sub colon' w' o' m' a' n' underscore' f' a' r' m' e' r' colon' by u1F469;
+
+  # replace cook
+  sub colon' c' o' o' k' colon' by u1F9D1;
+
+  # replace man cook
+  sub colon' m' a' n' underscore' c' o' o' k' colon' by u1F468;
+
+  # replace woman cook
+  sub colon' w' o' m' a' n' underscore' c' o' o' k' colon' by u1F469;
+
+  # replace mechanic
+  sub colon' m' e' c' h' a' n' i' c' colon' by u1F9D1;
+
+  # replace man mechanic
+  sub colon' m' a' n' underscore' m' e' c' h' a' n' i' c' colon' by u1F468;
+
+  # replace woman mechanic
+  sub colon' w' o' m' a' n' underscore' m' e' c' h' a' n' i' c' colon' by u1F469;
+
+  # replace factory worker
+  sub colon' f' a' c' t' o' r' y' underscore' w' o' r' k' e' r' colon' by u1F9D1;
+
+  # replace man factory worker
+  sub colon' m' a' n' underscore' f' a' c' t' o' r' y' underscore' w' o' r' k' e' r' colon' by u1F468;
+
+  # replace woman factory worker
+  sub colon' w' o' m' a' n' underscore' f' a' c' t' o' r' y' underscore' w' o' r' k' e' r' colon' by u1F469;
+
+  # replace office worker
+  sub colon' o' f' f' i' c' e' underscore' w' o' r' k' e' r' colon' by u1F9D1;
+
+  # replace man office worker
+  sub colon' m' a' n' underscore' o' f' f' i' c' e' underscore' w' o' r' k' e' r' colon' by u1F468;
+
+  # replace woman office worker
+  sub colon' w' o' m' a' n' underscore' o' f' f' i' c' e' underscore' w' o' r' k' e' r' colon' by u1F469;
+
+  # replace scientist
+  sub colon' s' c' i' e' n' t' i' s' t' colon' by u1F9D1;
+
+  # replace man scientist
+  sub colon' m' a' n' underscore' s' c' i' e' n' t' i' s' t' colon' by u1F468;
+
+  # replace woman scientist
+  sub colon' w' o' m' a' n' underscore' s' c' i' e' n' t' i' s' t' colon' by u1F469;
+
+  # replace technologist
+  sub colon' t' e' c' h' n' o' l' o' g' i' s' t' colon' by u1F9D1;
+
+  # replace man technologist
+  sub colon' m' a' n' underscore' t' e' c' h' n' o' l' o' g' i' s' t' colon' by u1F468;
+
+  # replace woman technologist
+  sub colon' w' o' m' a' n' underscore' t' e' c' h' n' o' l' o' g' i' s' t' colon' by u1F469;
+
+  # replace singer
+  sub colon' s' i' n' g' e' r' colon' by u1F9D1;
+
+  # replace man singer
+  sub colon' m' a' n' underscore' s' i' n' g' e' r' colon' by u1F468;
+
+  # replace woman singer
+  sub colon' w' o' m' a' n' underscore' s' i' n' g' e' r' colon' by u1F469;
+
+  # replace artist
+  sub colon' a' r' t' i' s' t' colon' by u1F9D1;
+
+  # replace man artist
+  sub colon' m' a' n' underscore' a' r' t' i' s' t' colon' by u1F468;
+
+  # replace woman artist
+  sub colon' w' o' m' a' n' underscore' a' r' t' i' s' t' colon' by u1F469;
+
+  # replace pilot
+  sub colon' p' i' l' o' t' colon' by u1F9D1;
+
+  # replace man pilot
+  sub colon' m' a' n' underscore' p' i' l' o' t' colon' by u1F468;
+
+  # replace woman pilot
+  sub colon' w' o' m' a' n' underscore' p' i' l' o' t' colon' by u1F469;
+
+  # replace astronaut
+  sub colon' a' s' t' r' o' n' a' u' t' colon' by u1F9D1;
+
+  # replace man astronaut
+  sub colon' m' a' n' underscore' a' s' t' r' o' n' a' u' t' colon' by u1F468;
+
+  # replace woman astronaut
+  sub colon' w' o' m' a' n' underscore' a' s' t' r' o' n' a' u' t' colon' by u1F469;
+
+  # replace firefighter
+  sub colon' f' i' r' e' f' i' g' h' t' e' r' colon' by u1F9D1;
+
+  # replace man firefighter
+  sub colon' m' a' n' underscore' f' i' r' e' f' i' g' h' t' e' r' colon' by u1F468;
+
+  # replace woman firefighter
+  sub colon' w' o' m' a' n' underscore' f' i' r' e' f' i' g' h' t' e' r' colon' by u1F469;
+
+  # replace police officer
+  sub colon' p' o' l' i' c' e' underscore' o' f' f' i' c' e' r' colon' by u1F46E;
+
+  # replace man police officer
+  sub colon' p' o' l' i' c' e' m' a' n' colon' by u1F46E;
+
+  # replace woman police officer
+  sub colon' p' o' l' i' c' e' w' o' m' a' n' colon' by u1F46E;
+
+  # replace detective
+  sub colon' d' e' t' e' c' t' i' v' e' colon' by u1F575;
+
+  # replace man detective
+  sub colon' m' a' l' e' underscore' d' e' t' e' c' t' i' v' e' colon' by u1F575;
+
+  # replace woman detective
+  sub colon' f' e' m' a' l' e' underscore' d' e' t' e' c' t' i' v' e' colon' by u1F575;
+
+  # replace guard
+  sub colon' g' u' a' r' d' colon' by u1F482;
+
+  # replace man guard
+  sub colon' g' u' a' r' d' s' m' a' n' colon' by u1F482;
+
+  # replace woman guard
+  sub colon' g' u' a' r' d' s' w' o' m' a' n' colon' by u1F482;
+
+  # replace construction worker
+  sub colon' c' o' n' s' t' r' u' c' t' i' o' n' underscore' w' o' r' k' e' r' colon' by u1F477;
+
+  # replace man construction worker
+  sub colon' c' o' n' s' t' r' u' c' t' i' o' n' underscore' w' o' r' k' e' r' underscore' m' a' n' colon' by u1F477;
+
+  # replace woman construction worker
+  sub colon' c' o' n' s' t' r' u' c' t' i' o' n' underscore' w' o' r' k' e' r' underscore' w' o' m' a' n' colon' by u1F477;
+
+  # replace prince
+  sub colon' p' r' i' n' c' e' colon' by u1F934;
+
+  # replace princess
+  sub colon' p' r' i' n' c' e' s' s' colon' by u1F478;
+
+  # replace person wearing turban
+  sub colon' p' e' r' s' o' n' underscore' w' i' t' h' underscore' t' u' r' b' a' n' colon' by u1F473;
+
+  # replace man wearing turban
+  sub colon' m' a' n' underscore' w' i' t' h' underscore' t' u' r' b' a' n' colon' by u1F473;
+
+  # replace woman wearing turban
+  sub colon' w' o' m' a' n' underscore' w' i' t' h' underscore' t' u' r' b' a' n' colon' by u1F473;
+
+  # replace person with skullcap
+  sub colon' m' a' n' underscore' w' i' t' h' underscore' g' u' a' underscore' p' i' underscore' m' a' o' colon' by u1F472;
+
+  # replace woman with headscarf
+  sub colon' w' o' m' a' n' underscore' w' i' t' h' underscore' h' e' a' d' s' c' a' r' f' colon' by u1F9D5;
+
+  # replace person in tuxedo
+  sub colon' p' e' r' s' o' n' underscore' i' n' underscore' t' u' x' e' d' o' colon' by u1F935;
+
+  # replace man in tuxedo
+  sub colon' m' a' n' underscore' i' n' underscore' t' u' x' e' d' o' colon' by u1F935;
+
+  # replace woman in tuxedo
+  sub colon' w' o' m' a' n' underscore' i' n' underscore' t' u' x' e' d' o' colon' by u1F935;
+
+  # replace person with veil
+  sub colon' p' e' r' s' o' n' underscore' w' i' t' h' underscore' v' e' i' l' colon' by u1F470;
+
+  # replace man with veil
+  sub colon' m' a' n' underscore' w' i' t' h' underscore' v' e' i' l' colon' by u1F470;
+
+  # replace woman with veil
+  sub colon' w' o' m' a' n' underscore' w' i' t' h' underscore' v' e' i' l' colon' by u1F470;
+
+  # replace pregnant woman
+  sub colon' p' r' e' g' n' a' n' t' underscore' w' o' m' a' n' colon' by u1F930;
+
+  # replace breast-feeding
+  sub colon' b' r' e' a' s' t' underscore' f' e' e' d' i' n' g' colon' by u1F931;
+
+  # replace woman feeding baby
+  sub colon' w' o' m' a' n' underscore' f' e' e' d' i' n' g' underscore' b' a' b' y' colon' by u1F469;
+
+  # replace man feeding baby
+  sub colon' m' a' n' underscore' f' e' e' d' i' n' g' underscore' b' a' b' y' colon' by u1F468;
+
+  # replace person feeding baby
+  sub colon' p' e' r' s' o' n' underscore' f' e' e' d' i' n' g' underscore' b' a' b' y' colon' by u1F9D1;
+
+  # replace baby angel
+  sub colon' a' n' g' e' l' colon' by u1F47C;
+
+  # replace Santa Claus
+  sub colon' s' a' n' t' a' colon' by u1F385;
+
+  # replace Mrs. Claus
+  sub colon' m' r' s' underscore' c' l' a' u' s' colon' by u1F936;
+
+  # replace Mx Claus
+  sub colon' m' x' underscore' c' l' a' u' s' colon' by u1F9D1;
+
+  # replace superhero
+  sub colon' s' u' p' e' r' h' e' r' o' colon' by u1F9B8;
+
+  # replace man superhero
+  sub colon' s' u' p' e' r' h' e' r' o' underscore' m' a' n' colon' by u1F9B8;
+
+  # replace woman superhero
+  sub colon' s' u' p' e' r' h' e' r' o' underscore' w' o' m' a' n' colon' by u1F9B8;
+
+  # replace supervillain
+  sub colon' s' u' p' e' r' v' i' l' l' a' i' n' colon' by u1F9B9;
+
+  # replace man supervillain
+  sub colon' s' u' p' e' r' v' i' l' l' a' i' n' underscore' m' a' n' colon' by u1F9B9;
+
+  # replace woman supervillain
+  sub colon' s' u' p' e' r' v' i' l' l' a' i' n' underscore' w' o' m' a' n' colon' by u1F9B9;
+
+  # replace mage
+  sub colon' m' a' g' e' colon' by u1F9D9;
+
+  # replace man mage
+  sub colon' m' a' g' e' underscore' m' a' n' colon' by u1F9D9;
+
+  # replace woman mage
+  sub colon' m' a' g' e' underscore' w' o' m' a' n' colon' by u1F9D9;
+
+  # replace fairy
+  sub colon' f' a' i' r' y' colon' by u1F9DA;
+
+  # replace man fairy
+  sub colon' f' a' i' r' y' underscore' m' a' n' colon' by u1F9DA;
+
+  # replace woman fairy
+  sub colon' f' a' i' r' y' underscore' w' o' m' a' n' colon' by u1F9DA;
+
+  # replace vampire
+  sub colon' v' a' m' p' i' r' e' colon' by u1F9DB;
+
+  # replace man vampire
+  sub colon' v' a' m' p' i' r' e' underscore' m' a' n' colon' by u1F9DB;
+
+  # replace woman vampire
+  sub colon' v' a' m' p' i' r' e' underscore' w' o' m' a' n' colon' by u1F9DB;
+
+  # replace merperson
+  sub colon' m' e' r' p' e' r' s' o' n' colon' by u1F9DC;
+
+  # replace merman
+  sub colon' m' e' r' m' a' n' colon' by u1F9DC;
+
+  # replace mermaid
+  sub colon' m' e' r' m' a' i' d' colon' by u1F9DC;
+
+  # replace elf
+  sub colon' e' l' f' colon' by u1F9DD;
+
+  # replace man elf
+  sub colon' e' l' f' underscore' m' a' n' colon' by u1F9DD;
+
+  # replace woman elf
+  sub colon' e' l' f' underscore' w' o' m' a' n' colon' by u1F9DD;
+
+  # replace genie
+  sub colon' g' e' n' i' e' colon' by u1F9DE;
+
+  # replace man genie
+  sub colon' g' e' n' i' e' underscore' m' a' n' colon' by u1F9DE;
+
+  # replace woman genie
+  sub colon' g' e' n' i' e' underscore' w' o' m' a' n' colon' by u1F9DE;
+
+  # replace zombie
+  sub colon' z' o' m' b' i' e' colon' by u1F9DF;
+
+  # replace man zombie
+  sub colon' z' o' m' b' i' e' underscore' m' a' n' colon' by u1F9DF;
+
+  # replace woman zombie
+  sub colon' z' o' m' b' i' e' underscore' w' o' m' a' n' colon' by u1F9DF;
+
+  # replace person getting massage
+  sub colon' m' a' s' s' a' g' e' colon' by u1F486;
+
+  # replace man getting massage
+  sub colon' m' a' s' s' a' g' e' underscore' m' a' n' colon' by u1F486;
+
+  # replace woman getting massage
+  sub colon' m' a' s' s' a' g' e' underscore' w' o' m' a' n' colon' by u1F486;
+
+  # replace person getting haircut
+  sub colon' h' a' i' r' c' u' t' colon' by u1F487;
+
+  # replace man getting haircut
+  sub colon' h' a' i' r' c' u' t' underscore' m' a' n' colon' by u1F487;
+
+  # replace woman getting haircut
+  sub colon' h' a' i' r' c' u' t' underscore' w' o' m' a' n' colon' by u1F487;
+
+  # replace person walking
+  sub colon' w' a' l' k' i' n' g' colon' by u1F6B6;
+
+  # replace man walking
+  sub colon' w' a' l' k' i' n' g' underscore' m' a' n' colon' by u1F6B6;
+
+  # replace woman walking
+  sub colon' w' a' l' k' i' n' g' underscore' w' o' m' a' n' colon' by u1F6B6;
+
+  # replace person standing
+  sub colon' s' t' a' n' d' i' n' g' underscore' p' e' r' s' o' n' colon' by u1F9CD;
+
+  # replace man standing
+  sub colon' s' t' a' n' d' i' n' g' underscore' m' a' n' colon' by u1F9CD;
+
+  # replace woman standing
+  sub colon' s' t' a' n' d' i' n' g' underscore' w' o' m' a' n' colon' by u1F9CD;
+
+  # replace person kneeling
+  sub colon' k' n' e' e' l' i' n' g' underscore' p' e' r' s' o' n' colon' by u1F9CE;
+
+  # replace man kneeling
+  sub colon' k' n' e' e' l' i' n' g' underscore' m' a' n' colon' by u1F9CE;
+
+  # replace woman kneeling
+  sub colon' k' n' e' e' l' i' n' g' underscore' w' o' m' a' n' colon' by u1F9CE;
+
+  # replace person with white cane
+  sub colon' p' e' r' s' o' n' underscore' w' i' t' h' underscore' p' r' o' b' i' n' g' underscore' c' a' n' e' colon' by u1F9D1;
+
+  # replace man with white cane
+  sub colon' m' a' n' underscore' w' i' t' h' underscore' p' r' o' b' i' n' g' underscore' c' a' n' e' colon' by u1F468;
+
+  # replace woman with white cane
+  sub colon' w' o' m' a' n' underscore' w' i' t' h' underscore' p' r' o' b' i' n' g' underscore' c' a' n' e' colon' by u1F469;
+
+  # replace person in motorized wheelchair
+  sub colon' p' e' r' s' o' n' underscore' i' n' underscore' m' o' t' o' r' i' z' e' d' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F9D1;
+
+  # replace man in motorized wheelchair
+  sub colon' m' a' n' underscore' i' n' underscore' m' o' t' o' r' i' z' e' d' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F468;
+
+  # replace woman in motorized wheelchair
+  sub colon' w' o' m' a' n' underscore' i' n' underscore' m' o' t' o' r' i' z' e' d' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F469;
+
+  # replace person in manual wheelchair
+  sub colon' p' e' r' s' o' n' underscore' i' n' underscore' m' a' n' u' a' l' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F9D1;
+
+  # replace man in manual wheelchair
+  sub colon' m' a' n' underscore' i' n' underscore' m' a' n' u' a' l' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F468;
+
+  # replace woman in manual wheelchair
+  sub colon' w' o' m' a' n' underscore' i' n' underscore' m' a' n' u' a' l' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F469;
+
+  # replace person running
+  sub colon' r' u' n' n' e' r' colon' by u1F3C3;
+
+  # replace man running
+  sub colon' r' u' n' n' i' n' g' underscore' m' a' n' colon' by u1F3C3;
+
+  # replace woman running
+  sub colon' r' u' n' n' i' n' g' underscore' w' o' m' a' n' colon' by u1F3C3;
+
+  # replace woman dancing
+  sub colon' w' o' m' a' n' underscore' d' a' n' c' i' n' g' colon' by u1F483;
+
+  # replace man dancing
+  sub colon' m' a' n' underscore' d' a' n' c' i' n' g' colon' by u1F57A;
+
+  # replace person in suit levitating
+  sub colon' b' u' s' i' n' e' s' s' underscore' s' u' i' t' underscore' l' e' v' i' t' a' t' i' n' g' colon' by u1F574;
+
+  # replace people with bunny ears
+  sub colon' d' a' n' c' e' r' s' colon' by u1F46F;
+
+  # replace men with bunny ears
+  sub colon' d' a' n' c' i' n' g' underscore' m' e' n' colon' by u1F46F;
+
+  # replace women with bunny ears
+  sub colon' d' a' n' c' i' n' g' underscore' w' o' m' e' n' colon' by u1F46F;
+
+  # replace person in steamy room
+  sub colon' s' a' u' n' a' underscore' p' e' r' s' o' n' colon' by u1F9D6;
+
+  # replace man in steamy room
+  sub colon' s' a' u' n' a' underscore' m' a' n' colon' by u1F9D6;
+
+  # replace woman in steamy room
+  sub colon' s' a' u' n' a' underscore' w' o' m' a' n' colon' by u1F9D6;
+
+  # replace person climbing
+  sub colon' c' l' i' m' b' i' n' g' colon' by u1F9D7;
+
+  # replace man climbing
+  sub colon' c' l' i' m' b' i' n' g' underscore' m' a' n' colon' by u1F9D7;
+
+  # replace woman climbing
+  sub colon' c' l' i' m' b' i' n' g' underscore' w' o' m' a' n' colon' by u1F9D7;
+
+  # replace person fencing
+  sub colon' p' e' r' s' o' n' underscore' f' e' n' c' i' n' g' colon' by u1F93A;
+
+  # replace horse racing
+  sub colon' h' o' r' s' e' underscore' r' a' c' i' n' g' colon' by u1F3C7;
+
+  # replace skier
+  sub colon' s' k' i' e' r' colon' by uni26F7;
+
+  # replace snowboarder
+  sub colon' s' n' o' w' b' o' a' r' d' e' r' colon' by u1F3C2;
+
+  # replace person golfing
+  sub colon' g' o' l' f' i' n' g' colon' by u1F3CC;
+
+  # replace man golfing
+  sub colon' g' o' l' f' i' n' g' underscore' m' a' n' colon' by u1F3CC;
+
+  # replace woman golfing
+  sub colon' g' o' l' f' i' n' g' underscore' w' o' m' a' n' colon' by u1F3CC;
+
+  # replace person surfing
+  sub colon' s' u' r' f' e' r' colon' by u1F3C4;
+
+  # replace man surfing
+  sub colon' s' u' r' f' i' n' g' underscore' m' a' n' colon' by u1F3C4;
+
+  # replace woman surfing
+  sub colon' s' u' r' f' i' n' g' underscore' w' o' m' a' n' colon' by u1F3C4;
+
+  # replace person rowing boat
+  sub colon' r' o' w' b' o' a' t' colon' by u1F6A3;
+
+  # replace man rowing boat
+  sub colon' r' o' w' i' n' g' underscore' m' a' n' colon' by u1F6A3;
+
+  # replace woman rowing boat
+  sub colon' r' o' w' i' n' g' underscore' w' o' m' a' n' colon' by u1F6A3;
+
+  # replace person swimming
+  sub colon' s' w' i' m' m' e' r' colon' by u1F3CA;
+
+  # replace man swimming
+  sub colon' s' w' i' m' m' i' n' g' underscore' m' a' n' colon' by u1F3CA;
+
+  # replace woman swimming
+  sub colon' s' w' i' m' m' i' n' g' underscore' w' o' m' a' n' colon' by u1F3CA;
+
+  # replace person bouncing ball
+  sub colon' b' o' u' n' c' i' n' g' underscore' b' a' l' l' underscore' p' e' r' s' o' n' colon' by uni26F9;
+
+  # replace man bouncing ball
+  sub colon' b' o' u' n' c' i' n' g' underscore' b' a' l' l' underscore' m' a' n' colon' by uni26F9;
+
+  # replace woman bouncing ball
+  sub colon' b' o' u' n' c' i' n' g' underscore' b' a' l' l' underscore' w' o' m' a' n' colon' by uni26F9;
+
+  # replace person lifting weights
+  sub colon' w' e' i' g' h' t' underscore' l' i' f' t' i' n' g' colon' by u1F3CB;
+
+  # replace man lifting weights
+  sub colon' w' e' i' g' h' t' underscore' l' i' f' t' i' n' g' underscore' m' a' n' colon' by u1F3CB;
+
+  # replace woman lifting weights
+  sub colon' w' e' i' g' h' t' underscore' l' i' f' t' i' n' g' underscore' w' o' m' a' n' colon' by u1F3CB;
+
+  # replace person biking
+  sub colon' b' i' c' y' c' l' i' s' t' colon' by u1F6B4;
+
+  # replace man biking
+  sub colon' b' i' k' i' n' g' underscore' m' a' n' colon' by u1F6B4;
+
+  # replace woman biking
+  sub colon' b' i' k' i' n' g' underscore' w' o' m' a' n' colon' by u1F6B4;
+
+  # replace person mountain biking
+  sub colon' m' o' u' n' t' a' i' n' underscore' b' i' c' y' c' l' i' s' t' colon' by u1F6B5;
+
+  # replace man mountain biking
+  sub colon' m' o' u' n' t' a' i' n' underscore' b' i' k' i' n' g' underscore' m' a' n' colon' by u1F6B5;
+
+  # replace woman mountain biking
+  sub colon' m' o' u' n' t' a' i' n' underscore' b' i' k' i' n' g' underscore' w' o' m' a' n' colon' by u1F6B5;
+
+  # replace person cartwheeling
+  sub colon' c' a' r' t' w' h' e' e' l' i' n' g' colon' by u1F938;
+
+  # replace man cartwheeling
+  sub colon' m' a' n' underscore' c' a' r' t' w' h' e' e' l' i' n' g' colon' by u1F938;
+
+  # replace woman cartwheeling
+  sub colon' w' o' m' a' n' underscore' c' a' r' t' w' h' e' e' l' i' n' g' colon' by u1F938;
+
+  # replace people wrestling
+  sub colon' w' r' e' s' t' l' i' n' g' colon' by u1F93C;
+
+  # replace men wrestling
+  sub colon' m' e' n' underscore' w' r' e' s' t' l' i' n' g' colon' by u1F93C;
+
+  # replace women wrestling
+  sub colon' w' o' m' e' n' underscore' w' r' e' s' t' l' i' n' g' colon' by u1F93C;
+
+  # replace person playing water polo
+  sub colon' w' a' t' e' r' underscore' p' o' l' o' colon' by u1F93D;
+
+  # replace man playing water polo
+  sub colon' m' a' n' underscore' p' l' a' y' i' n' g' underscore' w' a' t' e' r' underscore' p' o' l' o' colon' by u1F93D;
+
+  # replace woman playing water polo
+  sub colon' w' o' m' a' n' underscore' p' l' a' y' i' n' g' underscore' w' a' t' e' r' underscore' p' o' l' o' colon' by u1F93D;
+
+  # replace person playing handball
+  sub colon' h' a' n' d' b' a' l' l' underscore' p' e' r' s' o' n' colon' by u1F93E;
+
+  # replace man playing handball
+  sub colon' m' a' n' underscore' p' l' a' y' i' n' g' underscore' h' a' n' d' b' a' l' l' colon' by u1F93E;
+
+  # replace woman playing handball
+  sub colon' w' o' m' a' n' underscore' p' l' a' y' i' n' g' underscore' h' a' n' d' b' a' l' l' colon' by u1F93E;
+
+  # replace person juggling
+  sub colon' j' u' g' g' l' i' n' g' underscore' p' e' r' s' o' n' colon' by u1F939;
+
+  # replace man juggling
+  sub colon' m' a' n' underscore' j' u' g' g' l' i' n' g' colon' by u1F939;
+
+  # replace woman juggling
+  sub colon' w' o' m' a' n' underscore' j' u' g' g' l' i' n' g' colon' by u1F939;
+
+  # replace person in lotus position
+  sub colon' l' o' t' u' s' underscore' p' o' s' i' t' i' o' n' colon' by u1F9D8;
+
+  # replace man in lotus position
+  sub colon' l' o' t' u' s' underscore' p' o' s' i' t' i' o' n' underscore' m' a' n' colon' by u1F9D8;
+
+  # replace woman in lotus position
+  sub colon' l' o' t' u' s' underscore' p' o' s' i' t' i' o' n' underscore' w' o' m' a' n' colon' by u1F9D8;
+
+  # replace person taking bath
+  sub colon' b' a' t' h' colon' by u1F6C0;
+
+  # replace person in bed
+  sub colon' s' l' e' e' p' i' n' g' underscore' b' e' d' colon' by u1F6CC;
+
+  # replace people holding hands
+  sub colon' p' e' o' p' l' e' underscore' h' o' l' d' i' n' g' underscore' h' a' n' d' s' colon' by u1F9D1;
+
+  # replace women holding hands
+  sub colon' t' w' o' underscore' w' o' m' e' n' underscore' h' o' l' d' i' n' g' underscore' h' a' n' d' s' colon' by u1F46D;
+
+  # replace woman and man holding hands
+  sub colon' c' o' u' p' l' e' colon' by u1F46B;
+
+  # replace men holding hands
+  sub colon' t' w' o' underscore' m' e' n' underscore' h' o' l' d' i' n' g' underscore' h' a' n' d' s' colon' by u1F46C;
+
+  # replace kiss
+  sub colon' c' o' u' p' l' e' k' i' s' s' colon' by u1F48F;
+
+  # replace kiss: woman, man
+  sub colon' c' o' u' p' l' e' k' i' s' s' underscore' m' a' n' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace kiss: man, man
+  sub colon' c' o' u' p' l' e' k' i' s' s' underscore' m' a' n' underscore' m' a' n' colon' by u1F468;
+
+  # replace kiss: woman, woman
+  sub colon' c' o' u' p' l' e' k' i' s' s' underscore' w' o' m' a' n' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace couple with heart
+  sub colon' c' o' u' p' l' e' underscore' w' i' t' h' underscore' h' e' a' r' t' colon' by u1F491;
+
+  # replace couple with heart: woman, man
+  sub colon' c' o' u' p' l' e' underscore' w' i' t' h' underscore' h' e' a' r' t' underscore' w' o' m' a' n' underscore' m' a' n' colon' by u1F469;
+
+  # replace couple with heart: man, man
+  sub colon' c' o' u' p' l' e' underscore' w' i' t' h' underscore' h' e' a' r' t' underscore' m' a' n' underscore' m' a' n' colon' by u1F468;
+
+  # replace couple with heart: woman, woman
+  sub colon' c' o' u' p' l' e' underscore' w' i' t' h' underscore' h' e' a' r' t' underscore' w' o' m' a' n' underscore' w' o' m' a' n' colon' by u1F469;
+
+  # replace family: man, woman, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' w' o' m' a' n' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, woman, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: man, woman, girl, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, woman, boy, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' w' o' m' a' n' underscore' b' o' y' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, woman, girl, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: man, man, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' m' a' n' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, man, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' m' a' n' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: man, man, girl, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' m' a' n' underscore' g' i' r' l' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, man, boy, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' m' a' n' underscore' b' o' y' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, man, girl, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' m' a' n' underscore' g' i' r' l' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: woman, woman, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' w' o' m' a' n' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, woman, girl
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' colon' by u1F469;
+
+  # replace family: woman, woman, girl, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, woman, boy, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' w' o' m' a' n' underscore' b' o' y' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, woman, girl, girl
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' g' i' r' l' colon' by u1F469;
+
+  # replace family: man, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, boy, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' b' o' y' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: man, girl, boy
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' g' i' r' l' underscore' b' o' y' colon' by u1F468;
+
+  # replace family: man, girl, girl
+  sub colon' f' a' m' i' l' y' underscore' m' a' n' underscore' g' i' r' l' underscore' g' i' r' l' colon' by u1F468;
+
+  # replace family: woman, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, boy, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' b' o' y' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, girl
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' g' i' r' l' colon' by u1F469;
+
+  # replace family: woman, girl, boy
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' b' o' y' colon' by u1F469;
+
+  # replace family: woman, girl, girl
+  sub colon' f' a' m' i' l' y' underscore' w' o' m' a' n' underscore' g' i' r' l' underscore' g' i' r' l' colon' by u1F469;
+
+  # replace speaking head
+  sub colon' s' p' e' a' k' i' n' g' underscore' h' e' a' d' colon' by u1F5E3;
+
+  # replace bust in silhouette
+  sub colon' b' u' s' t' underscore' i' n' underscore' s' i' l' h' o' u' e' t' t' e' colon' by u1F464;
+
+  # replace busts in silhouette
+  sub colon' b' u' s' t' s' underscore' i' n' underscore' s' i' l' h' o' u' e' t' t' e' colon' by u1F465;
+
+  # replace family
+  sub colon' f' a' m' i' l' y' colon' by u1F46A;
+
+  # replace footprints
+  sub colon' f' o' o' t' p' r' i' n' t' s' colon' by u1F463;
+
+  # replace monkey face
+  sub colon' m' o' n' k' e' y' underscore' f' a' c' e' colon' by u1F435;
+
+  # replace monkey
+  sub colon' m' o' n' k' e' y' colon' by u1F412;
+
+  # replace gorilla
+  sub colon' g' o' r' i' l' l' a' colon' by u1F98D;
+
+  # replace orangutan
+  sub colon' o' r' a' n' g' u' t' a' n' colon' by u1F9A7;
+
+  # replace dog face
+  sub colon' d' o' g' colon' by u1F436;
+
+  # replace dog
+  sub colon' d' o' g' two' colon' by u1F415;
+
+  # replace guide dog
+  sub colon' g' u' i' d' e' underscore' d' o' g' colon' by u1F9AE;
+
+  # replace service dog
+  sub colon' s' e' r' v' i' c' e' underscore' d' o' g' colon' by u1F415;
+
+  # replace poodle
+  sub colon' p' o' o' d' l' e' colon' by u1F429;
+
+  # replace wolf
+  sub colon' w' o' l' f' colon' by u1F43A;
+
+  # replace fox
+  sub colon' f' o' x' underscore' f' a' c' e' colon' by u1F98A;
+
+  # replace raccoon
+  sub colon' r' a' c' c' o' o' n' colon' by u1F99D;
+
+  # replace cat face
+  sub colon' c' a' t' colon' by u1F431;
+
+  # replace cat
+  sub colon' c' a' t' two' colon' by u1F408;
+
+  # replace black cat
+  sub colon' b' l' a' c' k' underscore' c' a' t' colon' by u1F408;
+
+  # replace lion
+  sub colon' l' i' o' n' colon' by u1F981;
+
+  # replace tiger face
+  sub colon' t' i' g' e' r' colon' by u1F42F;
+
+  # replace tiger
+  sub colon' t' i' g' e' r' two' colon' by u1F405;
+
+  # replace leopard
+  sub colon' l' e' o' p' a' r' d' colon' by u1F406;
+
+  # replace horse face
+  sub colon' h' o' r' s' e' colon' by u1F434;
+
+  # replace horse
+  sub colon' r' a' c' e' h' o' r' s' e' colon' by u1F40E;
+
+  # replace unicorn
+  sub colon' u' n' i' c' o' r' n' colon' by u1F984;
+
+  # replace zebra
+  sub colon' z' e' b' r' a' colon' by u1F993;
+
+  # replace deer
+  sub colon' d' e' e' r' colon' by u1F98C;
+
+  # replace cow face
+  sub colon' c' o' w' colon' by u1F42E;
+
+  # replace ox
+  sub colon' o' x' colon' by u1F402;
+
+  # replace water buffalo
+  sub colon' w' a' t' e' r' underscore' b' u' f' f' a' l' o' colon' by u1F403;
+
+  # replace cow
+  sub colon' c' o' w' two' colon' by u1F404;
+
+  # replace pig face
+  sub colon' p' i' g' colon' by u1F437;
+
+  # replace pig
+  sub colon' p' i' g' two' colon' by u1F416;
+
+  # replace boar
+  sub colon' b' o' a' r' colon' by u1F417;
+
+  # replace pig nose
+  sub colon' p' i' g' underscore' n' o' s' e' colon' by u1F43D;
+
+  # replace ram
+  sub colon' r' a' m' colon' by u1F40F;
+
+  # replace ewe
+  sub colon' s' h' e' e' p' colon' by u1F411;
+
+  # replace goat
+  sub colon' g' o' a' t' colon' by u1F410;
+
+  # replace camel
+  sub colon' d' r' o' m' e' d' a' r' y' underscore' c' a' m' e' l' colon' by u1F42A;
+
+  # replace two-hump camel
+  sub colon' c' a' m' e' l' colon' by u1F42B;
+
+  # replace llama
+  sub colon' l' l' a' m' a' colon' by u1F999;
+
+  # replace giraffe
+  sub colon' g' i' r' a' f' f' e' colon' by u1F992;
+
+  # replace elephant
+  sub colon' e' l' e' p' h' a' n' t' colon' by u1F418;
+
+  # replace rhinoceros
+  sub colon' r' h' i' n' o' c' e' r' o' s' colon' by u1F98F;
+
+  # replace hippopotamus
+  sub colon' h' i' p' p' o' p' o' t' a' m' u' s' colon' by u1F99B;
+
+  # replace mouse face
+  sub colon' m' o' u' s' e' colon' by u1F42D;
+
+  # replace mouse
+  sub colon' m' o' u' s' e' two' colon' by u1F401;
+
+  # replace rat
+  sub colon' r' a' t' colon' by u1F400;
+
+  # replace hamster
+  sub colon' h' a' m' s' t' e' r' colon' by u1F439;
+
+  # replace rabbit face
+  sub colon' r' a' b' b' i' t' colon' by u1F430;
+
+  # replace rabbit
+  sub colon' r' a' b' b' i' t' two' colon' by u1F407;
+
+  # replace chipmunk
+  sub colon' c' h' i' p' m' u' n' k' colon' by u1F43F;
+
+  # replace hedgehog
+  sub colon' h' e' d' g' e' h' o' g' colon' by u1F994;
+
+  # replace bat
+  sub colon' b' a' t' colon' by u1F987;
+
+  # replace bear
+  sub colon' b' e' a' r' colon' by u1F43B;
+
+  # replace polar bear
+  sub colon' p' o' l' a' r' underscore' b' e' a' r' colon' by u1F43B;
+
+  # replace koala
+  sub colon' k' o' a' l' a' colon' by u1F428;
+
+  # replace panda
+  sub colon' p' a' n' d' a' underscore' f' a' c' e' colon' by u1F43C;
+
+  # replace sloth
+  sub colon' s' l' o' t' h' colon' by u1F9A5;
+
+  # replace otter
+  sub colon' o' t' t' e' r' colon' by u1F9A6;
+
+  # replace skunk
+  sub colon' s' k' u' n' k' colon' by u1F9A8;
+
+  # replace kangaroo
+  sub colon' k' a' n' g' a' r' o' o' colon' by u1F998;
+
+  # replace badger
+  sub colon' b' a' d' g' e' r' colon' by u1F9A1;
+
+  # replace paw prints
+  sub colon' f' e' e' t' colon' by u1F43E;
+
+  # replace turkey
+  sub colon' t' u' r' k' e' y' colon' by u1F983;
+
+  # replace chicken
+  sub colon' c' h' i' c' k' e' n' colon' by u1F414;
+
+  # replace rooster
+  sub colon' r' o' o' s' t' e' r' colon' by u1F413;
+
+  # replace hatching chick
+  sub colon' h' a' t' c' h' i' n' g' underscore' c' h' i' c' k' colon' by u1F423;
+
+  # replace baby chick
+  sub colon' b' a' b' y' underscore' c' h' i' c' k' colon' by u1F424;
+
+  # replace front-facing baby chick
+  sub colon' h' a' t' c' h' e' d' underscore' c' h' i' c' k' colon' by u1F425;
+
+  # replace bird
+  sub colon' b' i' r' d' colon' by u1F426;
+
+  # replace penguin
+  sub colon' p' e' n' g' u' i' n' colon' by u1F427;
+
+  # replace dove
+  sub colon' d' o' v' e' colon' by u1F54A;
+
+  # replace eagle
+  sub colon' e' a' g' l' e' colon' by u1F985;
+
+  # replace duck
+  sub colon' d' u' c' k' colon' by u1F986;
+
+  # replace swan
+  sub colon' s' w' a' n' colon' by u1F9A2;
+
+  # replace owl
+  sub colon' o' w' l' colon' by u1F989;
+
+  # replace flamingo
+  sub colon' f' l' a' m' i' n' g' o' colon' by u1F9A9;
+
+  # replace peacock
+  sub colon' p' e' a' c' o' c' k' colon' by u1F99A;
+
+  # replace parrot
+  sub colon' p' a' r' r' o' t' colon' by u1F99C;
+
+  # replace black bird
+  sub colon' b' l' a' c' k' underscore' b' i' r' d' colon' by u1F426;
+
+  # replace frog
+  sub colon' f' r' o' g' colon' by u1F438;
+
+  # replace crocodile
+  sub colon' c' r' o' c' o' d' i' l' e' colon' by u1F40A;
+
+  # replace turtle
+  sub colon' t' u' r' t' l' e' colon' by u1F422;
+
+  # replace lizard
+  sub colon' l' i' z' a' r' d' colon' by u1F98E;
+
+  # replace snake
+  sub colon' s' n' a' k' e' colon' by u1F40D;
+
+  # replace dragon face
+  sub colon' d' r' a' g' o' n' underscore' f' a' c' e' colon' by u1F432;
+
+  # replace dragon
+  sub colon' d' r' a' g' o' n' colon' by u1F409;
+
+  # replace sauropod
+  sub colon' s' a' u' r' o' p' o' d' colon' by u1F995;
+
+  # replace T-Rex
+  sub colon' t' hyphen' r' e' x' colon' by u1F996;
+
+  # replace spouting whale
+  sub colon' w' h' a' l' e' colon' by u1F433;
+
+  # replace whale
+  sub colon' w' h' a' l' e' two' colon' by u1F40B;
+
+  # replace dolphin
+  sub colon' d' o' l' p' h' i' n' colon' by u1F42C;
+
+  # replace fish
+  sub colon' f' i' s' h' colon' by u1F41F;
+
+  # replace tropical fish
+  sub colon' t' r' o' p' i' c' a' l' underscore' f' i' s' h' colon' by u1F420;
+
+  # replace blowfish
+  sub colon' b' l' o' w' f' i' s' h' colon' by u1F421;
+
+  # replace shark
+  sub colon' s' h' a' r' k' colon' by u1F988;
+
+  # replace octopus
+  sub colon' o' c' t' o' p' u' s' colon' by u1F419;
+
+  # replace spiral shell
+  sub colon' s' h' e' l' l' colon' by u1F41A;
+
+  # replace crab
+  sub colon' c' r' a' b' colon' by u1F980;
+
+  # replace lobster
+  sub colon' l' o' b' s' t' e' r' colon' by u1F99E;
+
+  # replace shrimp
+  sub colon' s' h' r' i' m' p' colon' by u1F990;
+
+  # replace squid
+  sub colon' s' q' u' i' d' colon' by u1F991;
+
+  # replace oyster
+  sub colon' o' y' s' t' e' r' colon' by u1F9AA;
+
+  # replace snail
+  sub colon' s' n' a' i' l' colon' by u1F40C;
+
+  # replace butterfly
+  sub colon' b' u' t' t' e' r' f' l' y' colon' by u1F98B;
+
+  # replace bug
+  sub colon' b' u' g' colon' by u1F41B;
+
+  # replace ant
+  sub colon' a' n' t' colon' by u1F41C;
+
+  # replace honeybee
+  sub colon' b' e' e' colon' by u1F41D;
+
+  # replace lady beetle
+  sub colon' l' a' d' y' underscore' b' e' e' t' l' e' colon' by u1F41E;
+
+  # replace cricket
+  sub colon' c' r' i' c' k' e' t' colon' by u1F997;
+
+  # replace spider
+  sub colon' s' p' i' d' e' r' colon' by u1F577;
+
+  # replace spider web
+  sub colon' s' p' i' d' e' r' underscore' w' e' b' colon' by u1F578;
+
+  # replace scorpion
+  sub colon' s' c' o' r' p' i' o' n' colon' by u1F982;
+
+  # replace mosquito
+  sub colon' m' o' s' q' u' i' t' o' colon' by u1F99F;
+
+  # replace microbe
+  sub colon' m' i' c' r' o' b' e' colon' by u1F9A0;
+
+  # replace bouquet
+  sub colon' b' o' u' q' u' e' t' colon' by u1F490;
+
+  # replace cherry blossom
+  sub colon' c' h' e' r' r' y' underscore' b' l' o' s' s' o' m' colon' by u1F338;
+
+  # replace white flower
+  sub colon' w' h' i' t' e' underscore' f' l' o' w' e' r' colon' by u1F4AE;
+
+  # replace rosette
+  sub colon' r' o' s' e' t' t' e' colon' by u1F3F5;
+
+  # replace rose
+  sub colon' r' o' s' e' colon' by u1F339;
+
+  # replace wilted flower
+  sub colon' w' i' l' t' e' d' underscore' f' l' o' w' e' r' colon' by u1F940;
+
+  # replace hibiscus
+  sub colon' h' i' b' i' s' c' u' s' colon' by u1F33A;
+
+  # replace sunflower
+  sub colon' s' u' n' f' l' o' w' e' r' colon' by u1F33B;
+
+  # replace blossom
+  sub colon' b' l' o' s' s' o' m' colon' by u1F33C;
+
+  # replace tulip
+  sub colon' t' u' l' i' p' colon' by u1F337;
+
+  # replace seedling
+  sub colon' s' e' e' d' l' i' n' g' colon' by u1F331;
+
+  # replace evergreen tree
+  sub colon' e' v' e' r' g' r' e' e' n' underscore' t' r' e' e' colon' by u1F332;
+
+  # replace deciduous tree
+  sub colon' d' e' c' i' d' u' o' u' s' underscore' t' r' e' e' colon' by u1F333;
+
+  # replace palm tree
+  sub colon' p' a' l' m' underscore' t' r' e' e' colon' by u1F334;
+
+  # replace cactus
+  sub colon' c' a' c' t' u' s' colon' by u1F335;
+
+  # replace sheaf of rice
+  sub colon' e' a' r' underscore' o' f' underscore' r' i' c' e' colon' by u1F33E;
+
+  # replace herb
+  sub colon' h' e' r' b' colon' by u1F33F;
+
+  # replace shamrock
+  sub colon' s' h' a' m' r' o' c' k' colon' by uni2618;
+
+  # replace four leaf clover
+  sub colon' f' o' u' r' underscore' l' e' a' f' underscore' c' l' o' v' e' r' colon' by u1F340;
+
+  # replace maple leaf
+  sub colon' m' a' p' l' e' underscore' l' e' a' f' colon' by u1F341;
+
+  # replace fallen leaf
+  sub colon' f' a' l' l' e' n' underscore' l' e' a' f' colon' by u1F342;
+
+  # replace leaf fluttering in wind
+  sub colon' l' e' a' v' e' s' colon' by u1F343;
+
+  # replace mushroom
+  sub colon' m' u' s' h' r' o' o' m' colon' by u1F344;
+
+  # replace grapes
+  sub colon' g' r' a' p' e' s' colon' by u1F347;
+
+  # replace melon
+  sub colon' m' e' l' o' n' colon' by u1F348;
+
+  # replace watermelon
+  sub colon' w' a' t' e' r' m' e' l' o' n' colon' by u1F349;
+
+  # replace tangerine
+  sub colon' t' a' n' g' e' r' i' n' e' colon' by u1F34A;
+
+  # replace lemon
+  sub colon' l' e' m' o' n' colon' by u1F34B;
+
+  # replace banana
+  sub colon' b' a' n' a' n' a' colon' by u1F34C;
+
+  # replace pineapple
+  sub colon' p' i' n' e' a' p' p' l' e' colon' by u1F34D;
+
+  # replace mango
+  sub colon' m' a' n' g' o' colon' by u1F96D;
+
+  # replace red apple
+  sub colon' a' p' p' l' e' colon' by u1F34E;
+
+  # replace green apple
+  sub colon' g' r' e' e' n' underscore' a' p' p' l' e' colon' by u1F34F;
+
+  # replace pear
+  sub colon' p' e' a' r' colon' by u1F350;
+
+  # replace peach
+  sub colon' p' e' a' c' h' colon' by u1F351;
+
+  # replace cherries
+  sub colon' c' h' e' r' r' i' e' s' colon' by u1F352;
+
+  # replace strawberry
+  sub colon' s' t' r' a' w' b' e' r' r' y' colon' by u1F353;
+
+  # replace kiwi fruit
+  sub colon' k' i' w' i' underscore' f' r' u' i' t' colon' by u1F95D;
+
+  # replace tomato
+  sub colon' t' o' m' a' t' o' colon' by u1F345;
+
+  # replace coconut
+  sub colon' c' o' c' o' n' u' t' colon' by u1F965;
+
+  # replace avocado
+  sub colon' a' v' o' c' a' d' o' colon' by u1F951;
+
+  # replace eggplant
+  sub colon' e' g' g' p' l' a' n' t' colon' by u1F346;
+
+  # replace potato
+  sub colon' p' o' t' a' t' o' colon' by u1F954;
+
+  # replace carrot
+  sub colon' c' a' r' r' o' t' colon' by u1F955;
+
+  # replace ear of corn
+  sub colon' c' o' r' n' colon' by u1F33D;
+
+  # replace hot pepper
+  sub colon' h' o' t' underscore' p' e' p' p' e' r' colon' by u1F336;
+
+  # replace cucumber
+  sub colon' c' u' c' u' m' b' e' r' colon' by u1F952;
+
+  # replace leafy green
+  sub colon' l' e' a' f' y' underscore' g' r' e' e' n' colon' by u1F96C;
+
+  # replace broccoli
+  sub colon' b' r' o' c' c' o' l' i' colon' by u1F966;
+
+  # replace garlic
+  sub colon' g' a' r' l' i' c' colon' by u1F9C4;
+
+  # replace onion
+  sub colon' o' n' i' o' n' colon' by u1F9C5;
+
+  # replace peanuts
+  sub colon' p' e' a' n' u' t' s' colon' by u1F95C;
+
+  # replace chestnut
+  sub colon' c' h' e' s' t' n' u' t' colon' by u1F330;
+
+  # replace bread
+  sub colon' b' r' e' a' d' colon' by u1F35E;
+
+  # replace croissant
+  sub colon' c' r' o' i' s' s' a' n' t' colon' by u1F950;
+
+  # replace baguette bread
+  sub colon' b' a' g' u' e' t' t' e' underscore' b' r' e' a' d' colon' by u1F956;
+
+  # replace pretzel
+  sub colon' p' r' e' t' z' e' l' colon' by u1F968;
+
+  # replace bagel
+  sub colon' b' a' g' e' l' colon' by u1F96F;
+
+  # replace pancakes
+  sub colon' p' a' n' c' a' k' e' s' colon' by u1F95E;
+
+  # replace waffle
+  sub colon' w' a' f' f' l' e' colon' by u1F9C7;
+
+  # replace cheese wedge
+  sub colon' c' h' e' e' s' e' colon' by u1F9C0;
+
+  # replace meat on bone
+  sub colon' m' e' a' t' underscore' o' n' underscore' b' o' n' e' colon' by u1F356;
+
+  # replace poultry leg
+  sub colon' p' o' u' l' t' r' y' underscore' l' e' g' colon' by u1F357;
+
+  # replace cut of meat
+  sub colon' c' u' t' underscore' o' f' underscore' m' e' a' t' colon' by u1F969;
+
+  # replace bacon
+  sub colon' b' a' c' o' n' colon' by u1F953;
+
+  # replace hamburger
+  sub colon' h' a' m' b' u' r' g' e' r' colon' by u1F354;
+
+  # replace french fries
+  sub colon' f' r' i' e' s' colon' by u1F35F;
+
+  # replace pizza
+  sub colon' p' i' z' z' a' colon' by u1F355;
+
+  # replace hot dog
+  sub colon' h' o' t' d' o' g' colon' by u1F32D;
+
+  # replace sandwich
+  sub colon' s' a' n' d' w' i' c' h' colon' by u1F96A;
+
+  # replace taco
+  sub colon' t' a' c' o' colon' by u1F32E;
+
+  # replace burrito
+  sub colon' b' u' r' r' i' t' o' colon' by u1F32F;
+
+  # replace stuffed flatbread
+  sub colon' s' t' u' f' f' e' d' underscore' f' l' a' t' b' r' e' a' d' colon' by u1F959;
+
+  # replace falafel
+  sub colon' f' a' l' a' f' e' l' colon' by u1F9C6;
+
+  # replace egg
+  sub colon' e' g' g' colon' by u1F95A;
+
+  # replace cooking
+  sub colon' f' r' i' e' d' underscore' e' g' g' colon' by u1F373;
+
+  # replace shallow pan of food
+  sub colon' s' h' a' l' l' o' w' underscore' p' a' n' underscore' o' f' underscore' f' o' o' d' colon' by u1F958;
+
+  # replace pot of food
+  sub colon' s' t' e' w' colon' by u1F372;
+
+  # replace bowl with spoon
+  sub colon' b' o' w' l' underscore' w' i' t' h' underscore' s' p' o' o' n' colon' by u1F963;
+
+  # replace green salad
+  sub colon' g' r' e' e' n' underscore' s' a' l' a' d' colon' by u1F957;
+
+  # replace popcorn
+  sub colon' p' o' p' c' o' r' n' colon' by u1F37F;
+
+  # replace butter
+  sub colon' b' u' t' t' e' r' colon' by u1F9C8;
+
+  # replace salt
+  sub colon' s' a' l' t' colon' by u1F9C2;
+
+  # replace canned food
+  sub colon' c' a' n' n' e' d' underscore' f' o' o' d' colon' by u1F96B;
+
+  # replace bento box
+  sub colon' b' e' n' t' o' colon' by u1F371;
+
+  # replace rice cracker
+  sub colon' r' i' c' e' underscore' c' r' a' c' k' e' r' colon' by u1F358;
+
+  # replace rice ball
+  sub colon' r' i' c' e' underscore' b' a' l' l' colon' by u1F359;
+
+  # replace cooked rice
+  sub colon' r' i' c' e' colon' by u1F35A;
+
+  # replace curry rice
+  sub colon' c' u' r' r' y' colon' by u1F35B;
+
+  # replace steaming bowl
+  sub colon' r' a' m' e' n' colon' by u1F35C;
+
+  # replace spaghetti
+  sub colon' s' p' a' g' h' e' t' t' i' colon' by u1F35D;
+
+  # replace roasted sweet potato
+  sub colon' s' w' e' e' t' underscore' p' o' t' a' t' o' colon' by u1F360;
+
+  # replace oden
+  sub colon' o' d' e' n' colon' by u1F362;
+
+  # replace sushi
+  sub colon' s' u' s' h' i' colon' by u1F363;
+
+  # replace fried shrimp
+  sub colon' f' r' i' e' d' underscore' s' h' r' i' m' p' colon' by u1F364;
+
+  # replace fish cake with swirl
+  sub colon' f' i' s' h' underscore' c' a' k' e' colon' by u1F365;
+
+  # replace moon cake
+  sub colon' m' o' o' n' underscore' c' a' k' e' colon' by u1F96E;
+
+  # replace dango
+  sub colon' d' a' n' g' o' colon' by u1F361;
+
+  # replace dumpling
+  sub colon' d' u' m' p' l' i' n' g' colon' by u1F95F;
+
+  # replace fortune cookie
+  sub colon' f' o' r' t' u' n' e' underscore' c' o' o' k' i' e' colon' by u1F960;
+
+  # replace takeout box
+  sub colon' t' a' k' e' o' u' t' underscore' b' o' x' colon' by u1F961;
+
+  # replace soft ice cream
+  sub colon' i' c' e' c' r' e' a' m' colon' by u1F366;
+
+  # replace shaved ice
+  sub colon' s' h' a' v' e' d' underscore' i' c' e' colon' by u1F367;
+
+  # replace ice cream
+  sub colon' i' c' e' underscore' c' r' e' a' m' colon' by u1F368;
+
+  # replace doughnut
+  sub colon' d' o' u' g' h' n' u' t' colon' by u1F369;
+
+  # replace cookie
+  sub colon' c' o' o' k' i' e' colon' by u1F36A;
+
+  # replace birthday cake
+  sub colon' b' i' r' t' h' d' a' y' colon' by u1F382;
+
+  # replace shortcake
+  sub colon' c' a' k' e' colon' by u1F370;
+
+  # replace cupcake
+  sub colon' c' u' p' c' a' k' e' colon' by u1F9C1;
+
+  # replace pie
+  sub colon' p' i' e' colon' by u1F967;
+
+  # replace chocolate bar
+  sub colon' c' h' o' c' o' l' a' t' e' underscore' b' a' r' colon' by u1F36B;
+
+  # replace candy
+  sub colon' c' a' n' d' y' colon' by u1F36C;
+
+  # replace lollipop
+  sub colon' l' o' l' l' i' p' o' p' colon' by u1F36D;
+
+  # replace custard
+  sub colon' c' u' s' t' a' r' d' colon' by u1F36E;
+
+  # replace honey pot
+  sub colon' h' o' n' e' y' underscore' p' o' t' colon' by u1F36F;
+
+  # replace baby bottle
+  sub colon' b' a' b' y' underscore' b' o' t' t' l' e' colon' by u1F37C;
+
+  # replace glass of milk
+  sub colon' m' i' l' k' underscore' g' l' a' s' s' colon' by u1F95B;
+
+  # replace hot beverage
+  sub colon' c' o' f' f' e' e' colon' by uni2615;
+
+  # replace teacup without handle
+  sub colon' t' e' a' colon' by u1F375;
+
+  # replace sake
+  sub colon' s' a' k' e' colon' by u1F376;
+
+  # replace bottle with popping cork
+  sub colon' c' h' a' m' p' a' g' n' e' colon' by u1F37E;
+
+  # replace wine glass
+  sub colon' w' i' n' e' underscore' g' l' a' s' s' colon' by u1F377;
+
+  # replace cocktail glass
+  sub colon' c' o' c' k' t' a' i' l' colon' by u1F378;
+
+  # replace tropical drink
+  sub colon' t' r' o' p' i' c' a' l' underscore' d' r' i' n' k' colon' by u1F379;
+
+  # replace beer mug
+  sub colon' b' e' e' r' colon' by u1F37A;
+
+  # replace clinking beer mugs
+  sub colon' b' e' e' r' s' colon' by u1F37B;
+
+  # replace clinking glasses
+  sub colon' c' l' i' n' k' i' n' g' underscore' g' l' a' s' s' e' s' colon' by u1F942;
+
+  # replace tumbler glass
+  sub colon' t' u' m' b' l' e' r' underscore' g' l' a' s' s' colon' by u1F943;
+
+  # replace cup with straw
+  sub colon' c' u' p' underscore' w' i' t' h' underscore' s' t' r' a' w' colon' by u1F964;
+
+  # replace beverage box
+  sub colon' b' e' v' e' r' a' g' e' underscore' b' o' x' colon' by u1F9C3;
+
+  # replace mate
+  sub colon' m' a' t' e' colon' by u1F9C9;
+
+  # replace ice
+  sub colon' i' c' e' underscore' c' u' b' e' colon' by u1F9CA;
+
+  # replace chopsticks
+  sub colon' c' h' o' p' s' t' i' c' k' s' colon' by u1F962;
+
+  # replace fork and knife with plate
+  sub colon' p' l' a' t' e' underscore' w' i' t' h' underscore' c' u' t' l' e' r' y' colon' by u1F37D;
+
+  # replace fork and knife
+  sub colon' f' o' r' k' underscore' a' n' d' underscore' k' n' i' f' e' colon' by u1F374;
+
+  # replace spoon
+  sub colon' s' p' o' o' n' colon' by u1F944;
+
+  # replace kitchen knife
+  sub colon' h' o' c' h' o' colon' by u1F52A;
+
+  # replace amphora
+  sub colon' a' m' p' h' o' r' a' colon' by u1F3FA;
+
+  # replace globe showing Europe-Africa
+  sub colon' e' a' r' t' h' underscore' a' f' r' i' c' a' colon' by u1F30D;
+
+  # replace globe showing Americas
+  sub colon' e' a' r' t' h' underscore' a' m' e' r' i' c' a' s' colon' by u1F30E;
+
+  # replace globe showing Asia-Australia
+  sub colon' e' a' r' t' h' underscore' a' s' i' a' colon' by u1F30F;
+
+  # replace globe with meridians
+  sub colon' g' l' o' b' e' underscore' w' i' t' h' underscore' m' e' r' i' d' i' a' n' s' colon' by u1F310;
+
+  # replace world map
+  sub colon' w' o' r' l' d' underscore' m' a' p' colon' by u1F5FA;
+
+  # replace map of Japan
+  sub colon' j' a' p' a' n' colon' by u1F5FE;
+
+  # replace compass
+  sub colon' c' o' m' p' a' s' s' colon' by u1F9ED;
+
+  # replace snow-capped mountain
+  sub colon' m' o' u' n' t' a' i' n' underscore' s' n' o' w' colon' by u1F3D4;
+
+  # replace mountain
+  sub colon' m' o' u' n' t' a' i' n' colon' by uni26F0;
+
+  # replace volcano
+  sub colon' v' o' l' c' a' n' o' colon' by u1F30B;
+
+  # replace mount fuji
+  sub colon' m' o' u' n' t' underscore' f' u' j' i' colon' by u1F5FB;
+
+  # replace camping
+  sub colon' c' a' m' p' i' n' g' colon' by u1F3D5;
+
+  # replace beach with umbrella
+  sub colon' b' e' a' c' h' underscore' u' m' b' r' e' l' l' a' colon' by u1F3D6;
+
+  # replace desert
+  sub colon' d' e' s' e' r' t' colon' by u1F3DC;
+
+  # replace desert island
+  sub colon' d' e' s' e' r' t' underscore' i' s' l' a' n' d' colon' by u1F3DD;
+
+  # replace national park
+  sub colon' n' a' t' i' o' n' a' l' underscore' p' a' r' k' colon' by u1F3DE;
+
+  # replace stadium
+  sub colon' s' t' a' d' i' u' m' colon' by u1F3DF;
+
+  # replace classical building
+  sub colon' c' l' a' s' s' i' c' a' l' underscore' b' u' i' l' d' i' n' g' colon' by u1F3DB;
+
+  # replace building construction
+  sub colon' b' u' i' l' d' i' n' g' underscore' c' o' n' s' t' r' u' c' t' i' o' n' colon' by u1F3D7;
+
+  # replace brick
+  sub colon' b' r' i' c' k' s' colon' by u1F9F1;
+
+  # replace houses
+  sub colon' h' o' u' s' e' s' colon' by u1F3D8;
+
+  # replace derelict house
+  sub colon' d' e' r' e' l' i' c' t' underscore' h' o' u' s' e' colon' by u1F3DA;
+
+  # replace house
+  sub colon' h' o' u' s' e' colon' by u1F3E0;
+
+  # replace house with garden
+  sub colon' h' o' u' s' e' underscore' w' i' t' h' underscore' g' a' r' d' e' n' colon' by u1F3E1;
+
+  # replace office building
+  sub colon' o' f' f' i' c' e' colon' by u1F3E2;
+
+  # replace Japanese post office
+  sub colon' p' o' s' t' underscore' o' f' f' i' c' e' colon' by u1F3E3;
+
+  # replace post office
+  sub colon' e' u' r' o' p' e' a' n' underscore' p' o' s' t' underscore' o' f' f' i' c' e' colon' by u1F3E4;
+
+  # replace hospital
+  sub colon' h' o' s' p' i' t' a' l' colon' by u1F3E5;
+
+  # replace bank
+  sub colon' b' a' n' k' colon' by u1F3E6;
+
+  # replace hotel
+  sub colon' h' o' t' e' l' colon' by u1F3E8;
+
+  # replace love hotel
+  sub colon' l' o' v' e' underscore' h' o' t' e' l' colon' by u1F3E9;
+
+  # replace convenience store
+  sub colon' c' o' n' v' e' n' i' e' n' c' e' underscore' s' t' o' r' e' colon' by u1F3EA;
+
+  # replace school
+  sub colon' s' c' h' o' o' l' colon' by u1F3EB;
+
+  # replace department store
+  sub colon' d' e' p' a' r' t' m' e' n' t' underscore' s' t' o' r' e' colon' by u1F3EC;
+
+  # replace factory
+  sub colon' f' a' c' t' o' r' y' colon' by u1F3ED;
+
+  # replace Japanese castle
+  sub colon' j' a' p' a' n' e' s' e' underscore' c' a' s' t' l' e' colon' by u1F3EF;
+
+  # replace castle
+  sub colon' e' u' r' o' p' e' a' n' underscore' c' a' s' t' l' e' colon' by u1F3F0;
+
+  # replace wedding
+  sub colon' w' e' d' d' i' n' g' colon' by u1F492;
+
+  # replace Tokyo tower
+  sub colon' t' o' k' y' o' underscore' t' o' w' e' r' colon' by u1F5FC;
+
+  # replace Statue of Liberty
+  sub colon' s' t' a' t' u' e' underscore' o' f' underscore' l' i' b' e' r' t' y' colon' by u1F5FD;
+
+  # replace church
+  sub colon' c' h' u' r' c' h' colon' by uni26EA;
+
+  # replace mosque
+  sub colon' m' o' s' q' u' e' colon' by u1F54C;
+
+  # replace hindu temple
+  sub colon' h' i' n' d' u' underscore' t' e' m' p' l' e' colon' by u1F6D5;
+
+  # replace synagogue
+  sub colon' s' y' n' a' g' o' g' u' e' colon' by u1F54D;
+
+  # replace shinto shrine
+  sub colon' s' h' i' n' t' o' underscore' s' h' r' i' n' e' colon' by uni26E9;
+
+  # replace kaaba
+  sub colon' k' a' a' b' a' colon' by u1F54B;
+
+  # replace fountain
+  sub colon' f' o' u' n' t' a' i' n' colon' by uni26F2;
+
+  # replace tent
+  sub colon' t' e' n' t' colon' by uni26FA;
+
+  # replace foggy
+  sub colon' f' o' g' g' y' colon' by u1F301;
+
+  # replace night with stars
+  sub colon' n' i' g' h' t' underscore' w' i' t' h' underscore' s' t' a' r' s' colon' by u1F303;
+
+  # replace cityscape
+  sub colon' c' i' t' y' s' c' a' p' e' colon' by u1F3D9;
+
+  # replace sunrise over mountains
+  sub colon' s' u' n' r' i' s' e' underscore' o' v' e' r' underscore' m' o' u' n' t' a' i' n' s' colon' by u1F304;
+
+  # replace sunrise
+  sub colon' s' u' n' r' i' s' e' colon' by u1F305;
+
+  # replace cityscape at dusk
+  sub colon' c' i' t' y' underscore' s' u' n' s' e' t' colon' by u1F306;
+
+  # replace sunset
+  sub colon' c' i' t' y' underscore' s' u' n' r' i' s' e' colon' by u1F307;
+
+  # replace bridge at night
+  sub colon' b' r' i' d' g' e' underscore' a' t' underscore' n' i' g' h' t' colon' by u1F309;
+
+  # replace hot springs
+  sub colon' h' o' t' s' p' r' i' n' g' s' colon' by uni2668;
+
+  # replace carousel horse
+  sub colon' c' a' r' o' u' s' e' l' underscore' h' o' r' s' e' colon' by u1F3A0;
+
+  # replace ferris wheel
+  sub colon' f' e' r' r' i' s' underscore' w' h' e' e' l' colon' by u1F3A1;
+
+  # replace roller coaster
+  sub colon' r' o' l' l' e' r' underscore' c' o' a' s' t' e' r' colon' by u1F3A2;
+
+  # replace barber pole
+  sub colon' b' a' r' b' e' r' colon' by u1F488;
+
+  # replace circus tent
+  sub colon' c' i' r' c' u' s' underscore' t' e' n' t' colon' by u1F3AA;
+
+  # replace locomotive
+  sub colon' s' t' e' a' m' underscore' l' o' c' o' m' o' t' i' v' e' colon' by u1F682;
+
+  # replace railway car
+  sub colon' r' a' i' l' w' a' y' underscore' c' a' r' colon' by u1F683;
+
+  # replace high-speed train
+  sub colon' b' u' l' l' e' t' t' r' a' i' n' underscore' s' i' d' e' colon' by u1F684;
+
+  # replace bullet train
+  sub colon' b' u' l' l' e' t' t' r' a' i' n' underscore' f' r' o' n' t' colon' by u1F685;
+
+  # replace train
+  sub colon' t' r' a' i' n' two' colon' by u1F686;
+
+  # replace metro
+  sub colon' m' e' t' r' o' colon' by u1F687;
+
+  # replace light rail
+  sub colon' l' i' g' h' t' underscore' r' a' i' l' colon' by u1F688;
+
+  # replace station
+  sub colon' s' t' a' t' i' o' n' colon' by u1F689;
+
+  # replace tram
+  sub colon' t' r' a' m' colon' by u1F68A;
+
+  # replace monorail
+  sub colon' m' o' n' o' r' a' i' l' colon' by u1F69D;
+
+  # replace mountain railway
+  sub colon' m' o' u' n' t' a' i' n' underscore' r' a' i' l' w' a' y' colon' by u1F69E;
+
+  # replace tram car
+  sub colon' t' r' a' i' n' colon' by u1F68B;
+
+  # replace bus
+  sub colon' b' u' s' colon' by u1F68C;
+
+  # replace oncoming bus
+  sub colon' o' n' c' o' m' i' n' g' underscore' b' u' s' colon' by u1F68D;
+
+  # replace trolleybus
+  sub colon' t' r' o' l' l' e' y' b' u' s' colon' by u1F68E;
+
+  # replace minibus
+  sub colon' m' i' n' i' b' u' s' colon' by u1F690;
+
+  # replace ambulance
+  sub colon' a' m' b' u' l' a' n' c' e' colon' by u1F691;
+
+  # replace fire engine
+  sub colon' f' i' r' e' underscore' e' n' g' i' n' e' colon' by u1F692;
+
+  # replace police car
+  sub colon' p' o' l' i' c' e' underscore' c' a' r' colon' by u1F693;
+
+  # replace oncoming police car
+  sub colon' o' n' c' o' m' i' n' g' underscore' p' o' l' i' c' e' underscore' c' a' r' colon' by u1F694;
+
+  # replace taxi
+  sub colon' t' a' x' i' colon' by u1F695;
+
+  # replace oncoming taxi
+  sub colon' o' n' c' o' m' i' n' g' underscore' t' a' x' i' colon' by u1F696;
+
+  # replace automobile
+  sub colon' c' a' r' colon' by u1F697;
+
+  # replace oncoming automobile
+  sub colon' o' n' c' o' m' i' n' g' underscore' a' u' t' o' m' o' b' i' l' e' colon' by u1F698;
+
+  # replace sport utility vehicle
+  sub colon' b' l' u' e' underscore' c' a' r' colon' by u1F699;
+
+  # replace delivery truck
+  sub colon' t' r' u' c' k' colon' by u1F69A;
+
+  # replace articulated lorry
+  sub colon' a' r' t' i' c' u' l' a' t' e' d' underscore' l' o' r' r' y' colon' by u1F69B;
+
+  # replace tractor
+  sub colon' t' r' a' c' t' o' r' colon' by u1F69C;
+
+  # replace racing car
+  sub colon' r' a' c' i' n' g' underscore' c' a' r' colon' by u1F3CE;
+
+  # replace motorcycle
+  sub colon' m' o' t' o' r' c' y' c' l' e' colon' by u1F3CD;
+
+  # replace motor scooter
+  sub colon' m' o' t' o' r' underscore' s' c' o' o' t' e' r' colon' by u1F6F5;
+
+  # replace manual wheelchair
+  sub colon' m' a' n' u' a' l' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F9BD;
+
+  # replace motorized wheelchair
+  sub colon' m' o' t' o' r' i' z' e' d' underscore' w' h' e' e' l' c' h' a' i' r' colon' by u1F9BC;
+
+  # replace auto rickshaw
+  sub colon' a' u' t' o' underscore' r' i' c' k' s' h' a' w' colon' by u1F6FA;
+
+  # replace bicycle
+  sub colon' b' i' k' e' colon' by u1F6B2;
+
+  # replace kick scooter
+  sub colon' k' i' c' k' underscore' s' c' o' o' t' e' r' colon' by u1F6F4;
+
+  # replace skateboard
+  sub colon' s' k' a' t' e' b' o' a' r' d' colon' by u1F6F9;
+
+  # replace bus stop
+  sub colon' b' u' s' s' t' o' p' colon' by u1F68F;
+
+  # replace motorway
+  sub colon' m' o' t' o' r' w' a' y' colon' by u1F6E3;
+
+  # replace railway track
+  sub colon' r' a' i' l' w' a' y' underscore' t' r' a' c' k' colon' by u1F6E4;
+
+  # replace oil drum
+  sub colon' o' i' l' underscore' d' r' u' m' colon' by u1F6E2;
+
+  # replace fuel pump
+  sub colon' f' u' e' l' p' u' m' p' colon' by uni26FD;
+
+  # replace police car light
+  sub colon' r' o' t' a' t' i' n' g' underscore' l' i' g' h' t' colon' by u1F6A8;
+
+  # replace horizontal traffic light
+  sub colon' t' r' a' f' f' i' c' underscore' l' i' g' h' t' colon' by u1F6A5;
+
+  # replace vertical traffic light
+  sub colon' v' e' r' t' i' c' a' l' underscore' t' r' a' f' f' i' c' underscore' l' i' g' h' t' colon' by u1F6A6;
+
+  # replace stop sign
+  sub colon' s' t' o' p' underscore' s' i' g' n' colon' by u1F6D1;
+
+  # replace construction
+  sub colon' c' o' n' s' t' r' u' c' t' i' o' n' colon' by u1F6A7;
+
+  # replace anchor
+  sub colon' a' n' c' h' o' r' colon' by uni2693;
+
+  # replace sailboat
+  sub colon' b' o' a' t' colon' by uni26F5;
+
+  # replace canoe
+  sub colon' c' a' n' o' e' colon' by u1F6F6;
+
+  # replace speedboat
+  sub colon' s' p' e' e' d' b' o' a' t' colon' by u1F6A4;
+
+  # replace passenger ship
+  sub colon' p' a' s' s' e' n' g' e' r' underscore' s' h' i' p' colon' by u1F6F3;
+
+  # replace ferry
+  sub colon' f' e' r' r' y' colon' by uni26F4;
+
+  # replace motor boat
+  sub colon' m' o' t' o' r' underscore' b' o' a' t' colon' by u1F6E5;
+
+  # replace ship
+  sub colon' s' h' i' p' colon' by u1F6A2;
+
+  # replace airplane
+  sub colon' a' i' r' p' l' a' n' e' colon' by uni2708;
+
+  # replace small airplane
+  sub colon' s' m' a' l' l' underscore' a' i' r' p' l' a' n' e' colon' by u1F6E9;
+
+  # replace airplane departure
+  sub colon' f' l' i' g' h' t' underscore' d' e' p' a' r' t' u' r' e' colon' by u1F6EB;
+
+  # replace airplane arrival
+  sub colon' f' l' i' g' h' t' underscore' a' r' r' i' v' a' l' colon' by u1F6EC;
+
+  # replace parachute
+  sub colon' p' a' r' a' c' h' u' t' e' colon' by u1FA82;
+
+  # replace seat
+  sub colon' s' e' a' t' colon' by u1F4BA;
+
+  # replace helicopter
+  sub colon' h' e' l' i' c' o' p' t' e' r' colon' by u1F681;
+
+  # replace suspension railway
+  sub colon' s' u' s' p' e' n' s' i' o' n' underscore' r' a' i' l' w' a' y' colon' by u1F69F;
+
+  # replace mountain cableway
+  sub colon' m' o' u' n' t' a' i' n' underscore' c' a' b' l' e' w' a' y' colon' by u1F6A0;
+
+  # replace aerial tramway
+  sub colon' a' e' r' i' a' l' underscore' t' r' a' m' w' a' y' colon' by u1F6A1;
+
+  # replace satellite
+  sub colon' a' r' t' i' f' i' c' i' a' l' underscore' s' a' t' e' l' l' i' t' e' colon' by u1F6F0;
+
+  # replace rocket
+  sub colon' r' o' c' k' e' t' colon' by u1F680;
+
+  # replace flying saucer
+  sub colon' f' l' y' i' n' g' underscore' s' a' u' c' e' r' colon' by u1F6F8;
+
+  # replace bellhop bell
+  sub colon' b' e' l' l' h' o' p' underscore' b' e' l' l' colon' by u1F6CE;
+
+  # replace luggage
+  sub colon' l' u' g' g' a' g' e' colon' by u1F9F3;
+
+  # replace hourglass done
+  sub colon' h' o' u' r' g' l' a' s' s' colon' by uni231B;
+
+  # replace hourglass not done
+  sub colon' h' o' u' r' g' l' a' s' s' underscore' f' l' o' w' i' n' g' underscore' s' a' n' d' colon' by uni23F3;
+
+  # replace watch
+  sub colon' w' a' t' c' h' colon' by uni231A;
+
+  # replace alarm clock
+  sub colon' a' l' a' r' m' underscore' c' l' o' c' k' colon' by uni23F0;
+
+  # replace stopwatch
+  sub colon' s' t' o' p' w' a' t' c' h' colon' by uni23F1;
+
+  # replace timer clock
+  sub colon' t' i' m' e' r' underscore' c' l' o' c' k' colon' by uni23F2;
+
+  # replace mantelpiece clock
+  sub colon' m' a' n' t' e' l' p' i' e' c' e' underscore' c' l' o' c' k' colon' by u1F570;
+
+  # replace twelve o’clock
+  sub colon' c' l' o' c' k' one' two' colon' by u1F55B;
+
+  # replace twelve-thirty
+  sub colon' c' l' o' c' k' one' two' three' zero' colon' by u1F567;
+
+  # replace one o’clock
+  sub colon' c' l' o' c' k' one' colon' by u1F550;
+
+  # replace one-thirty
+  sub colon' c' l' o' c' k' one' three' zero' colon' by u1F55C;
+
+  # replace two o’clock
+  sub colon' c' l' o' c' k' two' colon' by u1F551;
+
+  # replace two-thirty
+  sub colon' c' l' o' c' k' two' three' zero' colon' by u1F55D;
+
+  # replace three o’clock
+  sub colon' c' l' o' c' k' three' colon' by u1F552;
+
+  # replace three-thirty
+  sub colon' c' l' o' c' k' three' three' zero' colon' by u1F55E;
+
+  # replace four o’clock
+  sub colon' c' l' o' c' k' four' colon' by u1F553;
+
+  # replace four-thirty
+  sub colon' c' l' o' c' k' four' three' zero' colon' by u1F55F;
+
+  # replace five o’clock
+  sub colon' c' l' o' c' k' five' colon' by u1F554;
+
+  # replace five-thirty
+  sub colon' c' l' o' c' k' five' three' zero' colon' by u1F560;
+
+  # replace six o’clock
+  sub colon' c' l' o' c' k' six' colon' by u1F555;
+
+  # replace six-thirty
+  sub colon' c' l' o' c' k' six' three' zero' colon' by u1F561;
+
+  # replace seven o’clock
+  sub colon' c' l' o' c' k' seven' colon' by u1F556;
+
+  # replace seven-thirty
+  sub colon' c' l' o' c' k' seven' three' zero' colon' by u1F562;
+
+  # replace eight o’clock
+  sub colon' c' l' o' c' k' eight' colon' by u1F557;
+
+  # replace eight-thirty
+  sub colon' c' l' o' c' k' eight' three' zero' colon' by u1F563;
+
+  # replace nine o’clock
+  sub colon' c' l' o' c' k' nine' colon' by u1F558;
+
+  # replace nine-thirty
+  sub colon' c' l' o' c' k' nine' three' zero' colon' by u1F564;
+
+  # replace ten o’clock
+  sub colon' c' l' o' c' k' one' zero' colon' by u1F559;
+
+  # replace ten-thirty
+  sub colon' c' l' o' c' k' one' zero' three' zero' colon' by u1F565;
+
+  # replace eleven o’clock
+  sub colon' c' l' o' c' k' one' one' colon' by u1F55A;
+
+  # replace eleven-thirty
+  sub colon' c' l' o' c' k' one' one' three' zero' colon' by u1F566;
+
+  # replace new moon
+  sub colon' n' e' w' underscore' m' o' o' n' colon' by u1F311;
+
+  # replace waxing crescent moon
+  sub colon' w' a' x' i' n' g' underscore' c' r' e' s' c' e' n' t' underscore' m' o' o' n' colon' by u1F312;
+
+  # replace first quarter moon
+  sub colon' f' i' r' s' t' underscore' q' u' a' r' t' e' r' underscore' m' o' o' n' colon' by u1F313;
+
+  # replace waxing gibbous moon
+  sub colon' m' o' o' n' colon' by u1F314;
+
+  # replace full moon
+  sub colon' f' u' l' l' underscore' m' o' o' n' colon' by u1F315;
+
+  # replace waning gibbous moon
+  sub colon' w' a' n' i' n' g' underscore' g' i' b' b' o' u' s' underscore' m' o' o' n' colon' by u1F316;
+
+  # replace last quarter moon
+  sub colon' l' a' s' t' underscore' q' u' a' r' t' e' r' underscore' m' o' o' n' colon' by u1F317;
+
+  # replace waning crescent moon
+  sub colon' w' a' n' i' n' g' underscore' c' r' e' s' c' e' n' t' underscore' m' o' o' n' colon' by u1F318;
+
+  # replace crescent moon
+  sub colon' c' r' e' s' c' e' n' t' underscore' m' o' o' n' colon' by u1F319;
+
+  # replace new moon face
+  sub colon' n' e' w' underscore' m' o' o' n' underscore' w' i' t' h' underscore' f' a' c' e' colon' by u1F31A;
+
+  # replace first quarter moon face
+  sub colon' f' i' r' s' t' underscore' q' u' a' r' t' e' r' underscore' m' o' o' n' underscore' w' i' t' h' underscore' f' a' c' e' colon' by u1F31B;
+
+  # replace last quarter moon face
+  sub colon' l' a' s' t' underscore' q' u' a' r' t' e' r' underscore' m' o' o' n' underscore' w' i' t' h' underscore' f' a' c' e' colon' by u1F31C;
+
+  # replace thermometer
+  sub colon' t' h' e' r' m' o' m' e' t' e' r' colon' by u1F321;
+
+  # replace sun
+  sub colon' s' u' n' n' y' colon' by uni2600;
+
+  # replace full moon face
+  sub colon' f' u' l' l' underscore' m' o' o' n' underscore' w' i' t' h' underscore' f' a' c' e' colon' by u1F31D;
+
+  # replace sun with face
+  sub colon' s' u' n' underscore' w' i' t' h' underscore' f' a' c' e' colon' by u1F31E;
+
+  # replace ringed planet
+  sub colon' r' i' n' g' e' d' underscore' p' l' a' n' e' t' colon' by u1FA90;
+
+  # replace star
+  sub colon' s' t' a' r' colon' by uni2B50;
+
+  # replace glowing star
+  sub colon' s' t' a' r' two' colon' by u1F31F;
+
+  # replace shooting star
+  sub colon' s' t' a' r' s' colon' by u1F320;
+
+  # replace milky way
+  sub colon' m' i' l' k' y' underscore' w' a' y' colon' by u1F30C;
+
+  # replace cloud
+  sub colon' c' l' o' u' d' colon' by uni2601;
+
+  # replace sun behind cloud
+  sub colon' p' a' r' t' l' y' underscore' s' u' n' n' y' colon' by uni26C5;
+
+  # replace cloud with lightning and rain
+  sub colon' c' l' o' u' d' underscore' w' i' t' h' underscore' l' i' g' h' t' n' i' n' g' underscore' a' n' d' underscore' r' a' i' n' colon' by uni26C8;
+
+  # replace sun behind small cloud
+  sub colon' s' u' n' underscore' b' e' h' i' n' d' underscore' s' m' a' l' l' underscore' c' l' o' u' d' colon' by u1F324;
+
+  # replace sun behind large cloud
+  sub colon' s' u' n' underscore' b' e' h' i' n' d' underscore' l' a' r' g' e' underscore' c' l' o' u' d' colon' by u1F325;
+
+  # replace sun behind rain cloud
+  sub colon' s' u' n' underscore' b' e' h' i' n' d' underscore' r' a' i' n' underscore' c' l' o' u' d' colon' by u1F326;
+
+  # replace cloud with rain
+  sub colon' c' l' o' u' d' underscore' w' i' t' h' underscore' r' a' i' n' colon' by u1F327;
+
+  # replace cloud with snow
+  sub colon' c' l' o' u' d' underscore' w' i' t' h' underscore' s' n' o' w' colon' by u1F328;
+
+  # replace cloud with lightning
+  sub colon' c' l' o' u' d' underscore' w' i' t' h' underscore' l' i' g' h' t' n' i' n' g' colon' by u1F329;
+
+  # replace tornado
+  sub colon' t' o' r' n' a' d' o' colon' by u1F32A;
+
+  # replace fog
+  sub colon' f' o' g' colon' by u1F32B;
+
+  # replace wind face
+  sub colon' w' i' n' d' underscore' f' a' c' e' colon' by u1F32C;
+
+  # replace cyclone
+  sub colon' c' y' c' l' o' n' e' colon' by u1F300;
+
+  # replace rainbow
+  sub colon' r' a' i' n' b' o' w' colon' by u1F308;
+
+  # replace closed umbrella
+  sub colon' c' l' o' s' e' d' underscore' u' m' b' r' e' l' l' a' colon' by u1F302;
+
+  # replace umbrella
+  sub colon' o' p' e' n' underscore' u' m' b' r' e' l' l' a' colon' by uni2602;
+
+  # replace umbrella with rain drops
+  sub colon' u' m' b' r' e' l' l' a' colon' by uni2614;
+
+  # replace umbrella on ground
+  sub colon' p' a' r' a' s' o' l' underscore' o' n' underscore' g' r' o' u' n' d' colon' by uni26F1;
+
+  # replace high voltage
+  sub colon' z' a' p' colon' by uni26A1;
+
+  # replace snowflake
+  sub colon' s' n' o' w' f' l' a' k' e' colon' by uni2744;
+
+  # replace snowman
+  sub colon' s' n' o' w' m' a' n' underscore' w' i' t' h' underscore' s' n' o' w' colon' by uni2603;
+
+  # replace snowman without snow
+  sub colon' s' n' o' w' m' a' n' colon' by uni26C4;
+
+  # replace comet
+  sub colon' c' o' m' e' t' colon' by uni2604;
+
+  # replace fire
+  sub colon' f' i' r' e' colon' by u1F525;
+
+  # replace droplet
+  sub colon' d' r' o' p' l' e' t' colon' by u1F4A7;
+
+  # replace water wave
+  sub colon' o' c' e' a' n' colon' by u1F30A;
+
+  # replace jack-o-lantern
+  sub colon' j' a' c' k' underscore' o' underscore' l' a' n' t' e' r' n' colon' by u1F383;
+
+  # replace Christmas tree
+  sub colon' c' h' r' i' s' t' m' a' s' underscore' t' r' e' e' colon' by u1F384;
+
+  # replace fireworks
+  sub colon' f' i' r' e' w' o' r' k' s' colon' by u1F386;
+
+  # replace sparkler
+  sub colon' s' p' a' r' k' l' e' r' colon' by u1F387;
+
+  # replace firecracker
+  sub colon' f' i' r' e' c' r' a' c' k' e' r' colon' by u1F9E8;
+
+  # replace sparkles
+  sub colon' s' p' a' r' k' l' e' s' colon' by uni2728;
+
+  # replace balloon
+  sub colon' b' a' l' l' o' o' n' colon' by u1F388;
+
+  # replace party popper
+  sub colon' t' a' d' a' colon' by u1F389;
+
+  # replace confetti ball
+  sub colon' c' o' n' f' e' t' t' i' underscore' b' a' l' l' colon' by u1F38A;
+
+  # replace tanabata tree
+  sub colon' t' a' n' a' b' a' t' a' underscore' t' r' e' e' colon' by u1F38B;
+
+  # replace pine decoration
+  sub colon' b' a' m' b' o' o' colon' by u1F38D;
+
+  # replace Japanese dolls
+  sub colon' d' o' l' l' s' colon' by u1F38E;
+
+  # replace carp streamer
+  sub colon' f' l' a' g' s' colon' by u1F38F;
+
+  # replace wind chime
+  sub colon' w' i' n' d' underscore' c' h' i' m' e' colon' by u1F390;
+
+  # replace moon viewing ceremony
+  sub colon' r' i' c' e' underscore' s' c' e' n' e' colon' by u1F391;
+
+  # replace red envelope
+  sub colon' r' e' d' underscore' e' n' v' e' l' o' p' e' colon' by u1F9E7;
+
+  # replace ribbon
+  sub colon' r' i' b' b' o' n' colon' by u1F380;
+
+  # replace wrapped gift
+  sub colon' g' i' f' t' colon' by u1F381;
+
+  # replace reminder ribbon
+  sub colon' r' e' m' i' n' d' e' r' underscore' r' i' b' b' o' n' colon' by u1F397;
+
+  # replace admission tickets
+  sub colon' t' i' c' k' e' t' s' colon' by u1F39F;
+
+  # replace ticket
+  sub colon' t' i' c' k' e' t' colon' by u1F3AB;
+
+  # replace military medal
+  sub colon' m' e' d' a' l' underscore' m' i' l' i' t' a' r' y' colon' by u1F396;
+
+  # replace trophy
+  sub colon' t' r' o' p' h' y' colon' by u1F3C6;
+
+  # replace sports medal
+  sub colon' m' e' d' a' l' underscore' s' p' o' r' t' s' colon' by u1F3C5;
+
+  # replace 1st place medal
+  sub colon' one' s' t' underscore' p' l' a' c' e' underscore' m' e' d' a' l' colon' by u1F947;
+
+  # replace 2nd place medal
+  sub colon' two' n' d' underscore' p' l' a' c' e' underscore' m' e' d' a' l' colon' by u1F948;
+
+  # replace 3rd place medal
+  sub colon' three' r' d' underscore' p' l' a' c' e' underscore' m' e' d' a' l' colon' by u1F949;
+
+  # replace soccer ball
+  sub colon' s' o' c' c' e' r' colon' by uni26BD;
+
+  # replace baseball
+  sub colon' b' a' s' e' b' a' l' l' colon' by uni26BE;
+
+  # replace softball
+  sub colon' s' o' f' t' b' a' l' l' colon' by u1F94E;
+
+  # replace basketball
+  sub colon' b' a' s' k' e' t' b' a' l' l' colon' by u1F3C0;
+
+  # replace volleyball
+  sub colon' v' o' l' l' e' y' b' a' l' l' colon' by u1F3D0;
+
+  # replace american football
+  sub colon' f' o' o' t' b' a' l' l' colon' by u1F3C8;
+
+  # replace rugby football
+  sub colon' r' u' g' b' y' underscore' f' o' o' t' b' a' l' l' colon' by u1F3C9;
+
+  # replace tennis
+  sub colon' t' e' n' n' i' s' colon' by u1F3BE;
+
+  # replace flying disc
+  sub colon' f' l' y' i' n' g' underscore' d' i' s' c' colon' by u1F94F;
+
+  # replace bowling
+  sub colon' b' o' w' l' i' n' g' colon' by u1F3B3;
+
+  # replace cricket game
+  sub colon' c' r' i' c' k' e' t' underscore' g' a' m' e' colon' by u1F3CF;
+
+  # replace field hockey
+  sub colon' f' i' e' l' d' underscore' h' o' c' k' e' y' colon' by u1F3D1;
+
+  # replace ice hockey
+  sub colon' i' c' e' underscore' h' o' c' k' e' y' colon' by u1F3D2;
+
+  # replace lacrosse
+  sub colon' l' a' c' r' o' s' s' e' colon' by u1F94D;
+
+  # replace ping pong
+  sub colon' p' i' n' g' underscore' p' o' n' g' colon' by u1F3D3;
+
+  # replace badminton
+  sub colon' b' a' d' m' i' n' t' o' n' colon' by u1F3F8;
+
+  # replace boxing glove
+  sub colon' b' o' x' i' n' g' underscore' g' l' o' v' e' colon' by u1F94A;
+
+  # replace martial arts uniform
+  sub colon' m' a' r' t' i' a' l' underscore' a' r' t' s' underscore' u' n' i' f' o' r' m' colon' by u1F94B;
+
+  # replace goal net
+  sub colon' g' o' a' l' underscore' n' e' t' colon' by u1F945;
+
+  # replace flag in hole
+  sub colon' g' o' l' f' colon' by uni26F3;
+
+  # replace ice skate
+  sub colon' i' c' e' underscore' s' k' a' t' e' colon' by uni26F8;
+
+  # replace fishing pole
+  sub colon' f' i' s' h' i' n' g' underscore' p' o' l' e' underscore' a' n' d' underscore' f' i' s' h' colon' by u1F3A3;
+
+  # replace diving mask
+  sub colon' d' i' v' i' n' g' underscore' m' a' s' k' colon' by u1F93F;
+
+  # replace running shirt
+  sub colon' r' u' n' n' i' n' g' underscore' s' h' i' r' t' underscore' w' i' t' h' underscore' s' a' s' h' colon' by u1F3BD;
+
+  # replace skis
+  sub colon' s' k' i' colon' by u1F3BF;
+
+  # replace sled
+  sub colon' s' l' e' d' colon' by u1F6F7;
+
+  # replace curling stone
+  sub colon' c' u' r' l' i' n' g' underscore' s' t' o' n' e' colon' by u1F94C;
+
+  # replace bullseye
+  sub colon' d' a' r' t' colon' by u1F3AF;
+
+  # replace yo-yo
+  sub colon' y' o' underscore' y' o' colon' by u1FA80;
+
+  # replace kite
+  sub colon' k' i' t' e' colon' by u1FA81;
+
+  # replace water pistol
+  sub colon' g' u' n' colon' by u1F52B;
+
+  # replace pool 8 ball
+  sub colon' eight' b' a' l' l' colon' by u1F3B1;
+
+  # replace crystal ball
+  sub colon' c' r' y' s' t' a' l' underscore' b' a' l' l' colon' by u1F52E;
+
+  # replace video game
+  sub colon' v' i' d' e' o' underscore' g' a' m' e' colon' by u1F3AE;
+
+  # replace joystick
+  sub colon' j' o' y' s' t' i' c' k' colon' by u1F579;
+
+  # replace slot machine
+  sub colon' s' l' o' t' underscore' m' a' c' h' i' n' e' colon' by u1F3B0;
+
+  # replace game die
+  sub colon' g' a' m' e' underscore' d' i' e' colon' by u1F3B2;
+
+  # replace puzzle piece
+  sub colon' j' i' g' s' a' w' colon' by u1F9E9;
+
+  # replace teddy bear
+  sub colon' t' e' d' d' y' underscore' b' e' a' r' colon' by u1F9F8;
+
+  # replace spade suit
+  sub colon' s' p' a' d' e' s' colon' by spade;
+
+  # replace heart suit
+  sub colon' h' e' a' r' t' s' colon' by heart;
+
+  # replace diamond suit
+  sub colon' d' i' a' m' o' n' d' s' colon' by diamond;
+
+  # replace club suit
+  sub colon' c' l' u' b' s' colon' by club;
+
+  # replace chess pawn
+  sub colon' c' h' e' s' s' underscore' p' a' w' n' colon' by uni265F;
+
+  # replace joker
+  sub colon' b' l' a' c' k' underscore' j' o' k' e' r' colon' by u1F0CF;
+
+  # replace mahjong red dragon
+  sub colon' m' a' h' j' o' n' g' colon' by u1F004;
+
+  # replace flower playing cards
+  sub colon' f' l' o' w' e' r' underscore' p' l' a' y' i' n' g' underscore' c' a' r' d' s' colon' by u1F3B4;
+
+  # replace performing arts
+  sub colon' p' e' r' f' o' r' m' i' n' g' underscore' a' r' t' s' colon' by u1F3AD;
+
+  # replace framed picture
+  sub colon' f' r' a' m' e' d' underscore' p' i' c' t' u' r' e' colon' by u1F5BC;
+
+  # replace artist palette
+  sub colon' a' r' t' colon' by u1F3A8;
+
+  # replace thread
+  sub colon' t' h' r' e' a' d' colon' by u1F9F5;
+
+  # replace yarn
+  sub colon' y' a' r' n' colon' by u1F9F6;
+
+  # replace glasses
+  sub colon' e' y' e' g' l' a' s' s' e' s' colon' by u1F453;
+
+  # replace sunglasses
+  sub colon' d' a' r' k' underscore' s' u' n' g' l' a' s' s' e' s' colon' by u1F576;
+
+  # replace goggles
+  sub colon' g' o' g' g' l' e' s' colon' by u1F97D;
+
+  # replace lab coat
+  sub colon' l' a' b' underscore' c' o' a' t' colon' by u1F97C;
+
+  # replace safety vest
+  sub colon' s' a' f' e' t' y' underscore' v' e' s' t' colon' by u1F9BA;
+
+  # replace necktie
+  sub colon' n' e' c' k' t' i' e' colon' by u1F454;
+
+  # replace t-shirt
+  sub colon' s' h' i' r' t' colon' by u1F455;
+
+  # replace jeans
+  sub colon' j' e' a' n' s' colon' by u1F456;
+
+  # replace scarf
+  sub colon' s' c' a' r' f' colon' by u1F9E3;
+
+  # replace gloves
+  sub colon' g' l' o' v' e' s' colon' by u1F9E4;
+
+  # replace coat
+  sub colon' c' o' a' t' colon' by u1F9E5;
+
+  # replace socks
+  sub colon' s' o' c' k' s' colon' by u1F9E6;
+
+  # replace dress
+  sub colon' d' r' e' s' s' colon' by u1F457;
+
+  # replace kimono
+  sub colon' k' i' m' o' n' o' colon' by u1F458;
+
+  # replace sari
+  sub colon' s' a' r' i' colon' by u1F97B;
+
+  # replace one-piece swimsuit
+  sub colon' o' n' e' underscore' p' i' e' c' e' underscore' s' w' i' m' s' u' i' t' colon' by u1FA71;
+
+  # replace briefs
+  sub colon' s' w' i' m' underscore' b' r' i' e' f' colon' by u1FA72;
+
+  # replace shorts
+  sub colon' s' h' o' r' t' s' colon' by u1FA73;
+
+  # replace bikini
+  sub colon' b' i' k' i' n' i' colon' by u1F459;
+
+  # replace woman’s clothes
+  sub colon' w' o' m' a' n' s' underscore' c' l' o' t' h' e' s' colon' by u1F45A;
+
+  # replace purse
+  sub colon' p' u' r' s' e' colon' by u1F45B;
+
+  # replace handbag
+  sub colon' h' a' n' d' b' a' g' colon' by u1F45C;
+
+  # replace clutch bag
+  sub colon' p' o' u' c' h' colon' by u1F45D;
+
+  # replace shopping bags
+  sub colon' s' h' o' p' p' i' n' g' colon' by u1F6CD;
+
+  # replace backpack
+  sub colon' s' c' h' o' o' l' underscore' s' a' t' c' h' e' l' colon' by u1F392;
+
+  # replace man’s shoe
+  sub colon' m' a' n' s' underscore' s' h' o' e' colon' by u1F45E;
+
+  # replace running shoe
+  sub colon' a' t' h' l' e' t' i' c' underscore' s' h' o' e' colon' by u1F45F;
+
+  # replace hiking boot
+  sub colon' h' i' k' i' n' g' underscore' b' o' o' t' colon' by u1F97E;
+
+  # replace flat shoe
+  sub colon' f' l' a' t' underscore' s' h' o' e' colon' by u1F97F;
+
+  # replace high-heeled shoe
+  sub colon' h' i' g' h' underscore' h' e' e' l' colon' by u1F460;
+
+  # replace woman’s sandal
+  sub colon' s' a' n' d' a' l' colon' by u1F461;
+
+  # replace ballet shoes
+  sub colon' b' a' l' l' e' t' underscore' s' h' o' e' s' colon' by u1FA70;
+
+  # replace woman’s boot
+  sub colon' b' o' o' t' colon' by u1F462;
+
+  # replace crown
+  sub colon' c' r' o' w' n' colon' by u1F451;
+
+  # replace woman’s hat
+  sub colon' w' o' m' a' n' s' underscore' h' a' t' colon' by u1F452;
+
+  # replace top hat
+  sub colon' t' o' p' h' a' t' colon' by u1F3A9;
+
+  # replace graduation cap
+  sub colon' m' o' r' t' a' r' underscore' b' o' a' r' d' colon' by u1F393;
+
+  # replace billed cap
+  sub colon' b' i' l' l' e' d' underscore' c' a' p' colon' by u1F9E2;
+
+  # replace rescue worker’s helmet
+  sub colon' r' e' s' c' u' e' underscore' w' o' r' k' e' r' underscore' h' e' l' m' e' t' colon' by uni26D1;
+
+  # replace prayer beads
+  sub colon' p' r' a' y' e' r' underscore' b' e' a' d' s' colon' by u1F4FF;
+
+  # replace lipstick
+  sub colon' l' i' p' s' t' i' c' k' colon' by u1F484;
+
+  # replace ring
+  sub colon' r' i' n' g' colon' by u1F48D;
+
+  # replace gem stone
+  sub colon' g' e' m' colon' by u1F48E;
+
+  # replace muted speaker
+  sub colon' m' u' t' e' colon' by u1F507;
+
+  # replace speaker low volume
+  sub colon' s' p' e' a' k' e' r' colon' by u1F508;
+
+  # replace speaker medium volume
+  sub colon' s' o' u' n' d' colon' by u1F509;
+
+  # replace speaker high volume
+  sub colon' l' o' u' d' underscore' s' o' u' n' d' colon' by u1F50A;
+
+  # replace loudspeaker
+  sub colon' l' o' u' d' s' p' e' a' k' e' r' colon' by u1F4E2;
+
+  # replace megaphone
+  sub colon' m' e' g' a' colon' by u1F4E3;
+
+  # replace postal horn
+  sub colon' p' o' s' t' a' l' underscore' h' o' r' n' colon' by u1F4EF;
+
+  # replace bell
+  sub colon' b' e' l' l' colon' by u1F514;
+
+  # replace bell with slash
+  sub colon' n' o' underscore' b' e' l' l' colon' by u1F515;
+
+  # replace musical score
+  sub colon' m' u' s' i' c' a' l' underscore' s' c' o' r' e' colon' by u1F3BC;
+
+  # replace musical note
+  sub colon' m' u' s' i' c' a' l' underscore' n' o' t' e' colon' by u1F3B5;
+
+  # replace musical notes
+  sub colon' n' o' t' e' s' colon' by u1F3B6;
+
+  # replace studio microphone
+  sub colon' s' t' u' d' i' o' underscore' m' i' c' r' o' p' h' o' n' e' colon' by u1F399;
+
+  # replace level slider
+  sub colon' l' e' v' e' l' underscore' s' l' i' d' e' r' colon' by u1F39A;
+
+  # replace control knobs
+  sub colon' c' o' n' t' r' o' l' underscore' k' n' o' b' s' colon' by u1F39B;
+
+  # replace microphone
+  sub colon' m' i' c' r' o' p' h' o' n' e' colon' by u1F3A4;
+
+  # replace headphone
+  sub colon' h' e' a' d' p' h' o' n' e' s' colon' by u1F3A7;
+
+  # replace radio
+  sub colon' r' a' d' i' o' colon' by u1F4FB;
+
+  # replace saxophone
+  sub colon' s' a' x' o' p' h' o' n' e' colon' by u1F3B7;
+
+  # replace guitar
+  sub colon' g' u' i' t' a' r' colon' by u1F3B8;
+
+  # replace musical keyboard
+  sub colon' m' u' s' i' c' a' l' underscore' k' e' y' b' o' a' r' d' colon' by u1F3B9;
+
+  # replace trumpet
+  sub colon' t' r' u' m' p' e' t' colon' by u1F3BA;
+
+  # replace violin
+  sub colon' v' i' o' l' i' n' colon' by u1F3BB;
+
+  # replace banjo
+  sub colon' b' a' n' j' o' colon' by u1FA95;
+
+  # replace drum
+  sub colon' d' r' u' m' colon' by u1F941;
+
+  # replace mobile phone
+  sub colon' i' p' h' o' n' e' colon' by u1F4F1;
+
+  # replace mobile phone with arrow
+  sub colon' c' a' l' l' i' n' g' colon' by u1F4F2;
+
+  # replace telephone
+  sub colon' p' h' o' n' e' colon' by uni260E;
+
+  # replace telephone receiver
+  sub colon' t' e' l' e' p' h' o' n' e' underscore' r' e' c' e' i' v' e' r' colon' by u1F4DE;
+
+  # replace pager
+  sub colon' p' a' g' e' r' colon' by u1F4DF;
+
+  # replace fax machine
+  sub colon' f' a' x' colon' by u1F4E0;
+
+  # replace battery
+  sub colon' b' a' t' t' e' r' y' colon' by u1F50B;
+
+  # replace electric plug
+  sub colon' e' l' e' c' t' r' i' c' underscore' p' l' u' g' colon' by u1F50C;
+
+  # replace laptop
+  sub colon' c' o' m' p' u' t' e' r' colon' by u1F4BB;
+
+  # replace desktop computer
+  sub colon' d' e' s' k' t' o' p' underscore' c' o' m' p' u' t' e' r' colon' by u1F5A5;
+
+  # replace printer
+  sub colon' p' r' i' n' t' e' r' colon' by u1F5A8;
+
+  # replace keyboard
+  sub colon' k' e' y' b' o' a' r' d' colon' by uni2328;
+
+  # replace computer mouse
+  sub colon' c' o' m' p' u' t' e' r' underscore' m' o' u' s' e' colon' by u1F5B1;
+
+  # replace trackball
+  sub colon' t' r' a' c' k' b' a' l' l' colon' by u1F5B2;
+
+  # replace computer disk
+  sub colon' m' i' n' i' d' i' s' c' colon' by u1F4BD;
+
+  # replace floppy disk
+  sub colon' f' l' o' p' p' y' underscore' d' i' s' k' colon' by u1F4BE;
+
+  # replace optical disk
+  sub colon' c' d' colon' by u1F4BF;
+
+  # replace dvd
+  sub colon' d' v' d' colon' by u1F4C0;
+
+  # replace abacus
+  sub colon' a' b' a' c' u' s' colon' by u1F9EE;
+
+  # replace movie camera
+  sub colon' m' o' v' i' e' underscore' c' a' m' e' r' a' colon' by u1F3A5;
+
+  # replace film frames
+  sub colon' f' i' l' m' underscore' s' t' r' i' p' colon' by u1F39E;
+
+  # replace film projector
+  sub colon' f' i' l' m' underscore' p' r' o' j' e' c' t' o' r' colon' by u1F4FD;
+
+  # replace clapper board
+  sub colon' c' l' a' p' p' e' r' colon' by u1F3AC;
+
+  # replace television
+  sub colon' t' v' colon' by u1F4FA;
+
+  # replace camera
+  sub colon' c' a' m' e' r' a' colon' by u1F4F7;
+
+  # replace camera with flash
+  sub colon' c' a' m' e' r' a' underscore' f' l' a' s' h' colon' by u1F4F8;
+
+  # replace video camera
+  sub colon' v' i' d' e' o' underscore' c' a' m' e' r' a' colon' by u1F4F9;
+
+  # replace videocassette
+  sub colon' v' h' s' colon' by u1F4FC;
+
+  # replace magnifying glass tilted left
+  sub colon' m' a' g' colon' by u1F50D;
+
+  # replace magnifying glass tilted right
+  sub colon' m' a' g' underscore' r' i' g' h' t' colon' by u1F50E;
+
+  # replace candle
+  sub colon' c' a' n' d' l' e' colon' by u1F56F;
+
+  # replace light bulb
+  sub colon' b' u' l' b' colon' by u1F4A1;
+
+  # replace flashlight
+  sub colon' f' l' a' s' h' l' i' g' h' t' colon' by u1F526;
+
+  # replace red paper lantern
+  sub colon' i' z' a' k' a' y' a' underscore' l' a' n' t' e' r' n' colon' by u1F3EE;
+
+  # replace diya lamp
+  sub colon' d' i' y' a' underscore' l' a' m' p' colon' by u1FA94;
+
+  # replace notebook with decorative cover
+  sub colon' n' o' t' e' b' o' o' k' underscore' w' i' t' h' underscore' d' e' c' o' r' a' t' i' v' e' underscore' c' o' v' e' r' colon' by u1F4D4;
+
+  # replace closed book
+  sub colon' c' l' o' s' e' d' underscore' b' o' o' k' colon' by u1F4D5;
+
+  # replace open book
+  sub colon' b' o' o' k' colon' by u1F4D6;
+
+  # replace green book
+  sub colon' g' r' e' e' n' underscore' b' o' o' k' colon' by u1F4D7;
+
+  # replace blue book
+  sub colon' b' l' u' e' underscore' b' o' o' k' colon' by u1F4D8;
+
+  # replace orange book
+  sub colon' o' r' a' n' g' e' underscore' b' o' o' k' colon' by u1F4D9;
+
+  # replace books
+  sub colon' b' o' o' k' s' colon' by u1F4DA;
+
+  # replace notebook
+  sub colon' n' o' t' e' b' o' o' k' colon' by u1F4D3;
+
+  # replace ledger
+  sub colon' l' e' d' g' e' r' colon' by u1F4D2;
+
+  # replace page with curl
+  sub colon' p' a' g' e' underscore' w' i' t' h' underscore' c' u' r' l' colon' by u1F4C3;
+
+  # replace scroll
+  sub colon' s' c' r' o' l' l' colon' by u1F4DC;
+
+  # replace page facing up
+  sub colon' p' a' g' e' underscore' f' a' c' i' n' g' underscore' u' p' colon' by u1F4C4;
+
+  # replace newspaper
+  sub colon' n' e' w' s' p' a' p' e' r' colon' by u1F4F0;
+
+  # replace rolled-up newspaper
+  sub colon' n' e' w' s' p' a' p' e' r' underscore' r' o' l' l' colon' by u1F5DE;
+
+  # replace bookmark tabs
+  sub colon' b' o' o' k' m' a' r' k' underscore' t' a' b' s' colon' by u1F4D1;
+
+  # replace bookmark
+  sub colon' b' o' o' k' m' a' r' k' colon' by u1F516;
+
+  # replace label
+  sub colon' l' a' b' e' l' colon' by u1F3F7;
+
+  # replace money bag
+  sub colon' m' o' n' e' y' b' a' g' colon' by u1F4B0;
+
+  # replace yen banknote
+  sub colon' y' e' n' colon' by u1F4B4;
+
+  # replace dollar banknote
+  sub colon' d' o' l' l' a' r' colon' by u1F4B5;
+
+  # replace euro banknote
+  sub colon' e' u' r' o' colon' by u1F4B6;
+
+  # replace pound banknote
+  sub colon' p' o' u' n' d' colon' by u1F4B7;
+
+  # replace money with wings
+  sub colon' m' o' n' e' y' underscore' w' i' t' h' underscore' w' i' n' g' s' colon' by u1F4B8;
+
+  # replace credit card
+  sub colon' c' r' e' d' i' t' underscore' c' a' r' d' colon' by u1F4B3;
+
+  # replace receipt
+  sub colon' r' e' c' e' i' p' t' colon' by u1F9FE;
+
+  # replace chart increasing with yen
+  sub colon' c' h' a' r' t' colon' by u1F4B9;
+
+  # replace envelope
+  sub colon' e' n' v' e' l' o' p' e' colon' by uni2709;
+
+  # replace e-mail
+  sub colon' e' m' a' i' l' colon' by u1F4E7;
+
+  # replace incoming envelope
+  sub colon' i' n' c' o' m' i' n' g' underscore' e' n' v' e' l' o' p' e' colon' by u1F4E8;
+
+  # replace envelope with arrow
+  sub colon' e' n' v' e' l' o' p' e' underscore' w' i' t' h' underscore' a' r' r' o' w' colon' by u1F4E9;
+
+  # replace outbox tray
+  sub colon' o' u' t' b' o' x' underscore' t' r' a' y' colon' by u1F4E4;
+
+  # replace inbox tray
+  sub colon' i' n' b' o' x' underscore' t' r' a' y' colon' by u1F4E5;
+
+  # replace package
+  sub colon' p' a' c' k' a' g' e' colon' by u1F4E6;
+
+  # replace closed mailbox with raised flag
+  sub colon' m' a' i' l' b' o' x' colon' by u1F4EB;
+
+  # replace closed mailbox with lowered flag
+  sub colon' m' a' i' l' b' o' x' underscore' c' l' o' s' e' d' colon' by u1F4EA;
+
+  # replace open mailbox with raised flag
+  sub colon' m' a' i' l' b' o' x' underscore' w' i' t' h' underscore' m' a' i' l' colon' by u1F4EC;
+
+  # replace open mailbox with lowered flag
+  sub colon' m' a' i' l' b' o' x' underscore' w' i' t' h' underscore' n' o' underscore' m' a' i' l' colon' by u1F4ED;
+
+  # replace postbox
+  sub colon' p' o' s' t' b' o' x' colon' by u1F4EE;
+
+  # replace ballot box with ballot
+  sub colon' b' a' l' l' o' t' underscore' b' o' x' colon' by u1F5F3;
+
+  # replace pencil
+  sub colon' p' e' n' c' i' l' two' colon' by uni270F;
+
+  # replace black nib
+  sub colon' b' l' a' c' k' underscore' n' i' b' colon' by uni2712;
+
+  # replace fountain pen
+  sub colon' f' o' u' n' t' a' i' n' underscore' p' e' n' colon' by u1F58B;
+
+  # replace pen
+  sub colon' p' e' n' colon' by u1F58A;
+
+  # replace paintbrush
+  sub colon' p' a' i' n' t' b' r' u' s' h' colon' by u1F58C;
+
+  # replace crayon
+  sub colon' c' r' a' y' o' n' colon' by u1F58D;
+
+  # replace memo
+  sub colon' m' e' m' o' colon' by u1F4DD;
+
+  # replace briefcase
+  sub colon' b' r' i' e' f' c' a' s' e' colon' by u1F4BC;
+
+  # replace file folder
+  sub colon' f' i' l' e' underscore' f' o' l' d' e' r' colon' by u1F4C1;
+
+  # replace open file folder
+  sub colon' o' p' e' n' underscore' f' i' l' e' underscore' f' o' l' d' e' r' colon' by u1F4C2;
+
+  # replace card index dividers
+  sub colon' c' a' r' d' underscore' i' n' d' e' x' underscore' d' i' v' i' d' e' r' s' colon' by u1F5C2;
+
+  # replace calendar
+  sub colon' d' a' t' e' colon' by u1F4C5;
+
+  # replace tear-off calendar
+  sub colon' c' a' l' e' n' d' a' r' colon' by u1F4C6;
+
+  # replace spiral notepad
+  sub colon' s' p' i' r' a' l' underscore' n' o' t' e' p' a' d' colon' by u1F5D2;
+
+  # replace spiral calendar
+  sub colon' s' p' i' r' a' l' underscore' c' a' l' e' n' d' a' r' colon' by u1F5D3;
+
+  # replace card index
+  sub colon' c' a' r' d' underscore' i' n' d' e' x' colon' by u1F4C7;
+
+  # replace chart increasing
+  sub colon' c' h' a' r' t' underscore' w' i' t' h' underscore' u' p' w' a' r' d' s' underscore' t' r' e' n' d' colon' by u1F4C8;
+
+  # replace chart decreasing
+  sub colon' c' h' a' r' t' underscore' w' i' t' h' underscore' d' o' w' n' w' a' r' d' s' underscore' t' r' e' n' d' colon' by u1F4C9;
+
+  # replace bar chart
+  sub colon' b' a' r' underscore' c' h' a' r' t' colon' by u1F4CA;
+
+  # replace clipboard
+  sub colon' c' l' i' p' b' o' a' r' d' colon' by u1F4CB;
+
+  # replace pushpin
+  sub colon' p' u' s' h' p' i' n' colon' by u1F4CC;
+
+  # replace round pushpin
+  sub colon' r' o' u' n' d' underscore' p' u' s' h' p' i' n' colon' by u1F4CD;
+
+  # replace paperclip
+  sub colon' p' a' p' e' r' c' l' i' p' colon' by u1F4CE;
+
+  # replace linked paperclips
+  sub colon' p' a' p' e' r' c' l' i' p' s' colon' by u1F587;
+
+  # replace straight ruler
+  sub colon' s' t' r' a' i' g' h' t' underscore' r' u' l' e' r' colon' by u1F4CF;
+
+  # replace triangular ruler
+  sub colon' t' r' i' a' n' g' u' l' a' r' underscore' r' u' l' e' r' colon' by u1F4D0;
+
+  # replace scissors
+  sub colon' s' c' i' s' s' o' r' s' colon' by uni2702;
+
+  # replace card file box
+  sub colon' c' a' r' d' underscore' f' i' l' e' underscore' b' o' x' colon' by u1F5C3;
+
+  # replace file cabinet
+  sub colon' f' i' l' e' underscore' c' a' b' i' n' e' t' colon' by u1F5C4;
+
+  # replace wastebasket
+  sub colon' w' a' s' t' e' b' a' s' k' e' t' colon' by u1F5D1;
+
+  # replace locked
+  sub colon' l' o' c' k' colon' by u1F512;
+
+  # replace unlocked
+  sub colon' u' n' l' o' c' k' colon' by u1F513;
+
+  # replace locked with pen
+  sub colon' l' o' c' k' underscore' w' i' t' h' underscore' i' n' k' underscore' p' e' n' colon' by u1F50F;
+
+  # replace locked with key
+  sub colon' c' l' o' s' e' d' underscore' l' o' c' k' underscore' w' i' t' h' underscore' k' e' y' colon' by u1F510;
+
+  # replace key
+  sub colon' k' e' y' colon' by u1F511;
+
+  # replace old key
+  sub colon' o' l' d' underscore' k' e' y' colon' by u1F5DD;
+
+  # replace hammer
+  sub colon' h' a' m' m' e' r' colon' by u1F528;
+
+  # replace axe
+  sub colon' a' x' e' colon' by u1FA93;
+
+  # replace pick
+  sub colon' p' i' c' k' colon' by uni26CF;
+
+  # replace hammer and pick
+  sub colon' h' a' m' m' e' r' underscore' a' n' d' underscore' p' i' c' k' colon' by uni2692;
+
+  # replace hammer and wrench
+  sub colon' h' a' m' m' e' r' underscore' a' n' d' underscore' w' r' e' n' c' h' colon' by u1F6E0;
+
+  # replace dagger
+  sub colon' d' a' g' g' e' r' colon' by u1F5E1;
+
+  # replace crossed swords
+  sub colon' c' r' o' s' s' e' d' underscore' s' w' o' r' d' s' colon' by uni2694;
+
+  # replace bomb
+  sub colon' b' o' m' b' colon' by u1F4A3;
+
+  # replace bow and arrow
+  sub colon' b' o' w' underscore' a' n' d' underscore' a' r' r' o' w' colon' by u1F3F9;
+
+  # replace shield
+  sub colon' s' h' i' e' l' d' colon' by u1F6E1;
+
+  # replace wrench
+  sub colon' w' r' e' n' c' h' colon' by u1F527;
+
+  # replace nut and bolt
+  sub colon' n' u' t' underscore' a' n' d' underscore' b' o' l' t' colon' by u1F529;
+
+  # replace gear
+  sub colon' g' e' a' r' colon' by uni2699;
+
+  # replace clamp
+  sub colon' c' l' a' m' p' colon' by u1F5DC;
+
+  # replace balance scale
+  sub colon' b' a' l' a' n' c' e' underscore' s' c' a' l' e' colon' by uni2696;
+
+  # replace white cane
+  sub colon' p' r' o' b' i' n' g' underscore' c' a' n' e' colon' by u1F9AF;
+
+  # replace link
+  sub colon' l' i' n' k' colon' by u1F517;
+
+  # replace chains
+  sub colon' c' h' a' i' n' s' colon' by uni26D3;
+
+  # replace toolbox
+  sub colon' t' o' o' l' b' o' x' colon' by u1F9F0;
+
+  # replace magnet
+  sub colon' m' a' g' n' e' t' colon' by u1F9F2;
+
+  # replace alembic
+  sub colon' a' l' e' m' b' i' c' colon' by uni2697;
+
+  # replace test tube
+  sub colon' t' e' s' t' underscore' t' u' b' e' colon' by u1F9EA;
+
+  # replace petri dish
+  sub colon' p' e' t' r' i' underscore' d' i' s' h' colon' by u1F9EB;
+
+  # replace dna
+  sub colon' d' n' a' colon' by u1F9EC;
+
+  # replace microscope
+  sub colon' m' i' c' r' o' s' c' o' p' e' colon' by u1F52C;
+
+  # replace telescope
+  sub colon' t' e' l' e' s' c' o' p' e' colon' by u1F52D;
+
+  # replace satellite antenna
+  sub colon' s' a' t' e' l' l' i' t' e' colon' by u1F4E1;
+
+  # replace syringe
+  sub colon' s' y' r' i' n' g' e' colon' by u1F489;
+
+  # replace drop of blood
+  sub colon' d' r' o' p' underscore' o' f' underscore' b' l' o' o' d' colon' by u1FA78;
+
+  # replace pill
+  sub colon' p' i' l' l' colon' by u1F48A;
+
+  # replace adhesive bandage
+  sub colon' a' d' h' e' s' i' v' e' underscore' b' a' n' d' a' g' e' colon' by u1FA79;
+
+  # replace stethoscope
+  sub colon' s' t' e' t' h' o' s' c' o' p' e' colon' by u1FA7A;
+
+  # replace door
+  sub colon' d' o' o' r' colon' by u1F6AA;
+
+  # replace bed
+  sub colon' b' e' d' colon' by u1F6CF;
+
+  # replace couch and lamp
+  sub colon' c' o' u' c' h' underscore' a' n' d' underscore' l' a' m' p' colon' by u1F6CB;
+
+  # replace chair
+  sub colon' c' h' a' i' r' colon' by u1FA91;
+
+  # replace toilet
+  sub colon' t' o' i' l' e' t' colon' by u1F6BD;
+
+  # replace shower
+  sub colon' s' h' o' w' e' r' colon' by u1F6BF;
+
+  # replace bathtub
+  sub colon' b' a' t' h' t' u' b' colon' by u1F6C1;
+
+  # replace razor
+  sub colon' r' a' z' o' r' colon' by u1FA92;
+
+  # replace lotion bottle
+  sub colon' l' o' t' i' o' n' underscore' b' o' t' t' l' e' colon' by u1F9F4;
+
+  # replace safety pin
+  sub colon' s' a' f' e' t' y' underscore' p' i' n' colon' by u1F9F7;
+
+  # replace broom
+  sub colon' b' r' o' o' m' colon' by u1F9F9;
+
+  # replace basket
+  sub colon' b' a' s' k' e' t' colon' by u1F9FA;
+
+  # replace roll of paper
+  sub colon' r' o' l' l' underscore' o' f' underscore' p' a' p' e' r' colon' by u1F9FB;
+
+  # replace soap
+  sub colon' s' o' a' p' colon' by u1F9FC;
+
+  # replace sponge
+  sub colon' s' p' o' n' g' e' colon' by u1F9FD;
+
+  # replace fire extinguisher
+  sub colon' f' i' r' e' underscore' e' x' t' i' n' g' u' i' s' h' e' r' colon' by u1F9EF;
+
+  # replace shopping cart
+  sub colon' s' h' o' p' p' i' n' g' underscore' c' a' r' t' colon' by u1F6D2;
+
+  # replace cigarette
+  sub colon' s' m' o' k' i' n' g' colon' by u1F6AC;
+
+  # replace coffin
+  sub colon' c' o' f' f' i' n' colon' by uni26B0;
+
+  # replace funeral urn
+  sub colon' f' u' n' e' r' a' l' underscore' u' r' n' colon' by uni26B1;
+
+  # replace nazar amulet
+  sub colon' n' a' z' a' r' underscore' a' m' u' l' e' t' colon' by u1F9FF;
+
+  # replace moai
+  sub colon' m' o' y' a' i' colon' by u1F5FF;
+
+  # replace ATM sign
+  sub colon' a' t' m' colon' by u1F3E7;
+
+  # replace litter in bin sign
+  sub colon' p' u' t' underscore' l' i' t' t' e' r' underscore' i' n' underscore' i' t' s' underscore' p' l' a' c' e' colon' by u1F6AE;
+
+  # replace potable water
+  sub colon' p' o' t' a' b' l' e' underscore' w' a' t' e' r' colon' by u1F6B0;
+
+  # replace wheelchair symbol
+  sub colon' w' h' e' e' l' c' h' a' i' r' colon' by uni267F;
+
+  # replace men’s room
+  sub colon' m' e' n' s' colon' by u1F6B9;
+
+  # replace women’s room
+  sub colon' w' o' m' e' n' s' colon' by u1F6BA;
+
+  # replace restroom
+  sub colon' r' e' s' t' r' o' o' m' colon' by u1F6BB;
+
+  # replace baby symbol
+  sub colon' b' a' b' y' underscore' s' y' m' b' o' l' colon' by u1F6BC;
+
+  # replace water closet
+  sub colon' w' c' colon' by u1F6BE;
+
+  # replace passport control
+  sub colon' p' a' s' s' p' o' r' t' underscore' c' o' n' t' r' o' l' colon' by u1F6C2;
+
+  # replace customs
+  sub colon' c' u' s' t' o' m' s' colon' by u1F6C3;
+
+  # replace baggage claim
+  sub colon' b' a' g' g' a' g' e' underscore' c' l' a' i' m' colon' by u1F6C4;
+
+  # replace left luggage
+  sub colon' l' e' f' t' underscore' l' u' g' g' a' g' e' colon' by u1F6C5;
+
+  # replace warning
+  sub colon' w' a' r' n' i' n' g' colon' by uni26A0;
+
+  # replace children crossing
+  sub colon' c' h' i' l' d' r' e' n' underscore' c' r' o' s' s' i' n' g' colon' by u1F6B8;
+
+  # replace no entry
+  sub colon' n' o' underscore' e' n' t' r' y' colon' by uni26D4;
+
+  # replace prohibited
+  sub colon' n' o' underscore' e' n' t' r' y' underscore' s' i' g' n' colon' by u1F6AB;
+
+  # replace no bicycles
+  sub colon' n' o' underscore' b' i' c' y' c' l' e' s' colon' by u1F6B3;
+
+  # replace no smoking
+  sub colon' n' o' underscore' s' m' o' k' i' n' g' colon' by u1F6AD;
+
+  # replace no littering
+  sub colon' d' o' underscore' n' o' t' underscore' l' i' t' t' e' r' colon' by u1F6AF;
+
+  # replace non-potable water
+  sub colon' n' o' n' hyphen' p' o' t' a' b' l' e' underscore' w' a' t' e' r' colon' by u1F6B1;
+
+  # replace no pedestrians
+  sub colon' n' o' underscore' p' e' d' e' s' t' r' i' a' n' s' colon' by u1F6B7;
+
+  # replace no mobile phones
+  sub colon' n' o' underscore' m' o' b' i' l' e' underscore' p' h' o' n' e' s' colon' by u1F4F5;
+
+  # replace no one under eighteen
+  sub colon' u' n' d' e' r' a' g' e' colon' by u1F51E;
+
+  # replace radioactive
+  sub colon' r' a' d' i' o' a' c' t' i' v' e' colon' by uni2622;
+
+  # replace biohazard
+  sub colon' b' i' o' h' a' z' a' r' d' colon' by uni2623;
+
+  # replace up arrow
+  sub colon' a' r' r' o' w' underscore' u' p' colon' by uni2B06;
+
+  # replace up-right arrow
+  sub colon' a' r' r' o' w' underscore' u' p' p' e' r' underscore' r' i' g' h' t' colon' by uni2197;
+
+  # replace right arrow
+  sub colon' a' r' r' o' w' underscore' r' i' g' h' t' colon' by uni27A1;
+
+  # replace down-right arrow
+  sub colon' a' r' r' o' w' underscore' l' o' w' e' r' underscore' r' i' g' h' t' colon' by uni2198;
+
+  # replace down arrow
+  sub colon' a' r' r' o' w' underscore' d' o' w' n' colon' by uni2B07;
+
+  # replace down-left arrow
+  sub colon' a' r' r' o' w' underscore' l' o' w' e' r' underscore' l' e' f' t' colon' by uni2199;
+
+  # replace left arrow
+  sub colon' a' r' r' o' w' underscore' l' e' f' t' colon' by uni2B05;
+
+  # replace up-left arrow
+  sub colon' a' r' r' o' w' underscore' u' p' p' e' r' underscore' l' e' f' t' colon' by uni2196;
+
+  # replace up-down arrow
+  sub colon' a' r' r' o' w' underscore' u' p' underscore' d' o' w' n' colon' by arrowupdn;
+
+  # replace left-right arrow
+  sub colon' l' e' f' t' underscore' r' i' g' h' t' underscore' a' r' r' o' w' colon' by arrowboth;
+
+  # replace right arrow curving left
+  sub colon' l' e' f' t' w' a' r' d' s' underscore' a' r' r' o' w' underscore' w' i' t' h' underscore' h' o' o' k' colon' by uni21A9;
+
+  # replace left arrow curving right
+  sub colon' a' r' r' o' w' underscore' r' i' g' h' t' underscore' h' o' o' k' colon' by uni21AA;
+
+  # replace right arrow curving up
+  sub colon' a' r' r' o' w' underscore' h' e' a' d' i' n' g' underscore' u' p' colon' by uni2934;
+
+  # replace right arrow curving down
+  sub colon' a' r' r' o' w' underscore' h' e' a' d' i' n' g' underscore' d' o' w' n' colon' by uni2935;
+
+  # replace clockwise vertical arrows
+  sub colon' a' r' r' o' w' s' underscore' c' l' o' c' k' w' i' s' e' colon' by u1F503;
+
+  # replace counterclockwise arrows button
+  sub colon' a' r' r' o' w' s' underscore' c' o' u' n' t' e' r' c' l' o' c' k' w' i' s' e' colon' by u1F504;
+
+  # replace BACK arrow
+  sub colon' b' a' c' k' colon' by u1F519;
+
+  # replace END arrow
+  sub colon' e' n' d' colon' by u1F51A;
+
+  # replace ON! arrow
+  sub colon' o' n' colon' by u1F51B;
+
+  # replace SOON arrow
+  sub colon' s' o' o' n' colon' by u1F51C;
+
+  # replace TOP arrow
+  sub colon' t' o' p' colon' by u1F51D;
+
+  # replace place of worship
+  sub colon' p' l' a' c' e' underscore' o' f' underscore' w' o' r' s' h' i' p' colon' by u1F6D0;
+
+  # replace atom symbol
+  sub colon' a' t' o' m' underscore' s' y' m' b' o' l' colon' by uni269B;
+
+  # replace om
+  sub colon' o' m' colon' by u1F549;
+
+  # replace star of David
+  sub colon' s' t' a' r' underscore' o' f' underscore' d' a' v' i' d' colon' by uni2721;
+
+  # replace wheel of dharma
+  sub colon' w' h' e' e' l' underscore' o' f' underscore' d' h' a' r' m' a' colon' by uni2638;
+
+  # replace yin yang
+  sub colon' y' i' n' underscore' y' a' n' g' colon' by uni262F;
+
+  # replace latin cross
+  sub colon' l' a' t' i' n' underscore' c' r' o' s' s' colon' by uni271D;
+
+  # replace orthodox cross
+  sub colon' o' r' t' h' o' d' o' x' underscore' c' r' o' s' s' colon' by uni2626;
+
+  # replace star and crescent
+  sub colon' s' t' a' r' underscore' a' n' d' underscore' c' r' e' s' c' e' n' t' colon' by uni262A;
+
+  # replace peace symbol
+  sub colon' p' e' a' c' e' underscore' s' y' m' b' o' l' colon' by uni262E;
+
+  # replace menorah
+  sub colon' m' e' n' o' r' a' h' colon' by u1F54E;
+
+  # replace dotted six-pointed star
+  sub colon' s' i' x' underscore' p' o' i' n' t' e' d' underscore' s' t' a' r' colon' by u1F52F;
+
+  # replace Aries
+  sub colon' a' r' i' e' s' colon' by uni2648;
+
+  # replace Taurus
+  sub colon' t' a' u' r' u' s' colon' by uni2649;
+
+  # replace Gemini
+  sub colon' g' e' m' i' n' i' colon' by uni264A;
+
+  # replace Cancer
+  sub colon' c' a' n' c' e' r' colon' by uni264B;
+
+  # replace Leo
+  sub colon' l' e' o' colon' by uni264C;
+
+  # replace Virgo
+  sub colon' v' i' r' g' o' colon' by uni264D;
+
+  # replace Libra
+  sub colon' l' i' b' r' a' colon' by uni264E;
+
+  # replace Scorpio
+  sub colon' s' c' o' r' p' i' u' s' colon' by uni264F;
+
+  # replace Sagittarius
+  sub colon' s' a' g' i' t' t' a' r' i' u' s' colon' by uni2650;
+
+  # replace Capricorn
+  sub colon' c' a' p' r' i' c' o' r' n' colon' by uni2651;
+
+  # replace Aquarius
+  sub colon' a' q' u' a' r' i' u' s' colon' by uni2652;
+
+  # replace Pisces
+  sub colon' p' i' s' c' e' s' colon' by uni2653;
+
+  # replace Ophiuchus
+  sub colon' o' p' h' i' u' c' h' u' s' colon' by uni26CE;
+
+  # replace shuffle tracks button
+  sub colon' t' w' i' s' t' e' d' underscore' r' i' g' h' t' w' a' r' d' s' underscore' a' r' r' o' w' s' colon' by u1F500;
+
+  # replace repeat button
+  sub colon' r' e' p' e' a' t' colon' by u1F501;
+
+  # replace repeat single button
+  sub colon' r' e' p' e' a' t' underscore' o' n' e' colon' by u1F502;
+
+  # replace play button
+  sub colon' a' r' r' o' w' underscore' f' o' r' w' a' r' d' colon' by uni25B6;
+
+  # replace fast-forward button
+  sub colon' f' a' s' t' underscore' f' o' r' w' a' r' d' colon' by uni23E9;
+
+  # replace next track button
+  sub colon' n' e' x' t' underscore' t' r' a' c' k' underscore' b' u' t' t' o' n' colon' by uni23ED;
+
+  # replace play or pause button
+  sub colon' p' l' a' y' underscore' o' r' underscore' p' a' u' s' e' underscore' b' u' t' t' o' n' colon' by uni23EF;
+
+  # replace reverse button
+  sub colon' a' r' r' o' w' underscore' b' a' c' k' w' a' r' d' colon' by uni25C0;
+
+  # replace fast reverse button
+  sub colon' r' e' w' i' n' d' colon' by uni23EA;
+
+  # replace last track button
+  sub colon' p' r' e' v' i' o' u' s' underscore' t' r' a' c' k' underscore' b' u' t' t' o' n' colon' by uni23EE;
+
+  # replace upwards button
+  sub colon' a' r' r' o' w' underscore' u' p' underscore' s' m' a' l' l' colon' by u1F53C;
+
+  # replace fast up button
+  sub colon' a' r' r' o' w' underscore' d' o' u' b' l' e' underscore' u' p' colon' by uni23EB;
+
+  # replace downwards button
+  sub colon' a' r' r' o' w' underscore' d' o' w' n' underscore' s' m' a' l' l' colon' by u1F53D;
+
+  # replace fast down button
+  sub colon' a' r' r' o' w' underscore' d' o' u' b' l' e' underscore' d' o' w' n' colon' by uni23EC;
+
+  # replace pause button
+  sub colon' p' a' u' s' e' underscore' b' u' t' t' o' n' colon' by uni23F8;
+
+  # replace stop button
+  sub colon' s' t' o' p' underscore' b' u' t' t' o' n' colon' by uni23F9;
+
+  # replace record button
+  sub colon' r' e' c' o' r' d' underscore' b' u' t' t' o' n' colon' by uni23FA;
+
+  # replace eject button
+  sub colon' e' j' e' c' t' underscore' b' u' t' t' o' n' colon' by uni23CF;
+
+  # replace cinema
+  sub colon' c' i' n' e' m' a' colon' by u1F3A6;
+
+  # replace dim button
+  sub colon' l' o' w' underscore' b' r' i' g' h' t' n' e' s' s' colon' by u1F505;
+
+  # replace bright button
+  sub colon' h' i' g' h' underscore' b' r' i' g' h' t' n' e' s' s' colon' by u1F506;
+
+  # replace antenna bars
+  sub colon' s' i' g' n' a' l' underscore' s' t' r' e' n' g' t' h' colon' by u1F4F6;
+
+  # replace vibration mode
+  sub colon' v' i' b' r' a' t' i' o' n' underscore' m' o' d' e' colon' by u1F4F3;
+
+  # replace mobile phone off
+  sub colon' m' o' b' i' l' e' underscore' p' h' o' n' e' underscore' o' f' f' colon' by u1F4F4;
+
+  # replace female sign
+  sub colon' f' e' m' a' l' e' underscore' s' i' g' n' colon' by female;
+
+  # replace male sign
+  sub colon' m' a' l' e' underscore' s' i' g' n' colon' by male;
+
+  # replace transgender symbol
+  sub colon' t' r' a' n' s' g' e' n' d' e' r' underscore' s' y' m' b' o' l' colon' by uni26A7;
+
+  # replace multiply
+  sub colon' h' e' a' v' y' underscore' m' u' l' t' i' p' l' i' c' a' t' i' o' n' underscore' x' colon' by uni2716;
+
+  # replace plus
+  sub colon' h' e' a' v' y' underscore' p' l' u' s' underscore' s' i' g' n' colon' by uni2795;
+
+  # replace minus
+  sub colon' h' e' a' v' y' underscore' m' i' n' u' s' underscore' s' i' g' n' colon' by uni2796;
+
+  # replace divide
+  sub colon' h' e' a' v' y' underscore' d' i' v' i' s' i' o' n' underscore' s' i' g' n' colon' by uni2797;
+
+  # replace infinity
+  sub colon' i' n' f' i' n' i' t' y' colon' by uni267E;
+
+  # replace double exclamation mark
+  sub colon' b' a' n' g' b' a' n' g' colon' by exclamdbl;
+
+  # replace exclamation question mark
+  sub colon' i' n' t' e' r' r' o' b' a' n' g' colon' by uni2049;
+
+  # replace red question mark
+  sub colon' q' u' e' s' t' i' o' n' colon' by uni2753;
+
+  # replace white question mark
+  sub colon' g' r' e' y' underscore' q' u' e' s' t' i' o' n' colon' by uni2754;
+
+  # replace white exclamation mark
+  sub colon' g' r' e' y' underscore' e' x' c' l' a' m' a' t' i' o' n' colon' by uni2755;
+
+  # replace red exclamation mark
+  sub colon' e' x' c' l' a' m' a' t' i' o' n' colon' by uni2757;
+
+  # replace wavy dash
+  sub colon' w' a' v' y' underscore' d' a' s' h' colon' by uni3030;
+
+  # replace currency exchange
+  sub colon' c' u' r' r' e' n' c' y' underscore' e' x' c' h' a' n' g' e' colon' by u1F4B1;
+
+  # replace heavy dollar sign
+  sub colon' h' e' a' v' y' underscore' d' o' l' l' a' r' underscore' s' i' g' n' colon' by u1F4B2;
+
+  # replace medical symbol
+  sub colon' m' e' d' i' c' a' l' underscore' s' y' m' b' o' l' colon' by uni2695;
+
+  # replace recycling symbol
+  sub colon' r' e' c' y' c' l' e' colon' by uni267B;
+
+  # replace fleur-de-lis
+  sub colon' f' l' e' u' r' underscore' d' e' underscore' l' i' s' colon' by uni269C;
+
+  # replace trident emblem
+  sub colon' t' r' i' d' e' n' t' colon' by u1F531;
+
+  # replace name badge
+  sub colon' n' a' m' e' underscore' b' a' d' g' e' colon' by u1F4DB;
+
+  # replace Japanese symbol for beginner
+  sub colon' b' e' g' i' n' n' e' r' colon' by u1F530;
+
+  # replace hollow red circle
+  sub colon' o' colon' by uni2B55;
+
+  # replace check mark button
+  sub colon' w' h' i' t' e' underscore' c' h' e' c' k' underscore' m' a' r' k' colon' by uni2705;
+
+  # replace check box with check
+  sub colon' b' a' l' l' o' t' underscore' b' o' x' underscore' w' i' t' h' underscore' c' h' e' c' k' colon' by uni2611;
+
+  # replace check mark
+  sub colon' h' e' a' v' y' underscore' c' h' e' c' k' underscore' m' a' r' k' colon' by uni2714;
+
+  # replace cross mark
+  sub colon' x' colon' by uni274C;
+
+  # replace cross mark button
+  sub colon' n' e' g' a' t' i' v' e' underscore' s' q' u' a' r' e' d' underscore' c' r' o' s' s' underscore' m' a' r' k' colon' by uni274E;
+
+  # replace curly loop
+  sub colon' c' u' r' l' y' underscore' l' o' o' p' colon' by uni27B0;
+
+  # replace double curly loop
+  sub colon' l' o' o' p' colon' by uni27BF;
+
+  # replace part alternation mark
+  sub colon' p' a' r' t' underscore' a' l' t' e' r' n' a' t' i' o' n' underscore' m' a' r' k' colon' by uni303D;
+
+  # replace eight-spoked asterisk
+  sub colon' e' i' g' h' t' underscore' s' p' o' k' e' d' underscore' a' s' t' e' r' i' s' k' colon' by uni2733;
+
+  # replace eight-pointed star
+  sub colon' e' i' g' h' t' underscore' p' o' i' n' t' e' d' underscore' b' l' a' c' k' underscore' s' t' a' r' colon' by uni2734;
+
+  # replace sparkle
+  sub colon' s' p' a' r' k' l' e' colon' by uni2747;
+
+  # replace copyright
+  sub colon' c' o' p' y' r' i' g' h' t' colon' by copyright;
+
+  # replace registered
+  sub colon' r' e' g' i' s' t' e' r' e' d' colon' by registered;
+
+  # replace trade mark
+  sub colon' t' m' colon' by trademark;
+
+  # replace keycap: #
+  sub colon' h' a' s' h' colon' by numbersign;
+
+  # replace keycap: *
+  sub colon' a' s' t' e' r' i' s' k' colon' by asterisk;
+
+  # replace keycap: 0
+  sub colon' z' e' r' o' colon' by zero;
+
+  # replace keycap: 1
+  sub colon' o' n' e' colon' by one;
+
+  # replace keycap: 2
+  sub colon' t' w' o' colon' by two;
+
+  # replace keycap: 3
+  sub colon' t' h' r' e' e' colon' by three;
+
+  # replace keycap: 4
+  sub colon' f' o' u' r' colon' by four;
+
+  # replace keycap: 5
+  sub colon' f' i' v' e' colon' by five;
+
+  # replace keycap: 6
+  sub colon' s' i' x' colon' by six;
+
+  # replace keycap: 7
+  sub colon' s' e' v' e' n' colon' by seven;
+
+  # replace keycap: 8
+  sub colon' e' i' g' h' t' colon' by eight;
+
+  # replace keycap: 9
+  sub colon' n' i' n' e' colon' by nine;
+
+  # replace keycap: 10
+  sub colon' k' e' y' c' a' p' underscore' t' e' n' colon' by u1F51F;
+
+  # replace input latin uppercase
+  sub colon' c' a' p' i' t' a' l' underscore' a' b' c' d' colon' by u1F520;
+
+  # replace input latin lowercase
+  sub colon' a' b' c' d' colon' by u1F521;
+
+  # replace input numbers
+  sub colon' one' two' three' four' colon' by u1F522;
+
+  # replace input symbols
+  sub colon' s' y' m' b' o' l' s' colon' by u1F523;
+
+  # replace input latin letters
+  sub colon' a' b' c' colon' by u1F524;
+
+  # replace A button (blood type)
+  sub colon' a' colon' by u1F170;
+
+  # replace AB button (blood type)
+  sub colon' a' b' colon' by u1F18E;
+
+  # replace B button (blood type)
+  sub colon' b' colon' by u1F171;
+
+  # replace CL button
+  sub colon' c' l' colon' by u1F191;
+
+  # replace COOL button
+  sub colon' c' o' o' l' colon' by u1F192;
+
+  # replace FREE button
+  sub colon' f' r' e' e' colon' by u1F193;
+
+  # replace information
+  sub colon' i' n' f' o' r' m' a' t' i' o' n' underscore' s' o' u' r' c' e' colon' by uni2139;
+
+  # replace ID button
+  sub colon' i' d' colon' by u1F194;
+
+  # replace circled M
+  sub colon' m' colon' by uni24C2;
+
+  # replace NEW button
+  sub colon' n' e' w' colon' by u1F195;
+
+  # replace NG button
+  sub colon' n' g' colon' by u1F196;
+
+  # replace O button (blood type)
+  sub colon' o' two' colon' by u1F17E;
+
+  # replace OK button
+  sub colon' o' k' colon' by u1F197;
+
+  # replace P button
+  sub colon' p' a' r' k' i' n' g' colon' by u1F17F;
+
+  # replace SOS button
+  sub colon' s' o' s' colon' by u1F198;
+
+  # replace UP! button
+  sub colon' u' p' colon' by u1F199;
+
+  # replace VS button
+  sub colon' v' s' colon' by u1F19A;
+
+  # replace Japanese “here” button
+  sub colon' k' o' k' o' colon' by u1F201;
+
+  # replace Japanese “service charge” button
+  sub colon' s' a' colon' by u1F202;
+
+  # replace Japanese “monthly amount” button
+  sub colon' u' six' seven' zero' eight' colon' by u1F237;
+
+  # replace Japanese “not free of charge” button
+  sub colon' u' six' seven' zero' nine' colon' by u1F236;
+
+  # replace Japanese “reserved” button
+  sub colon' u' six' three' zero' seven' colon' by u1F22F;
+
+  # replace Japanese “bargain” button
+  sub colon' i' d' e' o' g' r' a' p' h' underscore' a' d' v' a' n' t' a' g' e' colon' by u1F250;
+
+  # replace Japanese “discount” button
+  sub colon' u' five' two' seven' two' colon' by u1F239;
+
+  # replace Japanese “free of charge” button
+  sub colon' u' seven' one' two' one' colon' by u1F21A;
+
+  # replace Japanese “prohibited” button
+  sub colon' u' seven' nine' eight' one' colon' by u1F232;
+
+  # replace Japanese “acceptable” button
+  sub colon' a' c' c' e' p' t' colon' by u1F251;
+
+  # replace Japanese “application” button
+  sub colon' u' seven' five' three' three' colon' by u1F238;
+
+  # replace Japanese “passing grade” button
+  sub colon' u' five' four' zero' eight' colon' by u1F234;
+
+  # replace Japanese “vacancy” button
+  sub colon' u' seven' a' seven' a' colon' by u1F233;
+
+  # replace Japanese “congratulations” button
+  sub colon' c' o' n' g' r' a' t' u' l' a' t' i' o' n' s' colon' by uni3297;
+
+  # replace Japanese “secret” button
+  sub colon' s' e' c' r' e' t' colon' by uni3299;
+
+  # replace Japanese “open for business” button
+  sub colon' u' five' five' b' six' colon' by u1F23A;
+
+  # replace Japanese “no vacancy” button
+  sub colon' u' six' e' eight' zero' colon' by u1F235;
+
+  # replace red circle
+  sub colon' r' e' d' underscore' c' i' r' c' l' e' colon' by u1F534;
+
+  # replace orange circle
+  sub colon' o' r' a' n' g' e' underscore' c' i' r' c' l' e' colon' by u1F7E0;
+
+  # replace yellow circle
+  sub colon' y' e' l' l' o' w' underscore' c' i' r' c' l' e' colon' by u1F7E1;
+
+  # replace green circle
+  sub colon' g' r' e' e' n' underscore' c' i' r' c' l' e' colon' by u1F7E2;
+
+  # replace blue circle
+  sub colon' l' a' r' g' e' underscore' b' l' u' e' underscore' c' i' r' c' l' e' colon' by u1F535;
+
+  # replace purple circle
+  sub colon' p' u' r' p' l' e' underscore' c' i' r' c' l' e' colon' by u1F7E3;
+
+  # replace brown circle
+  sub colon' b' r' o' w' n' underscore' c' i' r' c' l' e' colon' by u1F7E4;
+
+  # replace black circle
+  sub colon' b' l' a' c' k' underscore' c' i' r' c' l' e' colon' by uni26AB;
+
+  # replace white circle
+  sub colon' w' h' i' t' e' underscore' c' i' r' c' l' e' colon' by uni26AA;
+
+  # replace red square
+  sub colon' r' e' d' underscore' s' q' u' a' r' e' colon' by u1F7E5;
+
+  # replace orange square
+  sub colon' o' r' a' n' g' e' underscore' s' q' u' a' r' e' colon' by u1F7E7;
+
+  # replace yellow square
+  sub colon' y' e' l' l' o' w' underscore' s' q' u' a' r' e' colon' by u1F7E8;
+
+  # replace green square
+  sub colon' g' r' e' e' n' underscore' s' q' u' a' r' e' colon' by u1F7E9;
+
+  # replace blue square
+  sub colon' b' l' u' e' underscore' s' q' u' a' r' e' colon' by u1F7E6;
+
+  # replace purple square
+  sub colon' p' u' r' p' l' e' underscore' s' q' u' a' r' e' colon' by u1F7EA;
+
+  # replace brown square
+  sub colon' b' r' o' w' n' underscore' s' q' u' a' r' e' colon' by u1F7EB;
+
+  # replace black large square
+  sub colon' b' l' a' c' k' underscore' l' a' r' g' e' underscore' s' q' u' a' r' e' colon' by uni2B1B;
+
+  # replace white large square
+  sub colon' w' h' i' t' e' underscore' l' a' r' g' e' underscore' s' q' u' a' r' e' colon' by uni2B1C;
+
+  # replace black medium square
+  sub colon' b' l' a' c' k' underscore' m' e' d' i' u' m' underscore' s' q' u' a' r' e' colon' by uni25FC;
+
+  # replace white medium square
+  sub colon' w' h' i' t' e' underscore' m' e' d' i' u' m' underscore' s' q' u' a' r' e' colon' by uni25FB;
+
+  # replace black medium-small square
+  sub colon' b' l' a' c' k' underscore' m' e' d' i' u' m' underscore' s' m' a' l' l' underscore' s' q' u' a' r' e' colon' by uni25FE;
+
+  # replace white medium-small square
+  sub colon' w' h' i' t' e' underscore' m' e' d' i' u' m' underscore' s' m' a' l' l' underscore' s' q' u' a' r' e' colon' by uni25FD;
+
+  # replace black small square
+  sub colon' b' l' a' c' k' underscore' s' m' a' l' l' underscore' s' q' u' a' r' e' colon' by uni25AA;
+
+  # replace white small square
+  sub colon' w' h' i' t' e' underscore' s' m' a' l' l' underscore' s' q' u' a' r' e' colon' by uni25AB;
+
+  # replace large orange diamond
+  sub colon' l' a' r' g' e' underscore' o' r' a' n' g' e' underscore' d' i' a' m' o' n' d' colon' by u1F536;
+
+  # replace large blue diamond
+  sub colon' l' a' r' g' e' underscore' b' l' u' e' underscore' d' i' a' m' o' n' d' colon' by u1F537;
+
+  # replace small orange diamond
+  sub colon' s' m' a' l' l' underscore' o' r' a' n' g' e' underscore' d' i' a' m' o' n' d' colon' by u1F538;
+
+  # replace small blue diamond
+  sub colon' s' m' a' l' l' underscore' b' l' u' e' underscore' d' i' a' m' o' n' d' colon' by u1F539;
+
+  # replace red triangle pointed up
+  sub colon' s' m' a' l' l' underscore' r' e' d' underscore' t' r' i' a' n' g' l' e' colon' by u1F53A;
+
+  # replace red triangle pointed down
+  sub colon' s' m' a' l' l' underscore' r' e' d' underscore' t' r' i' a' n' g' l' e' underscore' d' o' w' n' colon' by u1F53B;
+
+  # replace diamond with a dot
+  sub colon' d' i' a' m' o' n' d' underscore' s' h' a' p' e' underscore' w' i' t' h' underscore' a' underscore' d' o' t' underscore' i' n' s' i' d' e' colon' by u1F4A0;
+
+  # replace radio button
+  sub colon' r' a' d' i' o' underscore' b' u' t' t' o' n' colon' by u1F518;
+
+  # replace white square button
+  sub colon' w' h' i' t' e' underscore' s' q' u' a' r' e' underscore' b' u' t' t' o' n' colon' by u1F533;
+
+  # replace black square button
+  sub colon' b' l' a' c' k' underscore' s' q' u' a' r' e' underscore' b' u' t' t' o' n' colon' by u1F532;
+
+  # replace chequered flag
+  sub colon' c' h' e' c' k' e' r' e' d' underscore' f' l' a' g' colon' by u1F3C1;
+
+  # replace triangular flag
+  sub colon' t' r' i' a' n' g' u' l' a' r' underscore' f' l' a' g' underscore' o' n' underscore' p' o' s' t' colon' by u1F6A9;
+
+  # replace crossed flags
+  sub colon' c' r' o' s' s' e' d' underscore' f' l' a' g' s' colon' by u1F38C;
+
+  # replace black flag
+  sub colon' b' l' a' c' k' underscore' f' l' a' g' colon' by u1F3F4;
+
+  # replace white flag
+  sub colon' w' h' i' t' e' underscore' f' l' a' g' colon' by u1F3F3;
+
+  # replace rainbow flag
+  sub colon' r' a' i' n' b' o' w' underscore' f' l' a' g' colon' by u1F3F3;
+
+  # replace transgender flag
+  sub colon' t' r' a' n' s' g' e' n' d' e' r' underscore' f' l' a' g' colon' by u1F3F3;
+
+  # replace pirate flag
+  sub colon' p' i' r' a' t' e' underscore' f' l' a' g' colon' by u1F3F4;
+
+  # replace flag: Ascension Island
+  sub colon' a' s' c' e' n' s' i' o' n' underscore' i' s' l' a' n' d' colon' by u1F1E6;
+
+  # replace flag: Andorra
+  sub colon' a' n' d' o' r' r' a' colon' by u1F1E6;
+
+  # replace flag: United Arab Emirates
+  sub colon' u' n' i' t' e' d' underscore' a' r' a' b' underscore' e' m' i' r' a' t' e' s' colon' by u1F1E6;
+
+  # replace flag: Afghanistan
+  sub colon' a' f' g' h' a' n' i' s' t' a' n' colon' by u1F1E6;
+
+  # replace flag: Antigua & Barbuda
+  sub colon' a' n' t' i' g' u' a' underscore' b' a' r' b' u' d' a' colon' by u1F1E6;
+
+  # replace flag: Anguilla
+  sub colon' a' n' g' u' i' l' l' a' colon' by u1F1E6;
+
+  # replace flag: Albania
+  sub colon' a' l' b' a' n' i' a' colon' by u1F1E6;
+
+  # replace flag: Armenia
+  sub colon' a' r' m' e' n' i' a' colon' by u1F1E6;
+
+  # replace flag: Angola
+  sub colon' a' n' g' o' l' a' colon' by u1F1E6;
+
+  # replace flag: Antarctica
+  sub colon' a' n' t' a' r' c' t' i' c' a' colon' by u1F1E6;
+
+  # replace flag: Argentina
+  sub colon' a' r' g' e' n' t' i' n' a' colon' by u1F1E6;
+
+  # replace flag: American Samoa
+  sub colon' a' m' e' r' i' c' a' n' underscore' s' a' m' o' a' colon' by u1F1E6;
+
+  # replace flag: Austria
+  sub colon' a' u' s' t' r' i' a' colon' by u1F1E6;
+
+  # replace flag: Australia
+  sub colon' a' u' s' t' r' a' l' i' a' colon' by u1F1E6;
+
+  # replace flag: Aruba
+  sub colon' a' r' u' b' a' colon' by u1F1E6;
+
+  # replace flag: Åland Islands
+  sub colon' a' l' a' n' d' underscore' i' s' l' a' n' d' s' colon' by u1F1E6;
+
+  # replace flag: Azerbaijan
+  sub colon' a' z' e' r' b' a' i' j' a' n' colon' by u1F1E6;
+
+  # replace flag: Bosnia & Herzegovina
+  sub colon' b' o' s' n' i' a' underscore' h' e' r' z' e' g' o' v' i' n' a' colon' by u1F1E7;
+
+  # replace flag: Barbados
+  sub colon' b' a' r' b' a' d' o' s' colon' by u1F1E7;
+
+  # replace flag: Bangladesh
+  sub colon' b' a' n' g' l' a' d' e' s' h' colon' by u1F1E7;
+
+  # replace flag: Belgium
+  sub colon' b' e' l' g' i' u' m' colon' by u1F1E7;
+
+  # replace flag: Burkina Faso
+  sub colon' b' u' r' k' i' n' a' underscore' f' a' s' o' colon' by u1F1E7;
+
+  # replace flag: Bulgaria
+  sub colon' b' u' l' g' a' r' i' a' colon' by u1F1E7;
+
+  # replace flag: Bahrain
+  sub colon' b' a' h' r' a' i' n' colon' by u1F1E7;
+
+  # replace flag: Burundi
+  sub colon' b' u' r' u' n' d' i' colon' by u1F1E7;
+
+  # replace flag: Benin
+  sub colon' b' e' n' i' n' colon' by u1F1E7;
+
+  # replace flag: St. Barthélemy
+  sub colon' s' t' underscore' b' a' r' t' h' e' l' e' m' y' colon' by u1F1E7;
+
+  # replace flag: Bermuda
+  sub colon' b' e' r' m' u' d' a' colon' by u1F1E7;
+
+  # replace flag: Brunei
+  sub colon' b' r' u' n' e' i' colon' by u1F1E7;
+
+  # replace flag: Bolivia
+  sub colon' b' o' l' i' v' i' a' colon' by u1F1E7;
+
+  # replace flag: Caribbean Netherlands
+  sub colon' c' a' r' i' b' b' e' a' n' underscore' n' e' t' h' e' r' l' a' n' d' s' colon' by u1F1E7;
+
+  # replace flag: Brazil
+  sub colon' b' r' a' z' i' l' colon' by u1F1E7;
+
+  # replace flag: Bahamas
+  sub colon' b' a' h' a' m' a' s' colon' by u1F1E7;
+
+  # replace flag: Bhutan
+  sub colon' b' h' u' t' a' n' colon' by u1F1E7;
+
+  # replace flag: Bouvet Island
+  sub colon' b' o' u' v' e' t' underscore' i' s' l' a' n' d' colon' by u1F1E7;
+
+  # replace flag: Botswana
+  sub colon' b' o' t' s' w' a' n' a' colon' by u1F1E7;
+
+  # replace flag: Belarus
+  sub colon' b' e' l' a' r' u' s' colon' by u1F1E7;
+
+  # replace flag: Belize
+  sub colon' b' e' l' i' z' e' colon' by u1F1E7;
+
+  # replace flag: Canada
+  sub colon' c' a' n' a' d' a' colon' by u1F1E8;
+
+  # replace flag: Cocos (Keeling) Islands
+  sub colon' c' o' c' o' s' underscore' i' s' l' a' n' d' s' colon' by u1F1E8;
+
+  # replace flag: Congo - Kinshasa
+  sub colon' c' o' n' g' o' underscore' k' i' n' s' h' a' s' a' colon' by u1F1E8;
+
+  # replace flag: Central African Republic
+  sub colon' c' e' n' t' r' a' l' underscore' a' f' r' i' c' a' n' underscore' r' e' p' u' b' l' i' c' colon' by u1F1E8;
+
+  # replace flag: Congo - Brazzaville
+  sub colon' c' o' n' g' o' underscore' b' r' a' z' z' a' v' i' l' l' e' colon' by u1F1E8;
+
+  # replace flag: Switzerland
+  sub colon' s' w' i' t' z' e' r' l' a' n' d' colon' by u1F1E8;
+
+  # replace flag: Côte d’Ivoire
+  sub colon' c' o' t' e' underscore' d' i' v' o' i' r' e' colon' by u1F1E8;
+
+  # replace flag: Cook Islands
+  sub colon' c' o' o' k' underscore' i' s' l' a' n' d' s' colon' by u1F1E8;
+
+  # replace flag: Chile
+  sub colon' c' h' i' l' e' colon' by u1F1E8;
+
+  # replace flag: Cameroon
+  sub colon' c' a' m' e' r' o' o' n' colon' by u1F1E8;
+
+  # replace flag: China
+  sub colon' c' n' colon' by u1F1E8;
+
+  # replace flag: Colombia
+  sub colon' c' o' l' o' m' b' i' a' colon' by u1F1E8;
+
+  # replace flag: Clipperton Island
+  sub colon' c' l' i' p' p' e' r' t' o' n' underscore' i' s' l' a' n' d' colon' by u1F1E8;
+
+  # replace flag: Costa Rica
+  sub colon' c' o' s' t' a' underscore' r' i' c' a' colon' by u1F1E8;
+
+  # replace flag: Cuba
+  sub colon' c' u' b' a' colon' by u1F1E8;
+
+  # replace flag: Cape Verde
+  sub colon' c' a' p' e' underscore' v' e' r' d' e' colon' by u1F1E8;
+
+  # replace flag: Curaçao
+  sub colon' c' u' r' a' c' a' o' colon' by u1F1E8;
+
+  # replace flag: Christmas Island
+  sub colon' c' h' r' i' s' t' m' a' s' underscore' i' s' l' a' n' d' colon' by u1F1E8;
+
+  # replace flag: Cyprus
+  sub colon' c' y' p' r' u' s' colon' by u1F1E8;
+
+  # replace flag: Czechia
+  sub colon' c' z' e' c' h' underscore' r' e' p' u' b' l' i' c' colon' by u1F1E8;
+
+  # replace flag: Germany
+  sub colon' d' e' colon' by u1F1E9;
+
+  # replace flag: Diego Garcia
+  sub colon' d' i' e' g' o' underscore' g' a' r' c' i' a' colon' by u1F1E9;
+
+  # replace flag: Djibouti
+  sub colon' d' j' i' b' o' u' t' i' colon' by u1F1E9;
+
+  # replace flag: Denmark
+  sub colon' d' e' n' m' a' r' k' colon' by u1F1E9;
+
+  # replace flag: Dominica
+  sub colon' d' o' m' i' n' i' c' a' colon' by u1F1E9;
+
+  # replace flag: Dominican Republic
+  sub colon' d' o' m' i' n' i' c' a' n' underscore' r' e' p' u' b' l' i' c' colon' by u1F1E9;
+
+  # replace flag: Algeria
+  sub colon' a' l' g' e' r' i' a' colon' by u1F1E9;
+
+  # replace flag: Ceuta & Melilla
+  sub colon' c' e' u' t' a' underscore' m' e' l' i' l' l' a' colon' by u1F1EA;
+
+  # replace flag: Ecuador
+  sub colon' e' c' u' a' d' o' r' colon' by u1F1EA;
+
+  # replace flag: Estonia
+  sub colon' e' s' t' o' n' i' a' colon' by u1F1EA;
+
+  # replace flag: Egypt
+  sub colon' e' g' y' p' t' colon' by u1F1EA;
+
+  # replace flag: Western Sahara
+  sub colon' w' e' s' t' e' r' n' underscore' s' a' h' a' r' a' colon' by u1F1EA;
+
+  # replace flag: Eritrea
+  sub colon' e' r' i' t' r' e' a' colon' by u1F1EA;
+
+  # replace flag: Spain
+  sub colon' e' s' colon' by u1F1EA;
+
+  # replace flag: Ethiopia
+  sub colon' e' t' h' i' o' p' i' a' colon' by u1F1EA;
+
+  # replace flag: European Union
+  sub colon' e' u' colon' by u1F1EA;
+
+  # replace flag: Finland
+  sub colon' f' i' n' l' a' n' d' colon' by u1F1EB;
+
+  # replace flag: Fiji
+  sub colon' f' i' j' i' colon' by u1F1EB;
+
+  # replace flag: Falkland Islands
+  sub colon' f' a' l' k' l' a' n' d' underscore' i' s' l' a' n' d' s' colon' by u1F1EB;
+
+  # replace flag: Micronesia
+  sub colon' m' i' c' r' o' n' e' s' i' a' colon' by u1F1EB;
+
+  # replace flag: Faroe Islands
+  sub colon' f' a' r' o' e' underscore' i' s' l' a' n' d' s' colon' by u1F1EB;
+
+  # replace flag: France
+  sub colon' f' r' colon' by u1F1EB;
+
+  # replace flag: Gabon
+  sub colon' g' a' b' o' n' colon' by u1F1EC;
+
+  # replace flag: United Kingdom
+  sub colon' g' b' colon' by u1F1EC;
+
+  # replace flag: Grenada
+  sub colon' g' r' e' n' a' d' a' colon' by u1F1EC;
+
+  # replace flag: Georgia
+  sub colon' g' e' o' r' g' i' a' colon' by u1F1EC;
+
+  # replace flag: French Guiana
+  sub colon' f' r' e' n' c' h' underscore' g' u' i' a' n' a' colon' by u1F1EC;
+
+  # replace flag: Guernsey
+  sub colon' g' u' e' r' n' s' e' y' colon' by u1F1EC;
+
+  # replace flag: Ghana
+  sub colon' g' h' a' n' a' colon' by u1F1EC;
+
+  # replace flag: Gibraltar
+  sub colon' g' i' b' r' a' l' t' a' r' colon' by u1F1EC;
+
+  # replace flag: Greenland
+  sub colon' g' r' e' e' n' l' a' n' d' colon' by u1F1EC;
+
+  # replace flag: Gambia
+  sub colon' g' a' m' b' i' a' colon' by u1F1EC;
+
+  # replace flag: Guinea
+  sub colon' g' u' i' n' e' a' colon' by u1F1EC;
+
+  # replace flag: Guadeloupe
+  sub colon' g' u' a' d' e' l' o' u' p' e' colon' by u1F1EC;
+
+  # replace flag: Equatorial Guinea
+  sub colon' e' q' u' a' t' o' r' i' a' l' underscore' g' u' i' n' e' a' colon' by u1F1EC;
+
+  # replace flag: Greece
+  sub colon' g' r' e' e' c' e' colon' by u1F1EC;
+
+  # replace flag: South Georgia & South Sandwich Islands
+  sub colon' s' o' u' t' h' underscore' g' e' o' r' g' i' a' underscore' s' o' u' t' h' underscore' s' a' n' d' w' i' c' h' underscore' i' s' l' a' n' d' s' colon' by u1F1EC;
+
+  # replace flag: Guatemala
+  sub colon' g' u' a' t' e' m' a' l' a' colon' by u1F1EC;
+
+  # replace flag: Guam
+  sub colon' g' u' a' m' colon' by u1F1EC;
+
+  # replace flag: Guinea-Bissau
+  sub colon' g' u' i' n' e' a' underscore' b' i' s' s' a' u' colon' by u1F1EC;
+
+  # replace flag: Guyana
+  sub colon' g' u' y' a' n' a' colon' by u1F1EC;
+
+  # replace flag: Hong Kong SAR China
+  sub colon' h' o' n' g' underscore' k' o' n' g' colon' by u1F1ED;
+
+  # replace flag: Heard & McDonald Islands
+  sub colon' h' e' a' r' d' underscore' m' c' d' o' n' a' l' d' underscore' i' s' l' a' n' d' s' colon' by u1F1ED;
+
+  # replace flag: Honduras
+  sub colon' h' o' n' d' u' r' a' s' colon' by u1F1ED;
+
+  # replace flag: Croatia
+  sub colon' c' r' o' a' t' i' a' colon' by u1F1ED;
+
+  # replace flag: Haiti
+  sub colon' h' a' i' t' i' colon' by u1F1ED;
+
+  # replace flag: Hungary
+  sub colon' h' u' n' g' a' r' y' colon' by u1F1ED;
+
+  # replace flag: Canary Islands
+  sub colon' c' a' n' a' r' y' underscore' i' s' l' a' n' d' s' colon' by u1F1EE;
+
+  # replace flag: Indonesia
+  sub colon' i' n' d' o' n' e' s' i' a' colon' by u1F1EE;
+
+  # replace flag: Ireland
+  sub colon' i' r' e' l' a' n' d' colon' by u1F1EE;
+
+  # replace flag: Israel
+  sub colon' i' s' r' a' e' l' colon' by u1F1EE;
+
+  # replace flag: Isle of Man
+  sub colon' i' s' l' e' underscore' o' f' underscore' m' a' n' colon' by u1F1EE;
+
+  # replace flag: India
+  sub colon' i' n' d' i' a' colon' by u1F1EE;
+
+  # replace flag: British Indian Ocean Territory
+  sub colon' b' r' i' t' i' s' h' underscore' i' n' d' i' a' n' underscore' o' c' e' a' n' underscore' t' e' r' r' i' t' o' r' y' colon' by u1F1EE;
+
+  # replace flag: Iraq
+  sub colon' i' r' a' q' colon' by u1F1EE;
+
+  # replace flag: Iran
+  sub colon' i' r' a' n' colon' by u1F1EE;
+
+  # replace flag: Iceland
+  sub colon' i' c' e' l' a' n' d' colon' by u1F1EE;
+
+  # replace flag: Italy
+  sub colon' i' t' colon' by u1F1EE;
+
+  # replace flag: Jersey
+  sub colon' j' e' r' s' e' y' colon' by u1F1EF;
+
+  # replace flag: Jamaica
+  sub colon' j' a' m' a' i' c' a' colon' by u1F1EF;
+
+  # replace flag: Jordan
+  sub colon' j' o' r' d' a' n' colon' by u1F1EF;
+
+  # replace flag: Japan
+  sub colon' j' p' colon' by u1F1EF;
+
+  # replace flag: Kenya
+  sub colon' k' e' n' y' a' colon' by u1F1F0;
+
+  # replace flag: Kyrgyzstan
+  sub colon' k' y' r' g' y' z' s' t' a' n' colon' by u1F1F0;
+
+  # replace flag: Cambodia
+  sub colon' c' a' m' b' o' d' i' a' colon' by u1F1F0;
+
+  # replace flag: Kiribati
+  sub colon' k' i' r' i' b' a' t' i' colon' by u1F1F0;
+
+  # replace flag: Comoros
+  sub colon' c' o' m' o' r' o' s' colon' by u1F1F0;
+
+  # replace flag: St. Kitts & Nevis
+  sub colon' s' t' underscore' k' i' t' t' s' underscore' n' e' v' i' s' colon' by u1F1F0;
+
+  # replace flag: North Korea
+  sub colon' n' o' r' t' h' underscore' k' o' r' e' a' colon' by u1F1F0;
+
+  # replace flag: South Korea
+  sub colon' k' r' colon' by u1F1F0;
+
+  # replace flag: Kuwait
+  sub colon' k' u' w' a' i' t' colon' by u1F1F0;
+
+  # replace flag: Cayman Islands
+  sub colon' c' a' y' m' a' n' underscore' i' s' l' a' n' d' s' colon' by u1F1F0;
+
+  # replace flag: Kazakhstan
+  sub colon' k' a' z' a' k' h' s' t' a' n' colon' by u1F1F0;
+
+  # replace flag: Laos
+  sub colon' l' a' o' s' colon' by u1F1F1;
+
+  # replace flag: Lebanon
+  sub colon' l' e' b' a' n' o' n' colon' by u1F1F1;
+
+  # replace flag: St. Lucia
+  sub colon' s' t' underscore' l' u' c' i' a' colon' by u1F1F1;
+
+  # replace flag: Liechtenstein
+  sub colon' l' i' e' c' h' t' e' n' s' t' e' i' n' colon' by u1F1F1;
+
+  # replace flag: Sri Lanka
+  sub colon' s' r' i' underscore' l' a' n' k' a' colon' by u1F1F1;
+
+  # replace flag: Liberia
+  sub colon' l' i' b' e' r' i' a' colon' by u1F1F1;
+
+  # replace flag: Lesotho
+  sub colon' l' e' s' o' t' h' o' colon' by u1F1F1;
+
+  # replace flag: Lithuania
+  sub colon' l' i' t' h' u' a' n' i' a' colon' by u1F1F1;
+
+  # replace flag: Luxembourg
+  sub colon' l' u' x' e' m' b' o' u' r' g' colon' by u1F1F1;
+
+  # replace flag: Latvia
+  sub colon' l' a' t' v' i' a' colon' by u1F1F1;
+
+  # replace flag: Libya
+  sub colon' l' i' b' y' a' colon' by u1F1F1;
+
+  # replace flag: Morocco
+  sub colon' m' o' r' o' c' c' o' colon' by u1F1F2;
+
+  # replace flag: Monaco
+  sub colon' m' o' n' a' c' o' colon' by u1F1F2;
+
+  # replace flag: Moldova
+  sub colon' m' o' l' d' o' v' a' colon' by u1F1F2;
+
+  # replace flag: Montenegro
+  sub colon' m' o' n' t' e' n' e' g' r' o' colon' by u1F1F2;
+
+  # replace flag: St. Martin
+  sub colon' s' t' underscore' m' a' r' t' i' n' colon' by u1F1F2;
+
+  # replace flag: Madagascar
+  sub colon' m' a' d' a' g' a' s' c' a' r' colon' by u1F1F2;
+
+  # replace flag: Marshall Islands
+  sub colon' m' a' r' s' h' a' l' l' underscore' i' s' l' a' n' d' s' colon' by u1F1F2;
+
+  # replace flag: North Macedonia
+  sub colon' m' a' c' e' d' o' n' i' a' colon' by u1F1F2;
+
+  # replace flag: Mali
+  sub colon' m' a' l' i' colon' by u1F1F2;
+
+  # replace flag: Myanmar (Burma)
+  sub colon' m' y' a' n' m' a' r' colon' by u1F1F2;
+
+  # replace flag: Mongolia
+  sub colon' m' o' n' g' o' l' i' a' colon' by u1F1F2;
+
+  # replace flag: Macao SAR China
+  sub colon' m' a' c' a' u' colon' by u1F1F2;
+
+  # replace flag: Northern Mariana Islands
+  sub colon' n' o' r' t' h' e' r' n' underscore' m' a' r' i' a' n' a' underscore' i' s' l' a' n' d' s' colon' by u1F1F2;
+
+  # replace flag: Martinique
+  sub colon' m' a' r' t' i' n' i' q' u' e' colon' by u1F1F2;
+
+  # replace flag: Mauritania
+  sub colon' m' a' u' r' i' t' a' n' i' a' colon' by u1F1F2;
+
+  # replace flag: Montserrat
+  sub colon' m' o' n' t' s' e' r' r' a' t' colon' by u1F1F2;
+
+  # replace flag: Malta
+  sub colon' m' a' l' t' a' colon' by u1F1F2;
+
+  # replace flag: Mauritius
+  sub colon' m' a' u' r' i' t' i' u' s' colon' by u1F1F2;
+
+  # replace flag: Maldives
+  sub colon' m' a' l' d' i' v' e' s' colon' by u1F1F2;
+
+  # replace flag: Malawi
+  sub colon' m' a' l' a' w' i' colon' by u1F1F2;
+
+  # replace flag: Mexico
+  sub colon' m' e' x' i' c' o' colon' by u1F1F2;
+
+  # replace flag: Malaysia
+  sub colon' m' a' l' a' y' s' i' a' colon' by u1F1F2;
+
+  # replace flag: Mozambique
+  sub colon' m' o' z' a' m' b' i' q' u' e' colon' by u1F1F2;
+
+  # replace flag: Namibia
+  sub colon' n' a' m' i' b' i' a' colon' by u1F1F3;
+
+  # replace flag: New Caledonia
+  sub colon' n' e' w' underscore' c' a' l' e' d' o' n' i' a' colon' by u1F1F3;
+
+  # replace flag: Niger
+  sub colon' n' i' g' e' r' colon' by u1F1F3;
+
+  # replace flag: Norfolk Island
+  sub colon' n' o' r' f' o' l' k' underscore' i' s' l' a' n' d' colon' by u1F1F3;
+
+  # replace flag: Nigeria
+  sub colon' n' i' g' e' r' i' a' colon' by u1F1F3;
+
+  # replace flag: Nicaragua
+  sub colon' n' i' c' a' r' a' g' u' a' colon' by u1F1F3;
+
+  # replace flag: Netherlands
+  sub colon' n' e' t' h' e' r' l' a' n' d' s' colon' by u1F1F3;
+
+  # replace flag: Norway
+  sub colon' n' o' r' w' a' y' colon' by u1F1F3;
+
+  # replace flag: Nepal
+  sub colon' n' e' p' a' l' colon' by u1F1F3;
+
+  # replace flag: Nauru
+  sub colon' n' a' u' r' u' colon' by u1F1F3;
+
+  # replace flag: Niue
+  sub colon' n' i' u' e' colon' by u1F1F3;
+
+  # replace flag: New Zealand
+  sub colon' n' e' w' underscore' z' e' a' l' a' n' d' colon' by u1F1F3;
+
+  # replace flag: Oman
+  sub colon' o' m' a' n' colon' by u1F1F4;
+
+  # replace flag: Panama
+  sub colon' p' a' n' a' m' a' colon' by u1F1F5;
+
+  # replace flag: Peru
+  sub colon' p' e' r' u' colon' by u1F1F5;
+
+  # replace flag: French Polynesia
+  sub colon' f' r' e' n' c' h' underscore' p' o' l' y' n' e' s' i' a' colon' by u1F1F5;
+
+  # replace flag: Papua New Guinea
+  sub colon' p' a' p' u' a' underscore' n' e' w' underscore' g' u' i' n' e' a' colon' by u1F1F5;
+
+  # replace flag: Philippines
+  sub colon' p' h' i' l' i' p' p' i' n' e' s' colon' by u1F1F5;
+
+  # replace flag: Pakistan
+  sub colon' p' a' k' i' s' t' a' n' colon' by u1F1F5;
+
+  # replace flag: Poland
+  sub colon' p' o' l' a' n' d' colon' by u1F1F5;
+
+  # replace flag: St. Pierre & Miquelon
+  sub colon' s' t' underscore' p' i' e' r' r' e' underscore' m' i' q' u' e' l' o' n' colon' by u1F1F5;
+
+  # replace flag: Pitcairn Islands
+  sub colon' p' i' t' c' a' i' r' n' underscore' i' s' l' a' n' d' s' colon' by u1F1F5;
+
+  # replace flag: Puerto Rico
+  sub colon' p' u' e' r' t' o' underscore' r' i' c' o' colon' by u1F1F5;
+
+  # replace flag: Palestinian Territories
+  sub colon' p' a' l' e' s' t' i' n' i' a' n' underscore' t' e' r' r' i' t' o' r' i' e' s' colon' by u1F1F5;
+
+  # replace flag: Portugal
+  sub colon' p' o' r' t' u' g' a' l' colon' by u1F1F5;
+
+  # replace flag: Palau
+  sub colon' p' a' l' a' u' colon' by u1F1F5;
+
+  # replace flag: Paraguay
+  sub colon' p' a' r' a' g' u' a' y' colon' by u1F1F5;
+
+  # replace flag: Qatar
+  sub colon' q' a' t' a' r' colon' by u1F1F6;
+
+  # replace flag: Réunion
+  sub colon' r' e' u' n' i' o' n' colon' by u1F1F7;
+
+  # replace flag: Romania
+  sub colon' r' o' m' a' n' i' a' colon' by u1F1F7;
+
+  # replace flag: Serbia
+  sub colon' s' e' r' b' i' a' colon' by u1F1F7;
+
+  # replace flag: Russia
+  sub colon' r' u' colon' by u1F1F7;
+
+  # replace flag: Rwanda
+  sub colon' r' w' a' n' d' a' colon' by u1F1F7;
+
+  # replace flag: Saudi Arabia
+  sub colon' s' a' u' d' i' underscore' a' r' a' b' i' a' colon' by u1F1F8;
+
+  # replace flag: Solomon Islands
+  sub colon' s' o' l' o' m' o' n' underscore' i' s' l' a' n' d' s' colon' by u1F1F8;
+
+  # replace flag: Seychelles
+  sub colon' s' e' y' c' h' e' l' l' e' s' colon' by u1F1F8;
+
+  # replace flag: Sudan
+  sub colon' s' u' d' a' n' colon' by u1F1F8;
+
+  # replace flag: Sweden
+  sub colon' s' w' e' d' e' n' colon' by u1F1F8;
+
+  # replace flag: Singapore
+  sub colon' s' i' n' g' a' p' o' r' e' colon' by u1F1F8;
+
+  # replace flag: St. Helena
+  sub colon' s' t' underscore' h' e' l' e' n' a' colon' by u1F1F8;
+
+  # replace flag: Slovenia
+  sub colon' s' l' o' v' e' n' i' a' colon' by u1F1F8;
+
+  # replace flag: Svalbard & Jan Mayen
+  sub colon' s' v' a' l' b' a' r' d' underscore' j' a' n' underscore' m' a' y' e' n' colon' by u1F1F8;
+
+  # replace flag: Slovakia
+  sub colon' s' l' o' v' a' k' i' a' colon' by u1F1F8;
+
+  # replace flag: Sierra Leone
+  sub colon' s' i' e' r' r' a' underscore' l' e' o' n' e' colon' by u1F1F8;
+
+  # replace flag: San Marino
+  sub colon' s' a' n' underscore' m' a' r' i' n' o' colon' by u1F1F8;
+
+  # replace flag: Senegal
+  sub colon' s' e' n' e' g' a' l' colon' by u1F1F8;
+
+  # replace flag: Somalia
+  sub colon' s' o' m' a' l' i' a' colon' by u1F1F8;
+
+  # replace flag: Suriname
+  sub colon' s' u' r' i' n' a' m' e' colon' by u1F1F8;
+
+  # replace flag: South Sudan
+  sub colon' s' o' u' t' h' underscore' s' u' d' a' n' colon' by u1F1F8;
+
+  # replace flag: São Tomé & Príncipe
+  sub colon' s' a' o' underscore' t' o' m' e' underscore' p' r' i' n' c' i' p' e' colon' by u1F1F8;
+
+  # replace flag: El Salvador
+  sub colon' e' l' underscore' s' a' l' v' a' d' o' r' colon' by u1F1F8;
+
+  # replace flag: Sint Maarten
+  sub colon' s' i' n' t' underscore' m' a' a' r' t' e' n' colon' by u1F1F8;
+
+  # replace flag: Syria
+  sub colon' s' y' r' i' a' colon' by u1F1F8;
+
+  # replace flag: Eswatini
+  sub colon' s' w' a' z' i' l' a' n' d' colon' by u1F1F8;
+
+  # replace flag: Tristan da Cunha
+  sub colon' t' r' i' s' t' a' n' underscore' d' a' underscore' c' u' n' h' a' colon' by u1F1F9;
+
+  # replace flag: Turks & Caicos Islands
+  sub colon' t' u' r' k' s' underscore' c' a' i' c' o' s' underscore' i' s' l' a' n' d' s' colon' by u1F1F9;
+
+  # replace flag: Chad
+  sub colon' c' h' a' d' colon' by u1F1F9;
+
+  # replace flag: French Southern Territories
+  sub colon' f' r' e' n' c' h' underscore' s' o' u' t' h' e' r' n' underscore' t' e' r' r' i' t' o' r' i' e' s' colon' by u1F1F9;
+
+  # replace flag: Togo
+  sub colon' t' o' g' o' colon' by u1F1F9;
+
+  # replace flag: Thailand
+  sub colon' t' h' a' i' l' a' n' d' colon' by u1F1F9;
+
+  # replace flag: Tajikistan
+  sub colon' t' a' j' i' k' i' s' t' a' n' colon' by u1F1F9;
+
+  # replace flag: Tokelau
+  sub colon' t' o' k' e' l' a' u' colon' by u1F1F9;
+
+  # replace flag: Timor-Leste
+  sub colon' t' i' m' o' r' underscore' l' e' s' t' e' colon' by u1F1F9;
+
+  # replace flag: Turkmenistan
+  sub colon' t' u' r' k' m' e' n' i' s' t' a' n' colon' by u1F1F9;
+
+  # replace flag: Tunisia
+  sub colon' t' u' n' i' s' i' a' colon' by u1F1F9;
+
+  # replace flag: Tonga
+  sub colon' t' o' n' g' a' colon' by u1F1F9;
+
+  # replace flag: Türkiye
+  sub colon' t' r' colon' by u1F1F9;
+
+  # replace flag: Trinidad & Tobago
+  sub colon' t' r' i' n' i' d' a' d' underscore' t' o' b' a' g' o' colon' by u1F1F9;
+
+  # replace flag: Tuvalu
+  sub colon' t' u' v' a' l' u' colon' by u1F1F9;
+
+  # replace flag: Taiwan
+  sub colon' t' a' i' w' a' n' colon' by u1F1F9;
+
+  # replace flag: Tanzania
+  sub colon' t' a' n' z' a' n' i' a' colon' by u1F1F9;
+
+  # replace flag: Ukraine
+  sub colon' u' k' r' a' i' n' e' colon' by u1F1FA;
+
+  # replace flag: Uganda
+  sub colon' u' g' a' n' d' a' colon' by u1F1FA;
+
+  # replace flag: U.S. Outlying Islands
+  sub colon' u' s' underscore' o' u' t' l' y' i' n' g' underscore' i' s' l' a' n' d' s' colon' by u1F1FA;
+
+  # replace flag: United Nations
+  sub colon' u' n' i' t' e' d' underscore' n' a' t' i' o' n' s' colon' by u1F1FA;
+
+  # replace flag: United States
+  sub colon' u' s' colon' by u1F1FA;
+
+  # replace flag: Uruguay
+  sub colon' u' r' u' g' u' a' y' colon' by u1F1FA;
+
+  # replace flag: Uzbekistan
+  sub colon' u' z' b' e' k' i' s' t' a' n' colon' by u1F1FA;
+
+  # replace flag: Vatican City
+  sub colon' v' a' t' i' c' a' n' underscore' c' i' t' y' colon' by u1F1FB;
+
+  # replace flag: St. Vincent & Grenadines
+  sub colon' s' t' underscore' v' i' n' c' e' n' t' underscore' g' r' e' n' a' d' i' n' e' s' colon' by u1F1FB;
+
+  # replace flag: Venezuela
+  sub colon' v' e' n' e' z' u' e' l' a' colon' by u1F1FB;
+
+  # replace flag: British Virgin Islands
+  sub colon' b' r' i' t' i' s' h' underscore' v' i' r' g' i' n' underscore' i' s' l' a' n' d' s' colon' by u1F1FB;
+
+  # replace flag: U.S. Virgin Islands
+  sub colon' u' s' underscore' v' i' r' g' i' n' underscore' i' s' l' a' n' d' s' colon' by u1F1FB;
+
+  # replace flag: Vietnam
+  sub colon' v' i' e' t' n' a' m' colon' by u1F1FB;
+
+  # replace flag: Vanuatu
+  sub colon' v' a' n' u' a' t' u' colon' by u1F1FB;
+
+  # replace flag: Wallis & Futuna
+  sub colon' w' a' l' l' i' s' underscore' f' u' t' u' n' a' colon' by u1F1FC;
+
+  # replace flag: Samoa
+  sub colon' s' a' m' o' a' colon' by u1F1FC;
+
+  # replace flag: Kosovo
+  sub colon' k' o' s' o' v' o' colon' by u1F1FD;
+
+  # replace flag: Yemen
+  sub colon' y' e' m' e' n' colon' by u1F1FE;
+
+  # replace flag: Mayotte
+  sub colon' m' a' y' o' t' t' e' colon' by u1F1FE;
+
+  # replace flag: South Africa
+  sub colon' s' o' u' t' h' underscore' a' f' r' i' c' a' colon' by u1F1FF;
+
+  # replace flag: Zambia
+  sub colon' z' a' m' b' i' a' colon' by u1F1FF;
+
+  # replace flag: Zimbabwe
+  sub colon' z' i' m' b' a' b' w' e' colon' by u1F1FF;
+
+  # replace flag: England
+  sub colon' e' n' g' l' a' n' d' colon' by u1F3F4;
+
+  # replace flag: Scotland
+  sub colon' s' c' o' t' l' a' n' d' colon' by u1F3F4;
+
+  # replace flag: Wales
+  sub colon' w' a' l' e' s' colon' by u1F3F4;
+
+} calt;

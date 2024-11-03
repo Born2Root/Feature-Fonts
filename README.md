@@ -1,37 +1,34 @@
 # Feature-Fonts
+
 On this repository we release some of our fun font experiments using OpenType Font-Features.
 
 Fonts are no serious issue, use them as a playground for your creativity!
 
+[Demos](https://born2root.github.io/Feature-Fonts)
+
 ---
 
-## Friendly Font 😀
-> A s$§t font that is f(%k&!"g censoring itself!
+## Friendly Font
 
-The "friendly Font" is an self censoring intelligent typeface.
-It automatically removes unfriendly words and replaces them with random characters.
-You could ask, what the f(%k?! Which d*?khead comes up with that s$§t!
-... well the nice thing about that solution is, that what you see is not reality.
-The user sees the censored version, but underlying the real uncensored text is still available. That means you do not have to change the source text in any way.
-Isn't that cool? 
+[![Friendly Font demo](friendly_font_demo.png)](./friendly_font/README.md)
 
-Well, try it out yourself!
-
-[DEMO](https://born2root.github.io/Feature-Fonts)
-
-### How to adapt the Font to your swear-words:
-The typeface can be easily adapted via Python.
-
-- Install `rust python python-fonttools`
-- Update `friendly_font_swearWords.txt`
-- Run `cargo run` to generate opentype substitude feature code
-- Run `python3 addfeatures.py -o friendly_font.otf friendly_font.otf substitute.fea` to apply it to a font
-- Reload the `friendly_font_demo.html` to see and test the altered font.
+[README](./friendly_font/README.md)
 
 ---
 
 ## Emoji Font
-Stay tuned, it will be 🥳
+
+[![Emoji Font demo](emoji_font_demo.png)](./emoji_font/README.md)
+
+[README](./emoji_font/README.md)
+
+---
+
+## Icon Font
+
+[![Icon Font demo](icon_font_demo.png)](./icon_font/README.md)
+
+[README](./icon_font/README.md)
 
 ---
 
@@ -43,10 +40,8 @@ If you like the project, we would appreciate your support.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/born2root)
 
 ---
+
 ## Useful Links:
 
 Visit our other Font-Project with focus on speed reading:
 https://github.com/Born2Root/Fast-Font/
-
-
-

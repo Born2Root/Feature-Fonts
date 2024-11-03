@@ -1,0 +1,8 @@
+[package]
+name = "icon_font"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+font-kit = "0.14"
+ttf-parser = "0.25"
